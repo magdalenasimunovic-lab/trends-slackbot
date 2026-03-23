@@ -159,24 +159,18 @@ def _trend_blocks(items: list, fmt: str, heading: str) -> list:
     return blocks
 
 
-def build_payload(country: str, geo: str, new_trends: list, sports: list) -> dict:
-    ts        = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    other     = [t for t in new_trends if t not in sports]
-    page_url  = TRENDS_PAGE_URL.format(geo=geo)
+def build_payload(country: str, geo: str, sports: list) -> dict:
+    """Build a Slack message containing only sports trends for a country."""
+    ts       = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    page_url = TRENDS_PAGE_URL.format(geo=geo)
 
     blocks = [
-        {"type": "header", "text": {"type": "plain_text", "text": f"📊 New Trends — {country}", "emoji": True}},
-        {"type": "context", "elements": [{"type": "mrkdwn", "text": f"🕐 *{ts}*  |  {len(new_trends)} new trend(s)"}]},
+        {"type": "header", "text": {"type": "plain_text", "text": f"⚽ Sports Trends — {country}", "emoji": True}},
+        {"type": "context", "elements": [{"type": "mrkdwn", "text": f"🕐 *{ts}*  |  {len(sports)} new sports trend(s)"}]},
         {"type": "divider"},
     ]
 
-    if sports:
-        blocks.extend(_trend_blocks(sports, "🏆 *{}*", f"*⚽ Sports & Games ({len(sports)})*"))
-        if other:
-            blocks.append({"type": "divider"})
-
-    if other:
-        blocks.extend(_trend_blocks(other, "• {}", f"*📈 Other Trending Topics ({len(other)})*"))
+    blocks.extend(_trend_blocks(sports, "🏆 *{}*", f"*⚽ Trending Sports & Games ({len(sports)})*"))
 
     blocks += [
         {"type": "divider"},
@@ -195,10 +189,7 @@ def build_payload(country: str, geo: str, new_trends: list, sports: list) -> dic
         },
     ]
 
-    summary = f"📊 {len(new_trends)} new trend(s) in {country}"
-    if sports:
-        summary += f" — ⚽ {len(sports)} sports"
-    return {"text": summary, "blocks": blocks}
+    return {"text": f"⚽ {len(sports)} new sports trend(s) in {country}", "blocks": blocks}
 
 
 def send_to_slack(payload: dict):
@@ -234,10 +225,12 @@ def main():
         new_trends = [t for t in trends if t not in seen]
         sports     = [t for t in new_trends if is_sports_trend(t)]
 
-        if new_trends:
-            log.info(f"  ✨ {len(new_trends)} new — {len(sports)} sports")
-            send_to_slack(build_payload(country, geo, new_trends, sports))
+        if sports:
+            log.info(f"  ✨ {len(sports)} new sports trend(s) (out of {len(new_trends)} total new)")
+            send_to_slack(build_payload(country, geo, sports))
             sent += 1
+        elif new_trends:
+            log.info(f"  — {len(new_trends)} new trend(s) but none sports — skipping Slack")
         else:
             log.info(f"  — Nothing new")
 
