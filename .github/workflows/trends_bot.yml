@@ -1,1 +1,37 @@
+name: Google Trends Slack Bot
 
+on:
+  schedule:
+    - cron: "0 * * * *"   # runs every hour at :00
+  workflow_dispatch:       # lets you trigger it manually from GitHub too
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # needed to commit the cache file back to the repo
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run trends bot
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python trends_slackbot.py
+
+      - name: Save cache back to repo
+        run: |
+          git config user.name  "Trends Bot"
+          git config user.email "trends-bot@noreply.github.com"
+          git add trends_cache.json
+          git diff --staged --quiet || git commit -m "chore: update trends cache [skip ci]"
+          git push
