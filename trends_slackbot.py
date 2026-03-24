@@ -121,9 +121,8 @@ def fetch_trending(geo: str, label: str) -> list:
         resp.raise_for_status()
         root = ET.fromstring(resp.content)
         trends = []
-        for item in root.findall(".//item"):
-            el = item.find("title")
-            if el is not None and el.text:
+        for item in root.findall# Split trends into chunked Slack section blocks (max 15 per block)
+       # to stay within Slack's 3000-char per-block and 50-block per-message limits.            if el is not None and el.text:
                 trends.append(el.text.strip())
             if len(trends) >= TOP_N:
                 break
