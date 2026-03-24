@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-"""
-Google Trends Slack Bot — GitHub Actions version
-=================================================
 Runs once per execution. GitHub Actions triggers it every hour via cron.
 The trends cache (trends_cache.json) is committed back to the repo after
 each run so it persists between executions.
