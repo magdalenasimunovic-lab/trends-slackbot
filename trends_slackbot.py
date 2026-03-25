@@ -40,9 +40,9 @@ MARKETS = {
 }
 
 TOP_N           = 200
-CACHE_TTL_HOURS = 24
-TRENDS_RSS_URL  = "https://trends.google.com/trending/rss?geo={geo}&cat=s"
-TRENDS_PAGE_URL = "https://trends.google.com/trending?geo={geo}"
+CACHE_TTL_HOURS = 1    # re-report trends every hour
+TRENDS_RSS_URL  = "https://trends.google.com/trending/rss?geo={geo}&cat=s&hours=24"
+TRENDS_PAGE_URL = "https://trends.google.com/trending?geo={geo}&hours=24"
 
 RSS_HEADERS = {
     "User-Agent": (
@@ -137,7 +137,7 @@ def build_payload(country: str, geo: str, sports: list) -> dict:
 
     blocks = [
         {"type": "header", "text": {"type": "plain_text", "text": "Sports Trends -- " + country, "emoji": True}},
-        {"type": "context", "elements": [{"type": "mrkdwn", "text": "*" + ts + "*  |  " + str(len(sports)) + " new sports trend(s)"}]},
+        {"type": "context", "elements": [{"type": "mrkdwn", "text": "*" + ts + "*  |  " + str(len(sports)) + " new sports trend(s)  |  Past 24 hours"}]},
         {"type": "divider"},
     ]
     blocks.extend(_trend_blocks(sports, "*{}*", "Trending Sports & Games (" + str(len(sports)) + ")"))
@@ -176,7 +176,7 @@ def send_to_slack(payload: dict):
 def main():
     log.info("-" * 50)
     log.info("Trend check -- " + datetime.now().strftime("%Y-%m-%d %H:%M:%S") + " UTC")
-    log.info("Sports filter: Google Trends cat=s (built-in)")
+    log.info("Filter: Sports (cat=s) | Past 24 hours | 9 markets")
     log.info("-" * 50)
 
     cache = load_cache()
