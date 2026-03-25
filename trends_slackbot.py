@@ -3,8 +3,14 @@
 Google Trends Slack Bot - GitHub Actions version
 =================================================
 Runs once per execution. GitHub Actions triggers it every hour via cron.
-Fetches all trending topics (past 24 hours) across 9 markets, sorted by
-search volume (highest relevance first).
+
+Filters applied in code (RSS feed ignores URL filter params):
+  - Sports only  : trend's news articles come from known sports sources
+  - Active only  : trend pubDate is within the last ACTIVE_HOURS hours
+  - By relevance : sorted by search volume (ht:approx_traffic) descending
+
+The "View on Google Trends" button links to the web page with all three
+website filters pre-applied (category=17, status=active, hours=24).
 
 Requires one GitHub secret:
   SLACK_WEBHOOK_URL  -- Slack Incoming Webhook URL
@@ -19,6 +25,7 @@ import time
 import logging
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 import requests
@@ -41,10 +48,18 @@ MARKETS = {
 
 TOP_N           = 200
 CACHE_TTL_HOURS = 1    # re-report trends every hour
-TRENDS_RSS_URL  = "https://trends.google.com/trending/rss?geo={geo}&hours=24"
-TRENDS_PAGE_URL = "https://trends.google.com/trending?geo={geo}&hours=24"
+ACTIVE_HOURS    = 4    # mirror "Show active trends only" -- trends started within 4h
 
-HT_NS = "https://trends.google.com/trends/"  # namespace for ht:approx_traffic
+# RSS feed -- geo is the only param it actually respects
+TRENDS_RSS_URL  = "https://trends.google.com/trending/rss?geo={geo}"
+
+# Web page link uses the real UI filters: Sports + Active + 24h
+TRENDS_PAGE_URL = (
+    "https://trends.google.com/trending"
+    "?geo={geo}&category=17&status=active&hours=24"
+)
+
+HT_NS = "https://trends.google.com/trends/"
 
 RSS_HEADERS = {
     "User-Agent": (
@@ -58,6 +73,69 @@ RSS_HEADERS = {
 
 CACHE_FILE = Path("trends_cache.json")
 
+# -- Sports detection ----------------------------------------------------------
+# The RSS feed ignores &cat=s / &category=17, so we detect sports by checking
+# whether the trend's news articles come from known sports outlets.
+
+SPORTS_SOURCES = {
+    "espn", "yahoo sports", "bbc sport", "sky sports", "the athletic",
+    "bleacher report", "sports illustrated", "fox sports", "cbs sports",
+    "nbc sports", "nfl.com", "nba.com", "mlb.com", "nhl.com",
+    "goal", "goal.com", "sporting news", "90min", "marca", "as.com",
+    "la gazzetta", "gazzetta dello sport", "corriere dello sport",
+    "globo esporte", "lance!", "lance", "uol esporte",
+    "talksport", "cafonline", "transfermarkt", "fotmob",
+    "golf digest", "golf channel", "motorsport", "formula1",
+    "tennis.com", "ufc.com", "boxingscene", "mmafighting",
+    "mlssoccer", "bundesliga", "premierleague", "laliga",
+    "fifa.com", "uefa.com", "olympics.com", "wta.com", "atptour.com",
+    "lequipe", "equipe", "sport.es", "mundo deportivo",
+    "sportbible", "givemesport", "eurosport", "sportstar",
+    "cricket.com", "cricinfo", "espncricinfo",
+    "nascar.com", "f1.com", "motorsportweek", "autosport",
+    "draftnetwork", "tankathon", "rotowire", "fantasypros",
+    "polymarket",
+}
+
+SPORTS_TITLE_KEYWORDS = {
+    # Match/game indicators (covers all markets + Brazilian "x" format)
+    " vs ", " vs. ", " v ", " x ",  # "Flamengo x Corinthians", "City vs United"
+    "vs.", " fc ", " sc ", " cf ",   # club abbreviations
+    # Leagues & competitions
+    "nfl", "nba", "mlb", "nhl", "mls",
+    "fifa", "uefa", "champions league", "premier league", "la liga",
+    "serie a", "bundesliga", "ligue 1", "copa", "world cup", "euro ",
+    "masters", "grand slam", "wimbledon", "roland garros", "us open",
+    "super bowl", "world series", "stanley cup", "nba finals", "super league",
+    "libertadores", "sudamericana", "brasileirao", "campeonato",
+    # In-game / results
+    "transfer", "draft", "lineup", "fixture", "standings", "matchday",
+    "goal", "scored", "defeated", "wins", "loses", "draw", "final score",
+    # Motor & other sports
+    "formula 1", "f1 ", "motogp", "nascar", "grand prix",
+    "olympics", "commonwealth games",
+    "ufc ", "wwe ", "boxing", "bout", "knockout", "fight night",
+}
+
+
+def is_sports(title: str, sources: list) -> bool:
+    # 1. Sports news source match
+    sources_lower = {s.lower() for s in sources}
+    if sources_lower & SPORTS_SOURCES:
+        return True
+    title_lower = title.lower()
+    # 2. "vs" pattern in any form: "Team vs Team", "teamvsteam", "Team vs. Team"
+    if re.search(r'\bvs\.?\b', title_lower):
+        return True
+    # 3. Brazilian/Portuguese match format: "Flamengo x Corinthians"
+    if re.search(r'\b\w+\s+x\s+\w+', title_lower):
+        return True
+    # 4. Other sports keywords
+    for kw in SPORTS_TITLE_KEYWORDS:
+        if kw in title_lower:
+            return True
+    return False
+
 # -- Logging -------------------------------------------------------------------
 
 logging.basicConfig(
@@ -70,7 +148,6 @@ log = logging.getLogger(__name__)
 # -- Helpers -------------------------------------------------------------------
 
 def parse_traffic(raw: str) -> int:
-    # Convert "1M+", "200K+", "50K+", "500+" to an integer for sorting
     raw = raw.strip().replace("+", "").replace(",", "")
     m = re.match(r"([\d.]+)([KMB]?)", raw, re.IGNORECASE)
     if not m:
@@ -78,6 +155,17 @@ def parse_traffic(raw: str) -> int:
     val, suffix = float(m.group(1)), m.group(2).upper()
     multipliers = {"K": 1_000, "M": 1_000_000, "B": 1_000_000_000}
     return int(val * multipliers.get(suffix, 1))
+
+
+def is_active(pub_date_str: str) -> bool:
+    if not pub_date_str:
+        return True
+    try:
+        pub_dt = parsedate_to_datetime(pub_date_str)
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=ACTIVE_HOURS)
+        return pub_dt >= cutoff
+    except Exception:
+        return True
 
 # -- Cache helpers -------------------------------------------------------------
 
@@ -90,13 +178,16 @@ def load_cache() -> dict:
             log.warning("Cache corrupted -- starting fresh.")
     return {}
 
+
 def save_cache(cache: dict):
     with open(CACHE_FILE, "w") as f:
         json.dump(cache, f, indent=2, ensure_ascii=False)
 
+
 def get_seen_trends(cache: dict, country: str) -> set:
     cutoff = (datetime.now(timezone.utc) - timedelta(hours=CACHE_TTL_HOURS)).isoformat()
     return {t for t, ts in cache.get(country, {}).items() if ts >= cutoff}
+
 
 def update_cache(cache: dict, country: str, titles: list):
     now    = datetime.now(timezone.utc).isoformat()
@@ -110,35 +201,64 @@ def update_cache(cache: dict, country: str, titles: list):
 # -- Fetcher -------------------------------------------------------------------
 
 def fetch_trending(geo: str, label: str) -> list:
-    # Returns list of dicts: {"title": str, "traffic": str, "traffic_val": int}
-    # sorted by traffic_val descending (most searched first)
+    """
+    Fetch all trends, apply sports + active filters in code, sort by relevance.
+    Returns list of dicts: {title, traffic, traffic_val}
+    """
     url = TRENDS_RSS_URL.format(geo=geo)
     try:
         resp = requests.get(url, headers=RSS_HEADERS, timeout=15)
         resp.raise_for_status()
         root = ET.fromstring(resp.content)
-        trends = []
+
+        all_items, skipped_sports, skipped_active = [], 0, 0
+
         for item in root.findall(".//item"):
             title_el   = item.find("title")
             traffic_el = item.find(f"{{{HT_NS}}}approx_traffic")
+            pubdate_el = item.find("pubDate")
 
             if title_el is None or not title_el.text:
                 continue
 
-            title   = title_el.text.strip()
-            traffic = traffic_el.text.strip() if traffic_el is not None and traffic_el.text else ""
-            trends.append({
+            title    = title_el.text.strip()
+            traffic  = traffic_el.text.strip() if traffic_el is not None and traffic_el.text else ""
+            pub_date = pubdate_el.text.strip() if pubdate_el is not None and pubdate_el.text else ""
+
+            # Collect news sources for sports detection
+            sources = [
+                src.text.strip()
+                for src in item.findall(f".//{{{HT_NS}}}news_item_source")
+                if src.text
+            ]
+
+            # Filter: sports only
+            if not is_sports(title, sources):
+                skipped_sports += 1
+                continue
+
+            # Filter: active trends only (started within ACTIVE_HOURS)
+            if not is_active(pub_date):
+                skipped_active += 1
+                continue
+
+            all_items.append({
                 "title":       title,
                 "traffic":     traffic,
                 "traffic_val": parse_traffic(traffic) if traffic else 0,
             })
-            if len(trends) >= TOP_N:
+
+            if len(all_items) >= TOP_N:
                 break
 
-        # Sort highest search volume first
-        trends.sort(key=lambda x: x["traffic_val"], reverse=True)
-        log.info(f"  [{label}] fetched {len(trends)} trends")
-        return trends
+        # Sort by relevance (search volume) highest first
+        all_items.sort(key=lambda x: x["traffic_val"], reverse=True)
+        log.info(
+            f"  [{label}] {len(all_items)} active sports trends "
+            f"(skipped {skipped_sports} non-sports, {skipped_active} inactive)"
+        )
+        return all_items
+
     except requests.HTTPError as e:
         log.warning(f"  [{label}] HTTP {e.response.status_code}")
     except Exception as e:
@@ -148,17 +268,16 @@ def fetch_trending(geo: str, label: str) -> list:
 # -- Slack ---------------------------------------------------------------------
 
 def _trend_blocks(items: list, heading: str) -> list:
-    # Split trends into chunked Slack section blocks (max 15 per block)
-    # to stay within Slack 3000-char per-block and 50-block per-message limits.
+    # Chunked Slack section blocks, max 15 per block to stay within limits.
     blocks = [{"type": "section", "text": {"type": "mrkdwn", "text": heading}}]
     for i in range(0, len(items), 15):
         chunk = items[i:i + 15]
         lines = []
         for item in chunk:
-            label = f"*{item['title']}*"
+            line = f"*{item['title']}*"
             if item["traffic"]:
-                label += f"  `{item['traffic']} searches`"
-            lines.append(label)
+                line += f"  `{item['traffic']} searches`"
+            lines.append(line)
         blocks.append({
             "type": "section",
             "text": {"type": "mrkdwn", "text": "\n".join(lines)},
@@ -171,11 +290,20 @@ def build_payload(country: str, geo: str, trends: list) -> dict:
     page_url = TRENDS_PAGE_URL.format(geo=geo)
 
     blocks = [
-        {"type": "header", "text": {"type": "plain_text", "text": f"Trending Now -- {country}", "emoji": True}},
-        {"type": "context", "elements": [{"type": "mrkdwn", "text": f"*{ts}*  |  {len(trends)} new trend(s)  |  Past 24h  |  Sorted by relevance"}]},
+        {
+            "type": "header",
+            "text": {"type": "plain_text", "text": f"Sports Trends -- {country}", "emoji": True},
+        },
+        {
+            "type": "context",
+            "elements": [{"type": "mrkdwn", "text": (
+                f"*{ts}*  |  {len(trends)} trend(s)  "
+                f"|  Sports  |  Active only  |  By relevance"
+            )}],
+        },
         {"type": "divider"},
     ]
-    blocks.extend(_trend_blocks(trends, f"*Trending ({len(trends)})*"))
+    blocks.extend(_trend_blocks(trends, f"*Trending Now ({len(trends)})*"))
     blocks += [
         {"type": "divider"},
         {
@@ -189,10 +317,12 @@ def build_payload(country: str, geo: str, trends: list) -> dict:
         },
         {
             "type": "context",
-            "elements": [{"type": "mrkdwn", "text": f"<{page_url}|Google Trends -- {country}> - Trends Slack Bot"}],
+            "elements": [{"type": "mrkdwn", "text": (
+                f"<{page_url}|Google Trends -- {country}> - Trends Slack Bot"
+            )}],
         },
     ]
-    return {"text": f"{len(trends)} new trend(s) in {country}", "blocks": blocks}
+    return {"text": f"{len(trends)} active sports trend(s) in {country}", "blocks": blocks}
 
 
 def send_to_slack(payload: dict):
@@ -209,10 +339,10 @@ def send_to_slack(payload: dict):
 # -- Main ----------------------------------------------------------------------
 
 def main():
-    log.info("-" * 50)
+    log.info("-" * 60)
     log.info(f"Trend check -- {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC")
-    log.info(f"Filter: All trends | Past 24h | Sorted by relevance | {len(MARKETS)} markets")
-    log.info("-" * 50)
+    log.info(f"Filters: Sports | Active (<{ACTIVE_HOURS}h) | By relevance | {len(MARKETS)} markets")
+    log.info("-" * 60)
 
     cache = load_cache()
     sent  = 0
@@ -247,4 +377,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
