@@ -3,9 +3,7 @@
 Google Trends Slack Bot - GitHub Actions version
 =================================================
 Runs once per execution. GitHub Actions triggers it every hour via cron.
-Fetches sports-only trends using Google Trends built-in Sports category
-filter (?cat=s) -- so team names, player names, match results and
-tournaments are all included without any keyword matching needed.
+Fetches all trending topics (past 24 hours) across 9 markets.
 
 Requires one GitHub secret:
   SLACK_WEBHOOK_URL  -- Slack Incoming Webhook URL
@@ -28,20 +26,20 @@ import requests
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL", "")
 
 MARKETS = {
-    "Brazil":   "BR",
-    "USA":      "US",
-    "Mexico":   "MX",
-    "Nigeria":  "NG",
-    "Italy":    "IT",
-    "Morocco":  "MA",
-    "Spain":    "ES",
-    "UK":       "GB",
-    "Canada":   "CA",
+    "🇧🇷 Brazil":   "BR",
+    "🇺🇸 USA":      "US",
+    "🇲🇽 Mexico":   "MX",
+    "🇳🇬 Nigeria":  "NG",
+    "🇮🇹 Italy":    "IT",
+    "🇲🇦 Morocco":  "MA",
+    "🇪🇸 Spain":    "ES",
+    "🇬🇧 UK":       "GB",
+    "🇨🇦 Canada":   "CA",
 }
 
 TOP_N           = 200
 CACHE_TTL_HOURS = 1    # re-report trends every hour
-TRENDS_RSS_URL  = "https://trends.google.com/trending/rss?geo={geo}&cat=s&hours=24"
+TRENDS_RSS_URL  = "https://trends.google.com/trending/rss?geo={geo}&hours=24"
 TRENDS_PAGE_URL = "https://trends.google.com/trending?geo={geo}&hours=24"
 
 RSS_HEADERS = {
@@ -136,11 +134,11 @@ def build_payload(country: str, geo: str, sports: list) -> dict:
     page_url = TRENDS_PAGE_URL.format(geo=geo)
 
     blocks = [
-        {"type": "header", "text": {"type": "plain_text", "text": "Sports Trends -- " + country, "emoji": True}},
-        {"type": "context", "elements": [{"type": "mrkdwn", "text": "*" + ts + "*  |  " + str(len(sports)) + " new sports trend(s)  |  Past 24 hours"}]},
+        {"type": "header", "text": {"type": "plain_text", "text": f"Trending Now -- {country}", "emoji": True}},
+        {"type": "context", "elements": [{"type": "mrkdwn", "text": f"*{ts}*  |  {len(sports)} new trend(s)  |  Past 24 hours"}]},
         {"type": "divider"},
     ]
-    blocks.extend(_trend_blocks(sports, "*{}*", "Trending Sports & Games (" + str(len(sports)) + ")"))
+    blocks.extend(_trend_blocks(sports, "*{}*", f"*Trending ({len(sports)})*"))
     blocks += [
         {"type": "divider"},
         {
@@ -154,10 +152,10 @@ def build_payload(country: str, geo: str, sports: list) -> dict:
         },
         {
             "type": "context",
-            "elements": [{"type": "mrkdwn", "text": "<" + page_url + "|Google Trends -- " + country + "> - Trends Slack Bot"}],
+            "elements": [{"type": "mrkdwn", "text": f"<{page_url}|Google Trends -- {country}> · Trends Slack Bot"}],
         },
     ]
-    return {"text": str(len(sports)) + " new sports trend(s) in " + country, "blocks": blocks}
+    return {"text": f"{len(sports)} new trend(s) in {country}", "blocks": blocks}
 
 
 def send_to_slack(payload: dict):
@@ -175,15 +173,15 @@ def send_to_slack(payload: dict):
 
 def main():
     log.info("-" * 50)
-    log.info("Trend check -- " + datetime.now().strftime("%Y-%m-%d %H:%M:%S") + " UTC")
-    log.info("Filter: Sports (cat=s) | Past 24 hours | 9 markets")
+    log.info(f"Trend check -- {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC")
+    log.info(f"Filter: All trends | Past 24 hours | {len(MARKETS)} markets")
     log.info("-" * 50)
 
     cache = load_cache()
     sent  = 0
 
     for country, geo in MARKETS.items():
-        log.info("Checking " + country + " ...")
+        log.info(f"Checking {country} ...")
         trends = fetch_trending(geo, country)
 
         if not trends:
@@ -194,12 +192,12 @@ def main():
         new_trends = [t for t in trends if t not in seen]
 
         if not new_trends:
-            log.info("  -- Nothing new")
+            log.info(f"  -- Nothing new")
             update_cache(cache, country, trends)
             time.sleep(3)
             continue
 
-        log.info("  " + str(len(new_trends)) + " new sports trend(s) -- sending to Slack")
+        log.info(f"  {len(new_trends)} new trend(s) -- sending to Slack")
         send_to_slack(build_payload(country, geo, new_trends))
         sent += 1
 
@@ -207,7 +205,7 @@ def main():
         time.sleep(3)
 
     save_cache(cache)
-    log.info("Done. Sent " + str(sent) + "/" + str(len(MARKETS)) + " notifications.")
+    log.info(f"Done. Sent {sent}/{len(MARKETS)} notifications.")
 
 
 if __name__ == "__main__":
