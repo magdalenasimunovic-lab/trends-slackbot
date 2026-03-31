@@ -112,17 +112,27 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "mlb": "2026-03-31T05:57:33.041531+00:00"
+    "luxemburgo x malta": "2026-03-31T16:35:48.652467+00:00",
+    "kosovo x turquia": "2026-03-31T16:35:48.652467+00:00"
   },
   "USA": {
-    "ecuador vs netherlands": "2026-03-31T12:07:00.899042+00:00"
+    "norway vs switzerland": "2026-03-31T16:35:51.956222+00:00",
+    "haiti vs iceland": "2026-03-31T16:35:51.956222+00:00"
   },
   "Mexico": {
-    "australia vs": "2026-03-31T12:07:04.428867+00:00"
+    "serbia vs": "2026-03-31T16:35:55.168633+00:00",
+    "iran vs": "2026-03-31T16:35:55.168633+00:00",
+    "fifa tickets": "2026-03-31T16:35:55.168633+00:00",
+    "kosovo vs turquia": "2026-03-31T16:35:55.168633+00:00"
   },
   "Nigeria": {
-    "australia vs curacao": "2026-03-31T12:07:07.992386+00:00",
-    "equatorial guinea vs madagascar": "2026-03-31T12:07:07.992386+00:00"
+    "luxembourg vs malta": "2026-03-31T16:35:58.944966+00:00",
+    "latvia vs gibraltar": "2026-03-31T16:35:58.944966+00:00",
+    "syria vs afghanistan": "2026-03-31T16:35:58.944966+00:00",
+    "liberia vs libya": "2026-03-31T16:35:58.944966+00:00",
+    "norway vs switzerland": "2026-03-31T16:35:58.944966+00:00",
+    "mauritius vs somalia": "2026-03-31T16:35:58.944966+00:00",
+    "eswatini vs eritrea": "2026-03-31T16:35:58.944966+00:00"
   },
   "Italy": {
     "singapore vs bangladesh": "2026-03-31T12:07:11.249413+00:00"
@@ -131,12 +141,14 @@
     "germany vs ghana": "2026-03-30T23:53:49.157877+00:00"
   },
   "Spain": {
-    "ecuador vs paises bajos": "2026-03-31T12:07:18.270184+00:00"
+    "marruecos vs paraguay": "2026-03-31T16:36:09.475459+00:00"
   },
   "UK": {
-    "singapore vs bangladesh": "2026-03-31T12:07:21.664522+00:00"
+    "norway vs switzerland": "2026-03-31T16:36:12.978143+00:00",
+    "italy vs bosnia": "2026-03-31T16:36:12.978143+00:00",
+    "luxembourg vs malta": "2026-03-31T16:36:12.978143+00:00"
   },
   "Canada": {
-    "celtics vs hawks": "2026-03-30T23:53:59.432125+00:00"
+    "eritrea vs eswatini": "2026-03-31T16:36:16.201261+00:00"
   }
 }
