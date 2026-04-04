@@ -112,28 +112,33 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "brusque x caxias": "2026-04-04T21:03:17.976202+00:00",
-    "união rondonópolis x capital": "2026-04-04T21:03:17.976202+00:00",
-    "náutico x ponte preta": "2026-04-04T21:03:17.976202+00:00",
-    "cuiabá x ceará sc": "2026-04-04T21:03:17.976202+00:00"
+    "76ers x pistons": "2026-04-04T23:02:14.348597+00:00",
+    "inter miami x austin": "2026-04-04T23:02:14.348597+00:00",
+    "londrina x sport recife": "2026-04-04T23:02:14.348597+00:00",
+    "querétaro x toluca": "2026-04-04T23:02:14.348597+00:00",
+    "brasil sub-17 x bolívia sub-20": "2026-04-04T23:02:14.348597+00:00",
+    "monterrey x atlético san luis": "2026-04-04T23:02:14.348597+00:00"
   },
   "USA": {
-    "bruins vs lightning": "2026-04-04T21:03:21.274174+00:00",
-    "panthers vs penguins": "2026-04-04T21:03:21.274174+00:00",
-    "são paulo x cruzeiro": "2026-04-04T21:03:21.274174+00:00"
+    "austin fc - inter miami": "2026-04-04T23:02:17.679369+00:00",
+    "sabres vs capitals": "2026-04-04T23:02:17.679369+00:00",
+    "columbus vs atlanta united": "2026-04-04T23:02:17.679369+00:00",
+    "st. louis vs new york city": "2026-04-04T23:02:17.679369+00:00",
+    "islanders vs hurricanes": "2026-04-04T23:02:17.679369+00:00"
   },
   "Mexico": {
-    "ajax vs twente": "2026-04-04T21:03:24.488544+00:00"
+    "austin fc - inter miami": "2026-04-04T23:02:21.009218+00:00",
+    "santos vs america": "2026-04-04T23:02:21.009218+00:00"
   },
   "Nigeria": {
-    "porto vs": "2026-04-04T21:03:28.156513+00:00",
-    "nuggets vs spurs": "2026-04-04T21:03:28.156513+00:00"
+    "chisora vs wilder": "2026-04-04T23:02:24.597547+00:00",
+    "heat vs wizards": "2026-04-04T23:02:24.597547+00:00"
   },
   "Italy": {
     "basket serie a": "2026-04-04T19:45:25.458464+00:00"
   },
   "Morocco": {
-    "al-hilal vs al-taawoun": "2026-04-04T21:03:35.241136+00:00"
+    "al-hilal vs al-taawoun": "2026-04-04T23:02:31.606312+00:00"
   },
   "Spain": {
     "atlético madryt – fc barcelona": "2026-04-04T19:45:32.658940+00:00"
@@ -142,7 +147,9 @@
     "heat vs wizards": "2026-04-04T19:45:36.194768+00:00"
   },
   "Canada": {
-    "bruins vs lightning": "2026-04-04T21:03:45.402794+00:00",
-    "panthers vs penguins": "2026-04-04T21:03:45.402794+00:00"
+    "jets vs blue jackets": "2026-04-04T23:02:41.962127+00:00",
+    "mammoth vs canucks": "2026-04-04T23:02:41.962127+00:00",
+    "pistons vs 76ers": "2026-04-04T23:02:41.962127+00:00",
+    "marlins vs yankees": "2026-04-04T23:02:41.962127+00:00"
   }
 }
