@@ -112,26 +112,27 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "real madrid x bayern": "2026-04-06T17:32:25.991968+00:00"
+    "casa pia x benfica": "2026-04-06T20:03:28.314617+00:00"
   },
   "USA": {
-    "barcelona vs levante badalona": "2026-04-06T17:32:29.333753+00:00"
+    "cubs vs rays": "2026-04-06T20:03:31.556790+00:00"
   },
   "Mexico": {
     "napoli vs": "2026-04-06T17:32:32.909803+00:00",
     "girona vs villarreal": "2026-04-06T17:32:32.909803+00:00"
   },
   "Nigeria": {
-    "barcelona vs levante badalona": "2026-04-06T17:32:36.610221+00:00",
-    "swansea vs middlesbrough": "2026-04-06T17:32:36.610221+00:00",
-    "preston vs qpr": "2026-04-06T17:32:36.610221+00:00",
-    "kkr vs pbks": "2026-04-06T17:32:36.610221+00:00"
+    "casa pia vs benfica": "2026-04-06T20:03:38.808994+00:00",
+    "arouca vs estoril praia": "2026-04-06T20:03:38.808994+00:00",
+    "hull vs coventry": "2026-04-06T20:03:38.808994+00:00",
+    "sporting vs arsenal": "2026-04-06T20:03:38.808994+00:00",
+    "napoli vs milan": "2026-04-06T20:03:38.808994+00:00"
   },
   "Italy": {
-    "kkr vs pbks": "2026-04-06T14:16:56.326711+00:00"
+    "girona vs villarreal": "2026-04-06T20:03:42.465781+00:00"
   },
   "Morocco": {
-    "juventus vs genoa": "2026-04-06T17:32:43.864957+00:00"
+    "girona vs villarreal": "2026-04-06T20:03:46.552319+00:00"
   },
   "Spain": {
     "kkr vs pbks": "2026-04-06T14:17:03.332367+00:00"
@@ -141,6 +142,7 @@
     "radio x top 500": "2026-04-06T17:32:55.051826+00:00"
   },
   "Canada": {
-    "barcelona vs levante badalona": "2026-04-06T17:32:58.559449+00:00"
+    "hull vs coventry": "2026-04-06T20:03:57.204075+00:00",
+    "casa pia vs benfica": "2026-04-06T20:03:57.204075+00:00"
   }
 }
