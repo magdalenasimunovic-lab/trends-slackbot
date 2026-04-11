@@ -112,18 +112,26 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "ea sports fc 26": "2026-04-11T21:49:38.178099+00:00",
-    "maracanã x moto club": "2026-04-11T21:49:38.178099+00:00"
+    "inter miami x ny red bulls": "2026-04-11T23:05:23.674878+00:00",
+    "barra x maranhão": "2026-04-11T23:05:23.674878+00:00",
+    "ceará sc x náutico": "2026-04-11T23:05:23.674878+00:00"
   },
   "USA": {
-    "jason day masters outfit": "2026-04-11T21:49:41.413074+00:00"
+    "panthers vs maple leafs": "2026-04-11T23:05:27.140091+00:00",
+    "new york city vs vancouver": "2026-04-11T23:05:27.140091+00:00",
+    "blue jackets vs canadiens": "2026-04-11T23:05:27.140091+00:00",
+    "d.c. united vs new england": "2026-04-11T23:05:27.140091+00:00",
+    "ny red bulls vs inter miami": "2026-04-11T23:05:27.140091+00:00",
+    "flyers vs jets": "2026-04-11T23:05:27.140091+00:00"
   },
   "Mexico": {
-    "fluminense vs flamengo": "2026-04-11T21:49:44.811900+00:00"
+    "masters leaderboard": "2026-04-11T23:05:30.879436+00:00"
   },
   "Nigeria": {
-    "wwe smackdown": "2026-04-11T21:49:48.513498+00:00",
-    "saudi pro league standings": "2026-04-11T21:49:48.513498+00:00"
+    "inter miami vs ny red bulls": "2026-04-11T23:05:34.565141+00:00",
+    "austin vs la galaxy": "2026-04-11T23:05:34.565141+00:00",
+    "portland vs lafc": "2026-04-11T23:05:34.565141+00:00",
+    "wwe smackdown": "2026-04-11T23:05:34.565141+00:00"
   },
   "Italy": {
     "barcelona vs espanyol": "2026-04-11T16:01:44.693313+00:00"
@@ -136,10 +144,14 @@
     "premier league table": "2026-04-11T14:07:14.242400+00:00"
   },
   "UK": {
-    "ufc 327": "2026-04-11T21:50:01.871912+00:00"
+    "inter miami vs ny red bulls": "2026-04-11T23:05:48.493663+00:00"
   },
   "Canada": {
-    "hurricanes vs mammoth": "2026-04-11T21:50:05.401430+00:00",
-    "rangers vs stars": "2026-04-11T21:50:05.401430+00:00"
+    "flyers vs jets": "2026-04-11T23:05:52.251593+00:00",
+    "new york city vs vancouver": "2026-04-11T23:05:52.251593+00:00",
+    "flames vs kraken": "2026-04-11T23:05:52.251593+00:00",
+    "santos vs atlético mineiro": "2026-04-11T23:05:52.251593+00:00",
+    "ny red bulls vs inter miami": "2026-04-11T23:05:52.251593+00:00",
+    "panthers vs maple leafs": "2026-04-11T23:05:52.251593+00:00"
   }
 }
