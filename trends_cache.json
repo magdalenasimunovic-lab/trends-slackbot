@@ -112,23 +112,30 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "caxias x confiança": "2026-04-12T19:54:36.377927+00:00"
+    "amazonas fc x ituano": "2026-04-12T21:52:18.014218+00:00",
+    "celtics x magic": "2026-04-12T21:52:18.014218+00:00"
   },
   "USA": {
-    "mallorca vs rayo vallecano": "2026-04-12T14:10:15.716156+00:00"
+    "nba starting lineups": "2026-04-12T21:52:21.434532+00:00",
+    "magic vs celtics": "2026-04-12T21:52:21.434532+00:00",
+    "hornets vs knicks": "2026-04-12T21:52:21.434532+00:00",
+    "bucks vs 76ers": "2026-04-12T21:52:21.434532+00:00"
   },
   "Mexico": {
-    "mainz 05 vs. friburgo": "2026-04-12T19:54:42.868154+00:00"
+    "partido chelsea vs manchester city": "2026-04-12T21:52:25.092381+00:00",
+    "racing vs river plate": "2026-04-12T21:52:25.092381+00:00",
+    "fluminense vs flamengo": "2026-04-12T21:52:25.092381+00:00"
   },
   "Nigeria": {
-    "estoril praia vs porto": "2026-04-12T19:54:46.438726+00:00",
-    "athletic club vs villarreal": "2026-04-12T19:54:46.438726+00:00"
+    "fluminense vs flamengo": "2026-04-12T21:52:28.809147+00:00",
+    "serie a": "2026-04-12T21:52:28.809147+00:00",
+    "serie a standings": "2026-04-12T21:52:28.809147+00:00"
   },
   "Italy": {
     "rcb vs mi": "2026-04-12T14:10:27.343532+00:00"
   },
   "Morocco": {
-    "como vs inter": "2026-04-12T19:54:53.431585+00:00"
+    "como vs inter": "2026-04-12T21:52:35.880387+00:00"
   },
   "Spain": {
     "monte carlo masters": "2026-04-12T14:10:34.788785+00:00"
@@ -138,7 +145,9 @@
     "has justin rose won the masters": "2026-04-12T19:55:00.311051+00:00"
   },
   "Canada": {
-    "has justin rose won the masters": "2026-04-12T19:55:03.883688+00:00",
-    "estoril praia vs porto": "2026-04-12T19:55:03.883688+00:00"
+    "canadiens vs islanders": "2026-04-12T21:52:46.391058+00:00",
+    "back to back masters winners": "2026-04-12T21:52:46.391058+00:00",
+    "nets vs raptors": "2026-04-12T21:52:46.391058+00:00",
+    "fluminense vs flamengo": "2026-04-12T21:52:46.391058+00:00"
   }
 }
