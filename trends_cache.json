@@ -112,22 +112,29 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "sousa x abc": "2026-04-25T18:45:55.857112+00:00"
+    "sousa x abc": "2026-04-25T18:45:55.857112+00:00",
+    "vitória sc x rio ave": "2026-04-25T19:41:30.822698+00:00",
+    "ceilândia x capital": "2026-04-25T19:41:30.822698+00:00"
   },
   "USA": {
     "2023 nfl draft": "2026-04-25T18:45:59.129455+00:00",
-    "toulouse vs monaco": "2026-04-25T18:45:59.129455+00:00"
+    "toulouse vs monaco": "2026-04-25T18:45:59.129455+00:00",
+    "india women vs south africa women": "2026-04-25T19:41:34.081078+00:00"
   },
   "Mexico": {
     "ajax vs": "2026-04-25T18:46:02.573545+00:00",
-    "heerenveen vs": "2026-04-25T18:46:02.573545+00:00"
+    "heerenveen vs": "2026-04-25T18:46:02.573545+00:00",
+    "monaco vs": "2026-04-25T19:41:37.512961+00:00",
+    "nyc fc - montréal": "2026-04-25T19:41:37.512961+00:00"
   },
   "Nigeria": {
     "atlético madrid vs athletic club": "2026-04-25T18:46:06.353178+00:00",
     "magic vs pistons": "2026-04-25T18:46:06.353178+00:00",
     "nac vs ajax": "2026-04-25T18:46:06.353178+00:00",
     "man city standings": "2026-04-25T18:46:06.353178+00:00",
-    "verona vs lecce": "2026-04-25T18:46:06.353178+00:00"
+    "verona vs lecce": "2026-04-25T18:46:06.353178+00:00",
+    "man city fixtures": "2026-04-25T19:41:41.096225+00:00",
+    "table premier league": "2026-04-25T19:41:41.096225+00:00"
   },
   "Italy": {
     "bologna vs roma": "2026-04-25T15:37:19.408172+00:00"
@@ -145,10 +152,15 @@
   "UK": {
     "atlético madrid vs athletic club": "2026-04-25T18:46:20.026189+00:00",
     "when does the world cup start": "2026-04-25T18:46:20.026189+00:00",
-    "toulouse vs monaco": "2026-04-25T18:46:20.026189+00:00"
+    "toulouse vs monaco": "2026-04-25T18:46:20.026189+00:00",
+    "france vs ireland": "2026-04-25T19:41:54.802327+00:00",
+    "suns vs thunder": "2026-04-25T19:41:54.802327+00:00"
   },
   "Canada": {
     "atlético madrid vs athletic club": "2026-04-25T18:46:23.473375+00:00",
-    "new york city fc – montréal": "2026-04-25T18:46:23.473375+00:00"
+    "new york city fc – montréal": "2026-04-25T18:46:23.473375+00:00",
+    "thunder vs suns": "2026-04-25T19:41:58.295080+00:00",
+    "toulouse vs monaco": "2026-04-25T19:41:58.295080+00:00",
+    "wnba": "2026-04-25T19:41:58.295080+00:00"
   }
 }
