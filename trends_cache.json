@@ -112,22 +112,27 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "minnesota united x lafc": "2026-04-25T20:35:18.879487+00:00",
-    "brusque x confiança": "2026-04-25T20:35:18.879487+00:00",
     "emelec x ldu quito": "2026-04-25T21:33:36.193069+00:00",
-    "manaus x são raimundo": "2026-04-25T21:33:36.193069+00:00"
+    "manaus x são raimundo": "2026-04-25T21:33:36.193069+00:00",
+    "maranhão x volta redonda": "2026-04-25T22:33:29.256061+00:00",
+    "atlético-mg x flamengo": "2026-04-25T22:33:29.256061+00:00",
+    "hawks x knicks": "2026-04-25T22:33:29.256061+00:00",
+    "botafogo-pb x floresta": "2026-04-25T22:33:29.256061+00:00"
   },
   "USA": {
     "stars vs wild": "2026-04-25T21:33:39.618074+00:00",
-    "knicks vs hawks prediction": "2026-04-25T21:33:39.618074+00:00"
+    "knicks vs hawks prediction": "2026-04-25T21:33:39.618074+00:00",
+    "gavin gerhardt nfl draft": "2026-04-25T22:33:32.484330+00:00",
+    "boston legacy vs chicago stars": "2026-04-25T22:33:32.484330+00:00"
   },
   "Mexico": {
     "padres vs diamondbacks": "2026-04-25T21:33:43.281684+00:00",
-    "remo vs cruzeiro": "2026-04-25T21:33:43.281684+00:00"
+    "remo vs cruzeiro": "2026-04-25T21:33:43.281684+00:00",
+    "brasileirao": "2026-04-25T22:33:35.782767+00:00"
   },
   "Nigeria": {
-    "suns vs thunder": "2026-04-25T20:35:29.417793+00:00",
-    "thun vs lugano": "2026-04-25T21:33:46.940816+00:00"
+    "thun vs lugano": "2026-04-25T21:33:46.940816+00:00",
+    "vitória sc vs rio ave": "2026-04-25T22:33:39.238628+00:00"
   },
   "Italy": {
     "bologna vs roma": "2026-04-25T15:37:19.408172+00:00"
@@ -143,18 +148,9 @@
     "angers vs psg": "2026-04-25T17:35:33.588966+00:00"
   },
   "UK": {
-    "atlético madrid vs athletic club": "2026-04-25T18:46:20.026189+00:00",
-    "when does the world cup start": "2026-04-25T18:46:20.026189+00:00",
-    "toulouse vs monaco": "2026-04-25T18:46:20.026189+00:00",
-    "france vs ireland": "2026-04-25T19:41:54.802327+00:00",
-    "suns vs thunder": "2026-04-25T19:41:54.802327+00:00"
+    "hawks vs knicks": "2026-04-25T22:33:52.392093+00:00"
   },
   "Canada": {
-    "thunder vs suns": "2026-04-25T19:41:58.295080+00:00",
-    "toulouse vs monaco": "2026-04-25T19:41:58.295080+00:00",
-    "wnba": "2026-04-25T19:41:58.295080+00:00",
-    "marlins vs giants": "2026-04-25T20:35:46.223726+00:00",
-    "twins vs rays": "2026-04-25T20:35:46.223726+00:00",
-    "nationals vs white sox": "2026-04-25T20:35:46.223726+00:00"
+    "knicks vs hawks": "2026-04-25T22:33:55.554820+00:00"
   }
 }
