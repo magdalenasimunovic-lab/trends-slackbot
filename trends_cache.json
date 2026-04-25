@@ -112,24 +112,26 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "motogp": "2026-04-25T10:40:11.538846+00:00"
+    "motogp": "2026-04-25T10:40:11.538846+00:00",
+    "remo x cruzeiro": "2026-04-25T11:35:57.683357+00:00",
+    "levante badalona x atl. madrid": "2026-04-25T11:35:57.683357+00:00"
   },
   "USA": {
-    "dc vs pbks": "2026-04-25T09:49:58.543840+00:00"
+    "brighton & hove albion vs man city": "2026-04-25T11:36:00.969505+00:00"
   },
   "Mexico": {
     "getafe vs barcelona": "2026-04-25T09:50:02.075731+00:00"
   },
   "Nigeria": {
-    "west ham vs everton": "2026-04-25T09:50:05.598449+00:00",
-    "chelsea vs leeds": "2026-04-25T09:50:05.598449+00:00",
-    "wolves vs tottenham": "2026-04-25T09:50:05.598449+00:00",
-    "liverpool vs crystal palace prediction": "2026-04-25T09:50:05.598449+00:00",
-    "arsenal vs newcastle prediction": "2026-04-25T09:50:05.598449+00:00",
     "gen v cancelled season 3": "2026-04-25T10:40:21.649912+00:00",
     "levante badalona vs atl. madrid": "2026-04-25T10:40:21.649912+00:00",
     "mainz vs bayern": "2026-04-25T10:40:21.649912+00:00",
-    "mainz vs bayern munich prediction": "2026-04-25T10:40:21.649912+00:00"
+    "mainz vs bayern munich prediction": "2026-04-25T10:40:21.649912+00:00",
+    "brighton & hove albion vs man city": "2026-04-25T11:36:08.089049+00:00",
+    "dc vs pbks": "2026-04-25T11:36:08.089049+00:00",
+    "augsburg vs eintracht frankfurt": "2026-04-25T11:36:08.089049+00:00",
+    "bologna vs roma": "2026-04-25T11:36:08.089049+00:00",
+    "lyon vs auxerre": "2026-04-25T11:36:08.089049+00:00"
   },
   "Italy": {
     "dc vs pbks": "2026-04-25T09:50:08.878626+00:00",
@@ -142,12 +144,18 @@
     "dc vs pbks": "2026-04-25T09:50:15.771852+00:00"
   },
   "UK": {
-    "quetta gladiators vs karachi kings": "2026-04-25T09:50:19.114515+00:00",
-    "dc vs pbks": "2026-04-25T09:50:19.114515+00:00",
     "brighton & hove albion vs man city": "2026-04-25T10:40:35.406718+00:00",
-    "rochdale vs york city": "2026-04-25T10:40:35.406718+00:00"
+    "rochdale vs york city": "2026-04-25T10:40:35.406718+00:00",
+    "scunthorpe vs eastleigh": "2026-04-25T11:36:21.799563+00:00",
+    "aldershot town vs truro city": "2026-04-25T11:36:21.799563+00:00",
+    "stockport vs peterborough": "2026-04-25T11:36:21.799563+00:00",
+    "doncaster vs stevenage": "2026-04-25T11:36:21.799563+00:00",
+    "mk dons vs tranmere": "2026-04-25T11:36:21.799563+00:00",
+    "forest green vs morecambe": "2026-04-25T11:36:21.799563+00:00"
   },
   "Canada": {
-    "dc vs pbks": "2026-04-25T09:50:22.629822+00:00"
+    "fulham vs aston villa": "2026-04-25T11:36:25.420866+00:00",
+    "serie nhl 2026": "2026-04-25T11:36:25.420866+00:00",
+    "nhl playoff scores": "2026-04-25T11:36:25.420866+00:00"
   }
 }
