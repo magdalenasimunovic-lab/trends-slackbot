@@ -112,13 +112,17 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "santos vs": "2026-04-28T22:54:37.412202+00:00"
+    "santos vs": "2026-04-28T22:54:37.412202+00:00",
+    "celtics x 76ers": "2026-04-28T23:53:12.200642+00:00"
   },
   "USA": {
     "76ers vs celtics": "2026-04-28T22:54:40.629054+00:00",
     "diamondbacks vs brewers": "2026-04-28T22:54:40.629054+00:00",
     "atlanta united vs charlotte": "2026-04-28T22:54:40.629054+00:00",
-    "lakers vs rockets game 5": "2026-04-28T22:54:40.629054+00:00"
+    "lakers vs rockets game 5": "2026-04-28T22:54:40.629054+00:00",
+    "wild vs stars": "2026-04-28T23:53:15.558261+00:00",
+    "nashville sc - tigres": "2026-04-28T23:53:15.558261+00:00",
+    "lakers vs rockets schedule": "2026-04-28T23:53:15.558261+00:00"
   },
   "Mexico": {
     "conmebol sudamericana": "2026-04-28T22:54:44.037445+00:00"
@@ -137,9 +141,14 @@
     "pbks vs rr": "2026-04-28T13:58:13.837399+00:00"
   },
   "UK": {
-    "san lorenzo vs santos": "2026-04-28T22:55:01.489711+00:00"
+    "san lorenzo vs santos": "2026-04-28T22:55:01.489711+00:00",
+    "celtics vs 76ers": "2026-04-28T23:53:36.443259+00:00"
   },
   "Canada": {
-    "rockies vs reds": "2026-04-28T22:55:04.927119+00:00"
+    "rockies vs reds": "2026-04-28T22:55:04.927119+00:00",
+    "nationals vs mets": "2026-04-28T23:53:40.122676+00:00",
+    "diamondbacks vs brewers": "2026-04-28T23:53:40.122676+00:00",
+    "mariners vs twins": "2026-04-28T23:53:40.122676+00:00",
+    "bruins vs sabres": "2026-04-28T23:53:40.122676+00:00"
   }
 }
