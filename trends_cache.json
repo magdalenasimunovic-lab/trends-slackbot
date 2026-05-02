@@ -114,30 +114,36 @@
   "Brazil": {
     "campeonato turco": "2026-05-02T18:55:00.113791+00:00",
     "al hazm x al-hilal": "2026-05-02T18:55:00.113791+00:00",
-    "ajax x psv": "2026-05-02T18:55:00.113791+00:00"
+    "ajax x psv": "2026-05-02T18:55:00.113791+00:00",
+    "central córdoba x boca juniors": "2026-05-02T19:53:06.920196+00:00"
   },
   "USA": {
     "seattle sounders vs sporting kc": "2026-05-02T18:55:03.549453+00:00",
     "barcelona vs osasuna": "2026-05-02T18:55:03.549453+00:00",
     "blue jays - twins": "2026-05-02T18:55:03.549453+00:00",
-    "where to watch diamondbacks vs chicago cubs": "2026-05-02T18:55:03.549453+00:00"
+    "where to watch diamondbacks vs chicago cubs": "2026-05-02T18:55:03.549453+00:00",
+    "fenerbahçe vs istanbul başakşehir": "2026-05-02T19:53:10.098035+00:00"
   },
   "Mexico": {
-    "psg vs fc lorient standings": "2026-05-02T17:41:00.999633+00:00"
+    "benfica vs": "2026-05-02T19:53:13.567700+00:00"
   },
   "Nigeria": {
     "arsenal remaining fixtures": "2026-05-02T18:55:10.527459+00:00",
     "alavés vs athletic club": "2026-05-02T18:55:10.527459+00:00",
     "ajax vs psv": "2026-05-02T18:55:10.527459+00:00",
     "arsenal remaining premier league fixtures": "2026-05-02T18:55:10.527459+00:00",
-    "famalicão vs benfica": "2026-05-02T18:55:10.527459+00:00"
+    "famalicão vs benfica": "2026-05-02T18:55:10.527459+00:00",
+    "trabzonspor vs göztepe standings": "2026-05-02T19:53:17.292682+00:00",
+    "samsunspor vs galatasaray standings": "2026-05-02T19:53:17.292682+00:00",
+    "nice vs lens": "2026-05-02T19:53:17.292682+00:00"
   },
   "Italy": {
     "serie a femminile": "2026-05-02T18:55:14.223468+00:00"
   },
   "Morocco": {
     "psg vs fc lorient standings": "2026-05-02T18:55:17.985832+00:00",
-    "classement fc nantes – om": "2026-05-02T18:55:17.985832+00:00"
+    "classement fc nantes – om": "2026-05-02T18:55:17.985832+00:00",
+    "barca vs": "2026-05-02T19:53:24.142835+00:00"
   },
   "Spain": {
     "f1 sprint": "2026-05-02T16:42:32.521039+00:00",
@@ -148,6 +154,7 @@
     "twins vs blue jays": "2026-05-02T18:55:25.103181+00:00"
   },
   "Canada": {
-    "diamondbacks vs cubs": "2026-05-02T18:55:28.652975+00:00"
+    "diamondbacks vs cubs": "2026-05-02T18:55:28.652975+00:00",
+    "osasuna vs barcelona": "2026-05-02T19:53:34.609319+00:00"
   }
 }
