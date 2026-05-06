@@ -112,7 +112,11 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "cusco x estudiantes": "2026-05-06T21:54:02.311392+00:00"
+    "cusco x estudiantes": "2026-05-06T21:54:02.311392+00:00",
+    "moto club x sampaio corrêa": "2026-05-06T22:49:57.505698+00:00",
+    "independiente medellín x flamengo": "2026-05-06T22:49:57.505698+00:00",
+    "campeonato brasileiro de futebol sub-20": "2026-05-06T22:49:57.505698+00:00",
+    "sport x asa": "2026-05-06T22:49:57.505698+00:00"
   },
   "USA": {
     "f1 ferrari": "2026-05-06T18:13:38.196173+00:00",
@@ -125,7 +129,8 @@
   },
   "Nigeria": {
     "champions league top scorer": "2026-05-06T21:54:12.854697+00:00",
-    "unbeaten champions league winners": "2026-05-06T21:54:12.854697+00:00"
+    "unbeaten champions league winners": "2026-05-06T21:54:12.854697+00:00",
+    "top scorer in champions league": "2026-05-06T22:50:07.628937+00:00"
   },
   "Italy": {
     "transfermarkt": "2026-05-06T20:19:50.335272+00:00"
@@ -141,6 +146,10 @@
     "manchester united transfer news": "2026-05-06T21:54:27.081530+00:00"
   },
   "Canada": {
-    "final champions league 2026": "2026-05-06T21:54:30.759893+00:00"
+    "final champions league 2026": "2026-05-06T21:54:30.759893+00:00",
+    "twins vs nationals": "2026-05-06T22:50:25.233121+00:00",
+    "red sox vs tigers": "2026-05-06T22:50:25.233121+00:00",
+    "athletics vs phillies": "2026-05-06T22:50:25.233121+00:00",
+    "orioles vs marlins": "2026-05-06T22:50:25.233121+00:00"
   }
 }
