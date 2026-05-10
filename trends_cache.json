@@ -112,27 +112,25 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "estudiantes x racing": "2026-05-10T19:59:59.595214+00:00",
-    "76ers x knicks": "2026-05-10T19:59:59.595214+00:00",
-    "barra x caxias": "2026-05-10T19:59:59.595214+00:00",
-    "alverca x estoril": "2026-05-10T19:59:59.595214+00:00",
     "avaí x fortaleza": "2026-05-10T20:58:41.769543+00:00",
-    "mirassol x chapecoense": "2026-05-10T20:58:41.769543+00:00"
+    "mirassol x chapecoense": "2026-05-10T20:58:41.769543+00:00",
+    "atlético mineiro vs botafogo standings": "2026-05-10T21:54:30.838452+00:00",
+    "river plate x san lorenzo": "2026-05-10T21:54:30.838452+00:00",
+    "são raimundo x nacional": "2026-05-10T21:54:30.838452+00:00"
   },
   "USA": {
-    "nba standings": "2026-05-10T20:00:02.814501+00:00"
+    "grêmio vs flamengo": "2026-05-10T21:54:34.070823+00:00",
+    "nba finals": "2026-05-10T21:54:34.070823+00:00",
+    "pumas vs america": "2026-05-10T21:54:34.070823+00:00"
   },
   "Mexico": {
-    "barcelona vs atlético madrid": "2026-05-10T20:00:06.215214+00:00",
-    "posiciones de la liga": "2026-05-10T20:00:06.215214+00:00",
     "pachuca vs toluca": "2026-05-10T20:58:48.310153+00:00",
-    "cardinals vs padres": "2026-05-10T20:58:48.310153+00:00"
+    "cardinals vs padres": "2026-05-10T20:58:48.310153+00:00",
+    "pumas vs américa": "2026-05-10T21:54:37.506547+00:00"
   },
   "Nigeria": {
-    "barcelona vs atlético madrid": "2026-05-10T20:00:09.849363+00:00",
-    "auxerre vs nice": "2026-05-10T20:00:09.849363+00:00",
-    "madrid vs barca": "2026-05-10T20:00:09.849363+00:00",
-    "76ers vs knicks": "2026-05-10T20:58:52.174920+00:00"
+    "76ers vs knicks": "2026-05-10T20:58:52.174920+00:00",
+    "remo vs palmeiras": "2026-05-10T21:54:40.980456+00:00"
   },
   "Italy": {
     "calendario serie a": "2026-05-10T20:58:55.943520+00:00"
@@ -145,14 +143,12 @@
     "mumbai indians vs royal challengers bengaluru standings": "2026-05-10T18:58:18.036758+00:00"
   },
   "UK": {
-    "toulouse vs ol": "2026-05-10T18:58:21.438614+00:00",
-    "monaco vs losc": "2026-05-10T18:58:21.438614+00:00"
+    "santos vs bragantino": "2026-05-10T21:54:55.121241+00:00"
   },
   "Canada": {
-    "mlb score": "2026-05-10T20:00:26.376682+00:00",
-    "knicks vs 76ers": "2026-05-10T20:00:26.376682+00:00",
     "remo vs palmeiras": "2026-05-10T20:59:10.315748+00:00",
     "pirates vs giants": "2026-05-10T20:59:10.315748+00:00",
-    "cardinals vs padres": "2026-05-10T20:59:10.315748+00:00"
+    "cardinals vs padres": "2026-05-10T20:59:10.315748+00:00",
+    "santos vs bragantino": "2026-05-10T21:54:58.813543+00:00"
   }
 }
