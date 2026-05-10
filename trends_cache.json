@@ -112,37 +112,39 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "jogos da copa": "2026-05-10T15:50:42.759056+00:00"
+    "copa 2026": "2026-05-10T16:51:55.521919+00:00",
+    "avs sad x porto": "2026-05-10T16:51:55.521919+00:00"
   },
   "USA": {
-    "arsenal standings": "2026-05-10T15:50:46.141359+00:00",
-    "parma vs roma": "2026-05-10T15:50:46.141359+00:00",
-    "köln vs heidenheim": "2026-05-10T15:50:46.141359+00:00"
+    "storm vs sun": "2026-05-10T16:51:58.803604+00:00"
   },
   "Mexico": {
-    "parma vs roma": "2026-05-10T15:50:49.740651+00:00",
-    "friburgo vs": "2026-05-10T15:50:49.740651+00:00",
-    "monaco vs lille": "2026-05-10T15:50:49.740651+00:00"
+    "roma vs": "2026-05-10T16:52:02.161262+00:00",
+    "ajax vs": "2026-05-10T16:52:02.161262+00:00",
+    "milan vs atalanta": "2026-05-10T16:52:02.161262+00:00"
   },
   "Nigeria": {
-    "köln vs heidenheim": "2026-05-10T15:50:53.342359+00:00",
-    "nottingham forest vs newcastle united f.c. standings": "2026-05-10T15:50:53.342359+00:00",
-    "go ahead eagles vs psv": "2026-05-10T15:50:53.342359+00:00"
+    "avs vs porto": "2026-05-10T16:52:05.736019+00:00",
+    "real oviedo vs getafe": "2026-05-10T16:52:05.736019+00:00",
+    "köln vs heidenheim": "2026-05-10T16:52:05.736019+00:00",
+    "cologne vs heidenheim": "2026-05-10T16:52:05.736019+00:00"
   },
   "Italy": {
-    "parma vs roma": "2026-05-10T15:50:57.215817+00:00"
+    "classifica marcatori serie a": "2026-05-10T16:52:09.350758+00:00"
   },
   "Morocco": {
     "ufc 328 live": "2026-05-10T02:40:32.531056+00:00"
   },
   "Spain": {
-    "celtic vs rangers": "2026-05-10T11:49:03.704809+00:00"
+    "valencia vs": "2026-05-10T16:52:16.124500+00:00"
   },
   "UK": {
-    "real madrid vs atl. madrid": "2026-05-10T15:51:08.063204+00:00"
+    "aek athens vs panathinaikos": "2026-05-10T16:52:19.607100+00:00",
+    "avs vs porto": "2026-05-10T16:52:19.607100+00:00",
+    "chesterfield vs notts county": "2026-05-10T16:52:19.607100+00:00"
   },
   "Canada": {
-    "west ham vs arsenal": "2026-05-10T14:50:04.898719+00:00",
-    "athletic club vs valencia": "2026-05-10T14:50:04.898719+00:00"
+    "parma vs roma": "2026-05-10T16:52:22.866618+00:00",
+    "nationals vs marlins": "2026-05-10T16:52:22.866618+00:00"
   }
 }
