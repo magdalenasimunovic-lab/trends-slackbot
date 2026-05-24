@@ -112,9 +112,8 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "premier league standings": "2026-05-24T16:57:10.163274+00:00",
-    "real valladolid x la coruña": "2026-05-24T16:57:10.163274+00:00",
-    "vasco x bragantino": "2026-05-24T16:57:10.163274+00:00"
+    "river plate x belgrano": "2026-05-24T17:59:12.518751+00:00",
+    "italia serie a": "2026-05-24T17:59:12.518751+00:00"
   },
   "USA": {
     "palace vs arsenal": "2026-05-24T15:00:41.806092+00:00",
@@ -125,19 +124,22 @@
     "nottm forest vs bournemouth": "2026-05-24T15:00:41.806092+00:00"
   },
   "Mexico": {
-    "napoli vs udinese": "2026-05-24T16:57:17.015242+00:00",
-    "river vs belgrano": "2026-05-24T16:57:17.015242+00:00"
+    "red sox - twins": "2026-05-24T17:59:19.260057+00:00"
   },
   "Nigeria": {
-    "premier league table": "2026-05-24T16:57:20.588653+00:00",
-    "club brugge vs gent": "2026-05-24T16:57:20.588653+00:00",
-    "premier league standings": "2026-05-24T16:57:20.588653+00:00"
+    "world cup 2026": "2026-05-24T17:59:23.086607+00:00",
+    "world cup fixtures": "2026-05-24T17:59:23.086607+00:00",
+    "villarreal vs atletico madrid": "2026-05-24T17:59:23.086607+00:00",
+    "world cup": "2026-05-24T17:59:23.086607+00:00",
+    "dc vs kkr": "2026-05-24T17:59:23.086607+00:00"
   },
   "Italy": {
-    "palace vs arsenal": "2026-05-24T15:00:52.663113+00:00"
+    "premier league standings": "2026-05-24T17:59:26.786719+00:00"
   },
   "Morocco": {
-    "caf champions league": "2026-05-24T16:57:27.685108+00:00"
+    "premier league": "2026-05-24T17:59:35.244202+00:00",
+    "classement premier league": "2026-05-24T17:59:35.244202+00:00",
+    "caf champions league": "2026-05-24T17:59:35.244202+00:00"
   },
   "Spain": {
     "roland garros 2026": "2026-05-24T16:57:31.330823+00:00",
@@ -147,7 +149,10 @@
     "west ham vs man united": "2026-05-24T16:57:35.015133+00:00"
   },
   "Canada": {
-    "blue jays vs pirates": "2026-05-24T16:57:38.652661+00:00",
-    "tigers vs orioles": "2026-05-24T16:57:38.652661+00:00"
+    "guardians vs phillies": "2026-05-24T17:59:45.750133+00:00",
+    "mets vs marlins": "2026-05-24T17:59:45.750133+00:00",
+    "rays vs yankees": "2026-05-24T17:59:45.750133+00:00",
+    "twins vs red sox": "2026-05-24T17:59:45.750133+00:00",
+    "f2 standings": "2026-05-24T17:59:45.750133+00:00"
   }
 }
