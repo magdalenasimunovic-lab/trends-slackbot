@@ -112,30 +112,24 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "copa do brasil sub 17": "2026-05-26T21:41:04.848286+00:00",
-    "atp roland garros 2026": "2026-05-26T21:41:04.848286+00:00",
-    "sinner roland garros 2026": "2026-05-26T21:41:04.848286+00:00",
-    "lanús x mirassol": "2026-05-26T21:41:04.848286+00:00",
-    "millonarios x o'higgins": "2026-05-26T21:41:04.848286+00:00",
-    "ldu quito x always ready": "2026-05-26T21:41:04.848286+00:00"
+    "conmebol sudamericana": "2026-05-26T23:06:17.734068+00:00"
   },
   "USA": {
-    "hurricanes vs canadiens": "2026-05-26T00:09:10.943441+00:00"
+    "conmebol sudamericana": "2026-05-26T23:06:20.969409+00:00"
   },
   "Mexico": {
-    "nigeria vs": "2026-05-26T19:17:23.533995+00:00",
-    "mexico vs. australia": "2026-05-26T19:17:23.533995+00:00",
-    "niza vs": "2026-05-26T19:17:23.533995+00:00"
+    "ldu quito vs": "2026-05-26T23:06:24.291846+00:00",
+    "conmebol sudamericana": "2026-05-26T23:06:24.291846+00:00"
   },
   "Nigeria": {
-    "st-étienne vs nice": "2026-05-26T19:17:27.427887+00:00",
-    "world cup": "2026-05-26T19:17:27.427887+00:00"
+    "ldu quito vs always ready": "2026-05-26T23:06:27.851159+00:00",
+    "transfer window": "2026-05-26T23:06:27.851159+00:00"
   },
   "Italy": {
     "djokovic roland garros": "2026-05-26T21:41:18.309083+00:00"
   },
   "Morocco": {
-    "roland garros 2026": "2026-05-26T21:41:21.801997+00:00"
+    "كأس العالم fifa 2026™": "2026-05-26T23:06:34.892279+00:00"
   },
   "Spain": {
     "torneo de roland garros": "2026-05-26T19:17:38.007017+00:00"
@@ -145,6 +139,10 @@
     "world cup fantasy football": "2026-05-26T19:17:41.394318+00:00"
   },
   "Canada": {
-    "2026 memorial cup standings scenarios": "2026-05-26T21:41:31.540073+00:00"
+    "angels vs tigers": "2026-05-26T23:06:44.739771+00:00",
+    "braves vs red sox": "2026-05-26T23:06:44.739771+00:00",
+    "cubs vs pirates": "2026-05-26T23:06:44.739771+00:00",
+    "rays vs orioles": "2026-05-26T23:06:44.739771+00:00",
+    "millonarios vs o'higgins": "2026-05-26T23:06:44.739771+00:00"
   }
 }
