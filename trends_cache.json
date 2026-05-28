@@ -112,15 +112,15 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "abc x vitoria": "2026-05-27T23:13:59.111791+00:00",
-    "avai x volta redonda": "2026-05-27T23:13:59.111791+00:00",
-    "chapecoense x novorizontino": "2026-05-27T23:13:59.111791+00:00"
+    "libertadores tabela": "2026-05-28T02:49:51.577019+00:00",
+    "classificação geral da libertadores": "2026-05-28T02:49:51.577019+00:00"
   },
   "USA": {
-    "conmebol sudamericana": "2026-05-27T23:14:02.488397+00:00"
+    "mlb home run leaders": "2026-05-28T02:49:54.783802+00:00"
   },
   "Mexico": {
-    "sudamericana": "2026-05-27T23:14:05.814259+00:00"
+    "dodgers vs": "2026-05-28T02:49:58.317206+00:00",
+    "bolivar vs independiente rivadavia": "2026-05-28T02:49:58.317206+00:00"
   },
   "Nigeria": {
     "france world cup squad": "2026-05-27T23:14:09.522470+00:00",
@@ -139,9 +139,6 @@
     "jamaica vs india": "2026-05-27T18:24:31.828515+00:00"
   },
   "Canada": {
-    "reds vs mets": "2026-05-27T23:14:30.251028+00:00",
-    "angels vs tigers": "2026-05-27T23:14:30.251028+00:00",
-    "cubs vs pirates": "2026-05-27T23:14:30.251028+00:00",
-    "braves vs red sox": "2026-05-27T23:14:30.251028+00:00"
+    "dream vs lynx": "2026-05-28T02:50:18.513968+00:00"
   }
 }
