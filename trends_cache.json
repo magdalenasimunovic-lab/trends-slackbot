@@ -112,8 +112,7 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "américa-rn x central": "2026-05-29T22:27:09.610983+00:00",
-    "campeonato chileno": "2026-05-29T22:27:09.610983+00:00"
+    "psg vs arsenal": "2026-05-30T07:38:48.094307+00:00"
   },
   "USA": {
     "canadiens vs hurricanes": "2026-05-30T00:07:08.380593+00:00",
@@ -122,7 +121,8 @@
     "texas vs mississippi state softball": "2026-05-30T00:07:08.380593+00:00"
   },
   "Mexico": {
-    "tampico vs tepatitlan": "2026-05-30T00:07:11.777340+00:00"
+    "crystal palace vs. arsenal": "2026-05-30T07:38:54.710862+00:00",
+    "paris fc vs. psg": "2026-05-30T07:38:54.710862+00:00"
   },
   "Nigeria": {
     "bosnia and herzegovina vs north macedonia": "2026-05-29T22:27:19.584437+00:00"
@@ -134,12 +134,12 @@
     "roland garros 2026": "2026-05-29T22:27:26.642364+00:00"
   },
   "Spain": {
-    "psg vs arsenal": "2026-05-29T13:57:42.303492+00:00"
+    "horario motogp": "2026-05-30T07:39:08.324326+00:00"
   },
   "UK": {
-    "hurricanes vs canadiens": "2026-05-30T04:51:02.102291+00:00"
+    "masters of the universe": "2026-05-30T07:39:11.739536+00:00"
   },
   "Canada": {
-    "nhl.com": "2026-05-30T04:51:05.766384+00:00"
+    "pak vs aus": "2026-05-30T07:39:15.102015+00:00"
   }
 }
