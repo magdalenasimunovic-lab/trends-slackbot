@@ -112,22 +112,26 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "haiti x nova zelândia": "2026-06-02T23:42:44.712300+00:00",
-    "fortaleza x ec vitória": "2026-06-02T23:42:44.712300+00:00",
-    "pinheiros x franca": "2026-06-02T23:42:44.712300+00:00"
+    "luxemburgo x itália": "2026-06-03T18:20:47.024563+00:00",
+    "dinamarca x rd congo": "2026-06-03T18:20:47.024563+00:00"
   },
   "USA": {
-    "nba 總決賽": "2026-06-03T08:52:22.299544+00:00"
+    "poland vs nigeria": "2026-06-03T18:20:50.227822+00:00",
+    "luxembourg vs italy": "2026-06-03T18:20:50.227822+00:00",
+    "albania vs israel": "2026-06-03T18:20:50.227822+00:00"
   },
   "Mexico": {
-    "nueva zelanda vs": "2026-06-03T03:45:14.246545+00:00"
+    "finales de la nba": "2026-06-03T18:20:53.667432+00:00",
+    "argentina vs": "2026-06-03T18:20:53.667432+00:00"
   },
   "Nigeria": {
-    "gimnasia de comodoro vs ferro carril oeste": "2026-06-03T03:45:17.762667+00:00",
-    "haiti vs new zealand": "2026-06-03T03:45:17.762667+00:00"
+    "luxembourg vs italy": "2026-06-03T18:20:57.181402+00:00",
+    "albania vs israel": "2026-06-03T18:20:57.181402+00:00",
+    "gibraltar vs virgin islands british": "2026-06-03T18:20:57.181402+00:00",
+    "denmark vs dr congo": "2026-06-03T18:20:57.181402+00:00"
   },
   "Italy": {
-    "cobolli roland garros 2026": "2026-05-31T12:09:26.043963+00:00"
+    "luxembourg vs italy": "2026-06-03T18:21:00.588744+00:00"
   },
   "Morocco": {
     "senegal vs tanzanie u17": "2026-06-02T23:43:01.745376+00:00"
@@ -136,10 +140,15 @@
     "fifa wc 2026 vodds": "2026-06-02T10:17:22.830284+00:00"
   },
   "UK": {
-    "commonwealth games 2026": "2026-06-03T08:52:42.350409+00:00"
+    "poland vs nigeria": "2026-06-03T18:21:10.870679+00:00",
+    "luxembourg vs italy": "2026-06-03T18:21:10.870679+00:00",
+    "netherlands vs algeria": "2026-06-03T18:21:10.870679+00:00",
+    "albania vs israel": "2026-06-03T18:21:10.870679+00:00"
   },
   "Canada": {
-    "roland garros": "2026-06-03T13:13:43.339157+00:00",
-    "tennis roland garros 2026": "2026-06-03T13:13:43.339157+00:00"
+    "poland vs nigeria": "2026-06-03T18:21:14.279707+00:00",
+    "netherlands vs algeria": "2026-06-03T18:21:14.279707+00:00",
+    "denmark vs dr congo": "2026-06-03T18:21:14.279707+00:00",
+    "tigers vs rays": "2026-06-03T18:21:14.279707+00:00"
   }
 }
