@@ -112,20 +112,20 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "angola x mauritânia": "2026-06-05T19:49:58.974756+00:00",
-    "espanha x inglaterra": "2026-06-05T19:49:58.974756+00:00",
-    "hungria x finlândia": "2026-06-05T19:49:58.974756+00:00"
+    "canadá x irlanda": "2026-06-05T23:05:03.089275+00:00",
+    "operário x juventude": "2026-06-05T23:05:03.089275+00:00",
+    "paraguai x nicarágua": "2026-06-05T23:05:03.089275+00:00"
   },
   "USA": {
-    "giants vs cubs": "2026-06-05T17:51:01.886432+00:00"
+    "argentina vs honduras": "2026-06-05T23:05:06.258012+00:00",
+    "canada vs ireland": "2026-06-05T23:05:06.258012+00:00"
   },
   "Mexico": {
-    "angola vs mauritania": "2026-06-05T21:22:47.163822+00:00"
+    "paraguay vs nicaragua": "2026-06-05T23:05:09.440400+00:00"
   },
   "Nigeria": {
-    "angola vs mauritania": "2026-06-05T21:22:50.632125+00:00",
-    "azerbaijan vs malta": "2026-06-05T21:22:50.632125+00:00",
-    "spain vs england": "2026-06-05T21:22:50.632125+00:00"
+    "paraguay vs nicaragua": "2026-06-05T23:05:13.307396+00:00",
+    "angola vs mauritania": "2026-06-05T23:05:13.307396+00:00"
   },
   "Italy": {
     "san marino vs bangladesh": "2026-06-05T17:51:12.147425+00:00"
@@ -134,13 +134,15 @@
     "brazil vs egypt": "2026-06-05T21:22:57.553249+00:00"
   },
   "Spain": {
-    "spain vs england": "2026-06-05T19:50:20.616077+00:00"
+    "paraguay vs nicaragua": "2026-06-05T23:05:26.268492+00:00"
   },
   "UK": {
-    "russia vs burkina faso": "2026-06-05T17:51:22.254885+00:00",
-    "hungary vs finland": "2026-06-05T17:51:22.254885+00:00"
+    "canada vs ireland": "2026-06-05T23:05:29.645274+00:00",
+    "paraguay vs nicaragua": "2026-06-05T23:05:29.645274+00:00"
   },
   "Canada": {
-    "canada vs ireland": "2026-06-05T21:23:07.696669+00:00"
+    "red sox vs yankees": "2026-06-05T23:05:32.924223+00:00",
+    "mariners vs tigers": "2026-06-05T23:05:32.924223+00:00",
+    "white sox vs phillies": "2026-06-05T23:05:32.924223+00:00"
   }
 }
