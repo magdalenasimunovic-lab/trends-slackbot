@@ -112,29 +112,32 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "proximos jogos da copa": "2026-07-07T19:50:21.867454+00:00",
-    "chaveamento copa do mundo": "2026-07-07T19:50:21.867454+00:00"
+    "jogos da copa amanhã": "2026-07-08T00:01:02.473484+00:00"
   },
   "USA": {
-    "phillies vs reds": "2026-07-07T22:58:05.273372+00:00",
-    "royals vs mets": "2026-07-07T22:58:05.273372+00:00",
-    "usmnt fifa staff suspensions": "2026-07-07T22:58:05.273372+00:00"
+    "world cup games tomorrow": "2026-07-08T00:01:05.658619+00:00",
+    "mexico vs rsa": "2026-07-08T00:01:05.658619+00:00",
+    "wings vs liberty": "2026-07-08T00:01:05.658619+00:00"
   },
   "Mexico": {
-    "arbitro colombia vs suiza": "2026-07-07T22:58:08.958289+00:00"
+    "argentina vs suiza": "2026-07-08T00:01:08.815287+00:00"
   },
   "Nigeria": {
     "germany vs austria": "2026-07-07T22:58:12.382672+00:00",
     "who won the world cup 2026": "2026-07-07T22:58:12.382672+00:00"
   },
   "Italy": {
-    "suiza vs. colombia": "2026-07-07T22:58:15.621345+00:00"
+    "fifa world cup brackets": "2026-07-08T00:01:15.470634+00:00",
+    "suiza vs. colombia": "2026-07-08T00:01:15.470634+00:00"
   },
   "Morocco": {
-    "switzerland vs colombia": "2026-07-07T22:58:19.137922+00:00"
+    "colombia vs suiza": "2026-07-08T00:01:19.022555+00:00",
+    "switzerland vs colombia": "2026-07-08T00:01:19.022555+00:00"
   },
   "Spain": {
-    "wimbledon 2026": "2026-07-07T22:58:22.548650+00:00"
+    "fifa world cup 2026™": "2026-07-08T00:01:22.551215+00:00",
+    "argentina vs suiza": "2026-07-08T00:01:22.551215+00:00",
+    "wimbledon 2026": "2026-07-08T00:01:22.551215+00:00"
   },
   "UK": {
     "wimbledon semi finals 2026": "2026-07-07T22:58:25.703208+00:00",
@@ -142,9 +145,10 @@
     "tabellone mondiali fifa 2026": "2026-07-07T22:58:25.703208+00:00"
   },
   "Canada": {
-    "mariners vs marlins": "2026-07-07T22:58:29.217133+00:00",
-    "yankees vs rays": "2026-07-07T22:58:29.217133+00:00",
-    "athletics vs tigers": "2026-07-07T22:58:29.217133+00:00",
-    "cubs vs orioles": "2026-07-07T22:58:29.217133+00:00"
+    "red sox vs white sox": "2026-07-08T00:01:29.001330+00:00",
+    "fifa world cup brackets": "2026-07-08T00:01:29.001330+00:00",
+    "world cup games tomorrow": "2026-07-08T00:01:29.001330+00:00",
+    "royals vs mets": "2026-07-08T00:01:29.001330+00:00",
+    "braves vs pirates": "2026-07-08T00:01:29.001330+00:00"
   }
 }
