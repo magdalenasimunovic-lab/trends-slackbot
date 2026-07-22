@@ -112,20 +112,30 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "independiente del valle x club técnico universitario": "2026-07-22T21:02:18.239133+00:00"
+    "brasileirao a": "2026-07-22T22:58:17.280843+00:00",
+    "goiás x sport recife": "2026-07-22T22:58:17.280843+00:00",
+    "inter miami x chicago fire": "2026-07-22T22:58:17.280843+00:00"
   },
   "USA": {
-    "al east standings": "2026-07-22T21:02:21.455338+00:00"
+    "chicago vs inter miami": "2026-07-22T22:58:20.510174+00:00",
+    "aces vs mystics": "2026-07-22T22:58:20.510174+00:00",
+    "new york city vs columbus": "2026-07-22T22:58:20.510174+00:00",
+    "fifa team of the tournament 2026": "2026-07-22T22:58:20.510174+00:00",
+    "president trump dover dignified transfer": "2026-07-22T22:58:20.510174+00:00"
   },
   "Mexico": {
-    "wnba": "2026-07-22T21:02:24.927548+00:00"
+    "conmebol sudamericana": "2026-07-22T22:58:23.922263+00:00",
+    "guardians - twins": "2026-07-22T22:58:23.922263+00:00",
+    "brasileirão serie a": "2026-07-22T22:58:23.922263+00:00",
+    "dodgers vs phillies": "2026-07-22T22:58:23.922263+00:00"
   },
   "Nigeria": {
-    "železničar pančevo vs braga": "2026-07-22T21:02:28.428554+00:00",
-    "gil vicente vs porto": "2026-07-22T21:02:28.428554+00:00"
+    "inter miami vs chicago": "2026-07-22T22:58:27.394192+00:00",
+    "2030 fifa world cup": "2026-07-22T22:58:27.394192+00:00",
+    "železničar pančevo vs braga": "2026-07-22T22:58:27.394192+00:00"
   },
   "Italy": {
-    "new zealand vs west indies": "2026-07-21T19:15:47.979495+00:00"
+    "transfermarkt": "2026-07-22T22:58:30.785146+00:00"
   },
   "Morocco": {
     "transfermarkt": "2026-07-22T17:13:46.304736+00:00"
@@ -134,11 +144,15 @@
     "stevenage vs west ham": "2026-07-22T19:10:30.432881+00:00"
   },
   "UK": {
-    "gil vicente vs porto": "2026-07-22T19:10:33.952367+00:00",
-    "valencia vs eldense": "2026-07-22T19:10:33.952367+00:00"
+    "inter miami vs chicago": "2026-07-22T22:58:40.974094+00:00",
+    "mls": "2026-07-22T22:58:40.974094+00:00",
+    "coritiba vs palmeiras": "2026-07-22T22:58:40.974094+00:00",
+    "phillies vs dodgers": "2026-07-22T22:58:40.974094+00:00"
   },
   "Canada": {
-    "cardinals vs angels": "2026-07-22T21:02:50.986653+00:00",
-    "gil vicente vs porto": "2026-07-22T21:02:50.986653+00:00"
+    "chicago vs inter miami": "2026-07-22T22:58:44.426740+00:00",
+    "vancouver vs cincinnati": "2026-07-22T22:58:44.426740+00:00",
+    "coritiba vs palmeiras": "2026-07-22T22:58:44.426740+00:00",
+    "padres vs braves": "2026-07-22T22:58:44.426740+00:00"
   }
 }
