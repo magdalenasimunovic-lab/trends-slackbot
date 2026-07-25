@@ -114,18 +114,29 @@
   "Brazil": {
     "santos vs": "2026-07-25T21:52:00.875001+00:00",
     "liverpool vs sunderland": "2026-07-25T21:52:00.875001+00:00",
-    "liverpool x sunderland": "2026-07-25T21:52:00.875001+00:00"
+    "liverpool x sunderland": "2026-07-25T21:52:00.875001+00:00",
+    "vasco da gama x mirassol": "2026-07-25T22:51:31.389068+00:00",
+    "montréal x inter miami": "2026-07-25T22:51:31.389068+00:00",
+    "river plate x barracas central": "2026-07-25T22:51:31.389068+00:00",
+    "copa paulista": "2026-07-25T22:51:31.389068+00:00",
+    "serie a": "2026-07-25T22:51:31.389068+00:00"
   },
   "USA": {
     "liverpool vs sunderland": "2026-07-25T21:52:04.217284+00:00",
-    "santos vs chapecoense": "2026-07-25T21:52:04.217284+00:00"
+    "santos vs chapecoense": "2026-07-25T21:52:04.217284+00:00",
+    "inter miami vs montréal": "2026-07-25T22:51:34.685080+00:00",
+    "guadalajara vs juarez": "2026-07-25T22:51:34.685080+00:00",
+    "charlotte vs ny red bulls": "2026-07-25T22:51:34.685080+00:00"
   },
   "Mexico": {
-    "santos vs chapecoense": "2026-07-25T21:52:07.672453+00:00"
+    "santos vs chapecoense": "2026-07-25T21:52:07.672453+00:00",
+    "brasileirão serie a": "2026-07-25T22:51:38.195186+00:00"
   },
   "Nigeria": {
     "santos vs chapecoense": "2026-07-25T21:52:11.222134+00:00",
-    "porto vs aston villa": "2026-07-25T21:52:11.222134+00:00"
+    "porto vs aston villa": "2026-07-25T21:52:11.222134+00:00",
+    "new york red bulls vs charlotte fc": "2026-07-25T22:51:41.732623+00:00",
+    "montréal vs inter miami": "2026-07-25T22:51:41.732623+00:00"
   },
   "Italy": {
     "santos vs chapecoense": "2026-07-25T21:52:14.941134+00:00"
@@ -138,12 +149,17 @@
   },
   "UK": {
     "atletico madrid kang-in lee transfer": "2026-07-25T21:52:25.164767+00:00",
-    "santos vs chapecoense": "2026-07-25T21:52:25.164767+00:00"
+    "santos vs chapecoense": "2026-07-25T21:52:25.164767+00:00",
+    "boxing news": "2026-07-25T22:51:55.463416+00:00"
   },
   "Canada": {
     "wnba all star game": "2026-07-25T21:52:28.717898+00:00",
     "santos vs chapecoense": "2026-07-25T21:52:28.717898+00:00",
     "yankees vs phillies": "2026-07-25T21:52:28.717898+00:00",
-    "liverpool vs sunderland": "2026-07-25T21:52:28.717898+00:00"
+    "liverpool vs sunderland": "2026-07-25T21:52:28.717898+00:00",
+    "inter miami vs montréal": "2026-07-25T22:51:59.014953+00:00",
+    "argonauts vs lions": "2026-07-25T22:51:59.014953+00:00",
+    "dodgers vs mets": "2026-07-25T22:51:59.014953+00:00",
+    "mlb trade deadline": "2026-07-25T22:51:59.014953+00:00"
   }
 }
