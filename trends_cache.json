@@ -112,18 +112,21 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "sparta praga x lyon": "2026-08-04T17:43:29.526882+00:00"
+    "union x bodø/glimt": "2026-08-04T19:26:13.647364+00:00"
   },
   "USA": {
-    "cleveland wnba": "2026-08-04T15:26:09.420308+00:00"
+    "union vs bodø/glimt": "2026-08-04T19:26:16.908359+00:00",
+    "uefa champions league": "2026-08-04T19:26:16.908359+00:00"
   },
   "Mexico": {
-    "charlotte fc vs pumas": "2026-08-04T10:34:03.112426+00:00"
+    "nfl": "2026-08-04T19:26:20.411183+00:00",
+    "liga de campeones de la uefa": "2026-08-04T19:26:20.411183+00:00",
+    "uefa champions league": "2026-08-04T19:26:20.411183+00:00"
   },
   "Nigeria": {
-    "mjallby aif vs slovan bratislava": "2026-08-04T17:43:39.160621+00:00",
-    "fabrizio romano arsenal transfer news": "2026-08-04T17:43:39.160621+00:00",
-    "norwich vs cambridge": "2026-08-04T17:43:39.160621+00:00"
+    "ipswich town vs le havre": "2026-08-04T19:26:23.837699+00:00",
+    "union vs bodø/glimt": "2026-08-04T19:26:23.837699+00:00",
+    "sparta praha vs ol": "2026-08-04T19:26:23.837699+00:00"
   },
   "Italy": {
     "serie a 2026-2027": "2026-08-04T17:43:42.616794+00:00"
@@ -132,12 +135,13 @@
     "jeju vs bayern": "2026-08-04T12:58:39.156068+00:00"
   },
   "Spain": {
-    "west indies vs pakistan": "2026-08-03T22:05:24.577371+00:00"
+    "champions league": "2026-08-04T19:26:33.916440+00:00"
   },
   "UK": {
-    "commonwealth games unaccounted athletes": "2026-08-04T17:43:52.615891+00:00"
+    "champions league": "2026-08-04T19:26:37.393589+00:00"
   },
   "Canada": {
-    "federation internationale de football association (fifa)": "2026-08-04T17:43:56.149635+00:00"
+    "nfl": "2026-08-04T19:26:40.739182+00:00",
+    "olympiacos vs nec": "2026-08-04T19:26:40.739182+00:00"
   }
 }
