@@ -112,14 +112,10 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "betis x bournemouth": "2026-08-08T18:32:01.810116+00:00",
-    "nacional x abc": "2026-08-08T18:32:01.810116+00:00",
-    "barcelona x nottingham forest": "2026-08-08T18:32:01.810116+00:00",
-    "ferencváros vs real madrid": "2026-08-08T18:32:01.810116+00:00",
-    "wolfsburg x kaiserslautern": "2026-08-08T18:32:01.810116+00:00",
-    "vila nova x sport recife": "2026-08-08T18:32:01.810116+00:00",
     "estrela amadora x sporting": "2026-08-08T19:25:32.397973+00:00",
-    "valencia x newcastle": "2026-08-08T19:25:32.397973+00:00"
+    "valencia x newcastle": "2026-08-08T19:25:32.397973+00:00",
+    "primavera x juventus": "2026-08-08T20:24:11.785583+00:00",
+    "são josé x gama": "2026-08-08T20:24:11.785583+00:00"
   },
   "USA": {
     "betis vs bournemouth": "2026-08-08T18:32:05.068882+00:00",
@@ -129,21 +125,17 @@
     "valencia vs newcastle": "2026-08-08T19:25:35.616117+00:00"
   },
   "Mexico": {
-    "barcelona vs": "2026-08-08T18:32:08.570551+00:00",
-    "psv vs": "2026-08-08T18:32:08.570551+00:00",
-    "barcelona vs. nottingham forest": "2026-08-08T18:32:08.570551+00:00"
+    "conflicto": "2026-08-08T20:24:18.476807+00:00",
+    "betis vs": "2026-08-08T20:24:18.476807+00:00",
+    "gremio vs sao paulo": "2026-08-08T20:24:18.476807+00:00"
   },
   "Nigeria": {
-    "betis vs bournemouth": "2026-08-08T18:32:11.955721+00:00",
-    "galatasaray vs villarreal": "2026-08-08T18:32:11.955721+00:00",
-    "psv vs fortuna sittard": "2026-08-08T18:32:11.955721+00:00",
-    "cd castellon vs levante": "2026-08-08T18:32:11.955721+00:00",
-    "coventry vs espanyol": "2026-08-08T18:32:11.955721+00:00",
     "napoli vs celta": "2026-08-08T19:25:42.315365+00:00",
     "valencia vs newcastle": "2026-08-08T19:25:42.315365+00:00",
     "estrela amadora vs scp": "2026-08-08T19:25:42.315365+00:00",
     "xabi alonso chelsea goalkeeper decisions": "2026-08-08T19:25:42.315365+00:00",
-    "ivory coast vs algeria": "2026-08-08T19:25:42.315365+00:00"
+    "ivory coast vs algeria": "2026-08-08T19:25:42.315365+00:00",
+    "morocco vs south africa": "2026-08-08T20:24:22.272647+00:00"
   },
   "Italy": {
     "ferencváros vs real madrid": "2026-08-08T18:32:15.435916+00:00",
