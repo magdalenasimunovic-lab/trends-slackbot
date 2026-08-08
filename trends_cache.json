@@ -113,7 +113,10 @@
   },
   "Brazil": {
     "leicester city x northampton town": "2026-08-08T13:41:54.320893+00:00",
-    "chelsea x milan": "2026-08-08T13:41:54.320893+00:00"
+    "chelsea x milan": "2026-08-08T13:41:54.320893+00:00",
+    "psg x manchester united": "2026-08-08T14:27:54.074753+00:00",
+    "copa da liga inglesa": "2026-08-08T14:27:54.074753+00:00",
+    "colônia x real sociedad": "2026-08-08T14:27:54.074753+00:00"
   },
   "USA": {
     "leicester city vs northampton town": "2026-08-08T13:41:57.780896+00:00",
@@ -123,14 +126,18 @@
     "swansea vs birmingham": "2026-08-08T13:41:57.780896+00:00"
   },
   "Mexico": {
-    "juventus vs inter": "2026-08-08T12:39:23.856483+00:00"
+    "maritimo vs casa pia": "2026-08-08T14:28:00.640849+00:00"
   },
   "Nigeria": {
     "leicester city vs northampton town": "2026-08-08T13:42:04.420187+00:00",
     "eintracht frankfurt vs hull city": "2026-08-08T13:42:04.420187+00:00",
     "burnley vs notts county": "2026-08-08T13:42:04.420187+00:00",
     "swansea vs birmingham": "2026-08-08T13:42:04.420187+00:00",
-    "west ham vs portsmouth": "2026-08-08T13:42:04.420187+00:00"
+    "west ham vs portsmouth": "2026-08-08T13:42:04.420187+00:00",
+    "bayer leverkusen vs sevilla": "2026-08-08T14:28:04.140464+00:00",
+    "tottenham vs getafe": "2026-08-08T14:28:04.140464+00:00",
+    "spurs vs getafe": "2026-08-08T14:28:04.140464+00:00",
+    "köln vs real sociedad": "2026-08-08T14:28:04.140464+00:00"
   },
   "Italy": {
     "motogp silverstone": "2026-08-07T12:54:47.741464+00:00"
@@ -149,9 +156,15 @@
     "grimsby vs blackpool": "2026-08-08T13:42:18.085238+00:00",
     "dundee vs aberdeen": "2026-08-08T13:42:18.085238+00:00",
     "stockport vs doncaster": "2026-08-08T13:42:18.085238+00:00",
-    "leicester city vs northampton town": "2026-08-08T13:42:18.085238+00:00"
+    "leicester city vs northampton town": "2026-08-08T13:42:18.085238+00:00",
+    "celtic rangers transfer news": "2026-08-08T14:28:17.336298+00:00",
+    "dunfermline athletic vs ayr": "2026-08-08T14:28:17.336298+00:00",
+    "crewe vs accrington stanley": "2026-08-08T14:28:17.336298+00:00",
+    "scunthorpe vs yeovil town": "2026-08-08T14:28:17.336298+00:00"
   },
   "Canada": {
-    "west ham vs portsmouth": "2026-08-08T13:42:21.577675+00:00"
+    "west ham vs portsmouth": "2026-08-08T13:42:21.577675+00:00",
+    "leicester city vs northampton town": "2026-08-08T14:28:21.038596+00:00",
+    "swansea vs birmingham": "2026-08-08T14:28:21.038596+00:00"
   }
 }
