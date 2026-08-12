@@ -122,13 +122,15 @@
     "real madrid vs": "2026-08-12T20:00:18.857246+00:00"
   },
   "Mexico": {
-    "champions league": "2026-08-12T20:55:49.213513+00:00",
     "leon vs inter miami": "2026-08-12T21:41:51.186550+00:00",
     "america vs austin": "2026-08-12T21:41:51.186550+00:00",
-    "monterrey vs nashville": "2026-08-12T21:41:51.186550+00:00"
+    "monterrey vs nashville": "2026-08-12T21:41:51.186550+00:00",
+    "tigre vs": "2026-08-12T22:36:20.448434+00:00",
+    "copa libertadores": "2026-08-12T22:36:20.448434+00:00",
+    "libertadores": "2026-08-12T22:36:20.448434+00:00",
+    "conmebol libertadores": "2026-08-12T22:36:20.448434+00:00"
   },
   "Nigeria": {
-    "morocco vs cameroon": "2026-08-12T20:55:52.694556+00:00",
     "pedro neto premier league interest": "2026-08-12T21:41:54.993357+00:00",
     "psg vs arsenal": "2026-08-12T21:41:54.993357+00:00"
   },
@@ -136,7 +138,7 @@
     "afghanistan vs ireland": "2026-08-12T11:02:16.430053+00:00"
   },
   "Morocco": {
-    "morocco vs cameroon": "2026-08-12T20:55:59.705966+00:00"
+    "morocco vs cameroon": "2026-08-12T22:36:30.720363+00:00"
   },
   "Spain": {
     "donde ver la supercopa de europa": "2026-08-12T18:57:13.281377+00:00"
@@ -145,8 +147,9 @@
     "arsenal v como": "2026-08-12T17:55:24.346122+00:00"
   },
   "Canada": {
-    "napoli vs aris": "2026-08-12T20:00:43.010543+00:00",
-    "brewers vs padres": "2026-08-12T20:00:43.010543+00:00",
-    "rockies vs diamondbacks": "2026-08-12T20:00:43.010543+00:00"
+    "mariners vs yankees": "2026-08-12T22:36:41.034935+00:00",
+    "guardians vs tigers": "2026-08-12T22:36:41.034935+00:00",
+    "pirates vs marlins": "2026-08-12T22:36:41.034935+00:00",
+    "cubs vs nationals": "2026-08-12T22:36:41.034935+00:00"
   }
 }
