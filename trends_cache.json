@@ -112,34 +112,39 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "everton x newcastle": "2026-08-12T15:55:40.102877+00:00"
+    "palmeiras x cerro porteño": "2026-08-12T18:56:49.771436+00:00",
+    "napoli x aris": "2026-08-12T18:56:49.771436+00:00",
+    "man united vs leeds": "2026-08-12T18:56:49.771436+00:00",
+    "psg vs aston villa": "2026-08-12T18:56:49.771436+00:00"
   },
   "USA": {
-    "arsenal vs como": "2026-08-12T17:55:01.950923+00:00",
-    "man united vs leeds": "2026-08-12T17:55:01.950923+00:00",
-    "orioles - twins": "2026-08-12T17:55:01.950923+00:00"
+    "supercopa de europa": "2026-08-12T18:56:53.223279+00:00",
+    "deportivo vs real madrid": "2026-08-12T18:56:53.223279+00:00",
+    "nottm forest vs leverkusen": "2026-08-12T18:56:53.223279+00:00"
   },
   "Mexico": {
-    "psg vs": "2026-08-12T15:55:46.836369+00:00",
-    "super copa europa": "2026-08-12T16:54:31.412755+00:00"
+    "la liga": "2026-08-12T18:56:58.109057+00:00"
   },
   "Nigeria": {
-    "valencia vs teruel": "2026-08-12T17:55:08.813848+00:00"
+    "algeria vs malawi": "2026-08-12T18:57:01.917441+00:00",
+    "premier league table": "2026-08-12T18:57:01.917441+00:00",
+    "deportivo vs real madrid": "2026-08-12T18:57:01.917441+00:00",
+    "nottm forest vs leverkusen": "2026-08-12T18:57:01.917441+00:00"
   },
   "Italy": {
     "afghanistan vs ireland": "2026-08-12T11:02:16.430053+00:00"
   },
   "Morocco": {
-    "johor fc – chelsea": "2026-08-09T13:45:38.979540+00:00",
-    "arsenal vs dortmund": "2026-08-09T14:30:34.715748+00:00"
+    "arsenal vs como": "2026-08-12T18:57:09.440783+00:00"
   },
   "Spain": {
-    "valencia vs teruel": "2026-08-12T16:54:45.236770+00:00"
+    "donde ver la supercopa de europa": "2026-08-12T18:57:13.281377+00:00"
   },
   "UK": {
     "arsenal v como": "2026-08-12T17:55:24.346122+00:00"
   },
   "Canada": {
-    "man united vs leeds": "2026-08-12T17:55:27.967863+00:00"
+    "nottm forest vs leverkusen": "2026-08-12T18:57:20.253829+00:00",
+    "deportivo vs real madrid": "2026-08-12T18:57:20.253829+00:00"
   }
 }
