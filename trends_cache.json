@@ -112,19 +112,27 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "hearts x benfica": "2026-08-13T18:58:04.686160+00:00"
+    "hearts x benfica": "2026-08-13T18:58:04.686160+00:00",
+    "vasco x olimpia": "2026-08-13T19:56:22.935006+00:00",
+    "anderlecht x paok": "2026-08-13T19:56:22.935006+00:00"
   },
   "USA": {
     "shelbourne vs ajax": "2026-08-13T18:58:08.199365+00:00"
   },
   "Mexico": {
-    "euro hoy": "2026-08-13T18:58:11.796062+00:00"
+    "euro hoy": "2026-08-13T18:58:11.796062+00:00",
+    "hearts vs benfica": "2026-08-13T19:56:29.312884+00:00",
+    "rangers vs": "2026-08-13T19:56:29.312884+00:00"
   },
   "Nigeria": {
     "diriyah vs al-ahli": "2026-08-13T18:58:15.169676+00:00",
     "nigeria vs south africa playoff": "2026-08-13T18:58:15.169676+00:00",
     "beşiktaş vs hradec králové": "2026-08-13T18:58:15.169676+00:00",
-    "hearts vs benfica": "2026-08-13T18:58:15.169676+00:00"
+    "hearts vs benfica": "2026-08-13T18:58:15.169676+00:00",
+    "rangers vs jagiellonia białystok": "2026-08-13T19:56:32.963929+00:00",
+    "ivory coast vs ghana": "2026-08-13T19:56:32.963929+00:00",
+    "shelbourne vs ajax": "2026-08-13T19:56:32.963929+00:00",
+    "pafos vs rb salzburg": "2026-08-13T19:56:32.963929+00:00"
   },
   "Italy": {
     "australia vs bangladesh": "2026-08-13T04:07:50.813235+00:00"
@@ -133,13 +141,18 @@
     "morocco vs cameroon": "2026-08-12T23:37:16.620686+00:00"
   },
   "Spain": {
-    "copa libertadores": "2026-08-13T06:13:26.183603+00:00"
+    "rangers vs jagiellonia białystok": "2026-08-13T19:56:43.358808+00:00"
   },
   "UK": {
     "hull kr vs dragons": "2026-08-13T18:58:28.874800+00:00",
-    "rhinos vs leopards": "2026-08-13T18:58:28.874800+00:00"
+    "rhinos vs leopards": "2026-08-13T18:58:28.874800+00:00",
+    "egnatia vs shamrock rovers": "2026-08-13T19:56:46.757350+00:00",
+    "super league": "2026-08-13T19:56:46.757350+00:00",
+    "wolves vs york knights": "2026-08-13T19:56:46.757350+00:00"
   },
   "Canada": {
-    "beşiktaş vs hradec králové": "2026-08-13T18:58:32.351618+00:00"
+    "beşiktaş vs hradec králové": "2026-08-13T18:58:32.351618+00:00",
+    "rangers vs jagiellonia białystok": "2026-08-13T19:56:49.975749+00:00",
+    "nba schedule": "2026-08-13T19:56:49.975749+00:00"
   }
 }
