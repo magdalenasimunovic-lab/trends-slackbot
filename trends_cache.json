@@ -112,10 +112,19 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "escalações de arsenal x manchester city": "2026-08-15T12:29:33.227553+00:00"
+    "escalações de arsenal x manchester city": "2026-08-15T12:29:33.227553+00:00",
+    "newcastle x leverkusen": "2026-08-15T13:26:21.313898+00:00",
+    "mainz 05 x bournemouth": "2026-08-15T13:26:21.313898+00:00",
+    "spurs x hoffenheim": "2026-08-15T13:26:21.313898+00:00",
+    "campeonato ingles": "2026-08-15T13:26:21.313898+00:00",
+    "mjällby x sirius": "2026-08-15T13:26:21.313898+00:00",
+    "chelsea x real sociedad": "2026-08-15T13:26:21.313898+00:00"
   },
   "USA": {
-    "chelsea vs real sociedad": "2026-08-15T12:29:36.707414+00:00"
+    "chelsea vs real sociedad": "2026-08-15T12:29:36.707414+00:00",
+    "newcastle vs leverkusen": "2026-08-15T13:26:24.785323+00:00",
+    "spurs vs hoffenheim": "2026-08-15T13:26:24.785323+00:00",
+    "middlesbrough vs lincoln city": "2026-08-15T13:26:24.785323+00:00"
   },
   "Mexico": {
     "chivas vs santos": "2026-08-15T02:47:55.942697+00:00",
@@ -140,14 +149,14 @@
     "india vs sri lanka": "2026-08-15T07:26:57.246048+00:00"
   },
   "UK": {
-    "broncos vs warriors": "2026-08-15T10:18:35.038688+00:00",
-    "man utd vs ac milan": "2026-08-15T10:18:35.038688+00:00",
-    "ireland vs afghanistan": "2026-08-15T10:18:35.038688+00:00",
-    "newport county vs rochdale": "2026-08-15T11:16:46.498686+00:00",
-    "oldham athletic vs port vale": "2026-08-15T11:16:46.498686+00:00",
-    "bolton vs preston": "2026-08-15T11:16:46.498686+00:00",
-    "reading vs luton town": "2026-08-15T11:16:46.498686+00:00",
-    "notts county vs leicester city": "2026-08-15T11:16:46.498686+00:00"
+    "stoke city vs swansea": "2026-08-15T13:26:44.729349+00:00",
+    "bristol city vs millwall": "2026-08-15T13:26:44.729349+00:00",
+    "charlton vs derby county": "2026-08-15T13:26:44.729349+00:00",
+    "plymouth vs stockport": "2026-08-15T13:26:44.729349+00:00",
+    "southend utd vs scunthorpe": "2026-08-15T13:26:44.729349+00:00",
+    "newcastle vs leverkusen": "2026-08-15T13:26:44.729349+00:00",
+    "middlesbrough vs lincoln city": "2026-08-15T13:26:44.729349+00:00",
+    "spurs vs hoffenheim": "2026-08-15T13:26:44.729349+00:00"
   },
   "Canada": {
     "premier league": "2026-08-15T08:23:10.445318+00:00"
