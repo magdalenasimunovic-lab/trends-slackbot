@@ -112,16 +112,18 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "milan x manchester united": "2026-08-15T14:17:37.418789+00:00",
-    "everton x losc": "2026-08-15T14:17:37.418789+00:00",
-    "fulham x vfb stuttgart": "2026-08-15T15:15:47.179459+00:00",
-    "brentford x eintracht": "2026-08-15T15:15:47.179459+00:00"
+    "inter x betis": "2026-08-15T17:16:56.295719+00:00",
+    "alavés x getafe": "2026-08-15T17:16:56.295719+00:00",
+    "classificações de esporte clube são bernardo x são josé esporte clube": "2026-08-15T17:16:56.295719+00:00"
   },
   "USA": {
     "nfl today": "2026-08-15T16:19:00.869148+00:00",
     "sheffield united vs birmingham": "2026-08-15T16:19:00.869148+00:00",
     "zuffa boxing release oleksandr gvozdyk": "2026-08-15T16:19:00.869148+00:00",
-    "kasımpaşa vs trabzonspor": "2026-08-15T16:19:00.869148+00:00"
+    "kasımpaşa vs trabzonspor": "2026-08-15T16:19:00.869148+00:00",
+    "nfl sunday ticket": "2026-08-15T17:16:59.472776+00:00",
+    "nfl plus": "2026-08-15T17:16:59.472776+00:00",
+    "nfl+": "2026-08-15T17:16:59.472776+00:00"
   },
   "Mexico": {
     "union saint-gilloise vs. zulte waregem": "2026-08-15T16:19:04.256738+00:00",
@@ -132,10 +134,12 @@
     "sheffield united vs birmingham": "2026-08-15T16:19:07.700838+00:00",
     "bristol city vs millwall": "2026-08-15T16:19:07.700838+00:00",
     "brighton vs bologna": "2026-08-15T16:19:07.700838+00:00",
-    "union gilloise vs sv zulte waregem": "2026-08-15T16:19:07.700838+00:00"
+    "union gilloise vs sv zulte waregem": "2026-08-15T16:19:07.700838+00:00",
+    "alavés vs getafe": "2026-08-15T17:17:05.958799+00:00",
+    "dundee united vs celtic": "2026-08-15T17:17:05.958799+00:00"
   },
   "Italy": {
-    "dortmund vs roma": "2026-08-15T15:16:00.724270+00:00"
+    "premier league": "2026-08-15T17:17:09.215820+00:00"
   },
   "Morocco": {
     "premier league": "2026-08-15T14:17:54.903216+00:00"
@@ -145,9 +149,13 @@
   },
   "UK": {
     "premier league table": "2026-08-15T16:19:21.462923+00:00",
-    "zuffa boxing release oleksandr gvozdyk": "2026-08-15T16:19:21.462923+00:00"
+    "zuffa boxing release oleksandr gvozdyk": "2026-08-15T16:19:21.462923+00:00",
+    "worthing f.c. vs forest green rovers f.c. standings": "2026-08-15T17:17:18.897855+00:00",
+    "accrington stanley vs colchester united f.c. standings": "2026-08-15T17:17:18.897855+00:00",
+    "bulls vs warriors": "2026-08-15T17:17:18.897855+00:00"
   },
   "Canada": {
-    "kasımpaşa vs trabzonspor": "2026-08-15T16:19:25.046905+00:00"
+    "kasımpaşa vs trabzonspor": "2026-08-15T16:19:25.046905+00:00",
+    "sheffield united vs birmingham": "2026-08-15T17:17:22.307913+00:00"
   }
 }
