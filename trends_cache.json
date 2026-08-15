@@ -112,22 +112,17 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "newcastle x leverkusen": "2026-08-15T13:26:21.313898+00:00",
-    "mainz 05 x bournemouth": "2026-08-15T13:26:21.313898+00:00",
-    "spurs x hoffenheim": "2026-08-15T13:26:21.313898+00:00",
-    "campeonato ingles": "2026-08-15T13:26:21.313898+00:00",
-    "mjällby x sirius": "2026-08-15T13:26:21.313898+00:00",
-    "chelsea x real sociedad": "2026-08-15T13:26:21.313898+00:00",
     "milan x manchester united": "2026-08-15T14:17:37.418789+00:00",
-    "everton x losc": "2026-08-15T14:17:37.418789+00:00"
+    "everton x losc": "2026-08-15T14:17:37.418789+00:00",
+    "fulham x vfb stuttgart": "2026-08-15T15:15:47.179459+00:00",
+    "brentford x eintracht": "2026-08-15T15:15:47.179459+00:00"
   },
   "USA": {
-    "newcastle vs leverkusen": "2026-08-15T13:26:24.785323+00:00",
-    "spurs vs hoffenheim": "2026-08-15T13:26:24.785323+00:00",
-    "middlesbrough vs lincoln city": "2026-08-15T13:26:24.785323+00:00",
     "milan vs man united": "2026-08-15T14:17:40.841661+00:00",
     "stoke city vs swansea": "2026-08-15T14:17:40.841661+00:00",
-    "mainz vs bournemouth": "2026-08-15T14:17:40.841661+00:00"
+    "mainz vs bournemouth": "2026-08-15T14:17:40.841661+00:00",
+    "dortmund vs roma": "2026-08-15T15:15:50.630543+00:00",
+    "fulham vs vfb stuttgart": "2026-08-15T15:15:50.630543+00:00"
   },
   "Mexico": {
     "chelsea vs real sociedad": "2026-08-15T14:17:44.401984+00:00"
@@ -137,38 +132,37 @@
     "bolton vs preston": "2026-08-15T14:17:47.820089+00:00",
     "bayern munich vs rb leipzig": "2026-08-15T14:17:47.820089+00:00",
     "newcastle vs leverkusen": "2026-08-15T14:17:47.820089+00:00",
-    "mainz vs bournemouth": "2026-08-15T14:17:47.820089+00:00"
+    "mainz vs bournemouth": "2026-08-15T14:17:47.820089+00:00",
+    "union gilloise vs sv zulte waregem": "2026-08-15T15:15:57.142937+00:00",
+    "fulham vs vfb stuttgart": "2026-08-15T15:15:57.142937+00:00",
+    "dortmund vs roma": "2026-08-15T15:15:57.142937+00:00",
+    "middlesbrough vs lincoln city": "2026-08-15T15:15:57.142937+00:00",
+    "milan vs man united": "2026-08-15T15:15:57.142937+00:00"
   },
   "Italy": {
-    "ireland vs afghanistan": "2026-08-15T10:18:25.233590+00:00",
-    "us open": "2026-08-15T10:18:25.233590+00:00"
+    "dortmund vs roma": "2026-08-15T15:16:00.724270+00:00"
   },
   "Morocco": {
     "premier league": "2026-08-15T14:17:54.903216+00:00"
   },
   "Spain": {
-    "ind vs sl": "2026-08-15T07:26:57.246048+00:00",
-    "india vs sri lanka": "2026-08-15T07:26:57.246048+00:00"
+    "spurs vs hoffenheim": "2026-08-15T15:16:07.589137+00:00"
   },
   "UK": {
-    "stoke city vs swansea": "2026-08-15T13:26:44.729349+00:00",
-    "bristol city vs millwall": "2026-08-15T13:26:44.729349+00:00",
-    "charlton vs derby county": "2026-08-15T13:26:44.729349+00:00",
-    "plymouth vs stockport": "2026-08-15T13:26:44.729349+00:00",
-    "southend utd vs scunthorpe": "2026-08-15T13:26:44.729349+00:00",
-    "newcastle vs leverkusen": "2026-08-15T13:26:44.729349+00:00",
-    "middlesbrough vs lincoln city": "2026-08-15T13:26:44.729349+00:00",
-    "spurs vs hoffenheim": "2026-08-15T13:26:44.729349+00:00",
     "barnet vs salford city": "2026-08-15T14:18:01.785864+00:00",
     "linfield vs glentoran f.c.": "2026-08-15T14:18:01.785864+00:00",
     "burton vs stevenage": "2026-08-15T14:18:01.785864+00:00",
     "dunbar rnli tombstoning warning": "2026-08-15T14:18:01.785864+00:00",
-    "accrington stanley vs colchester": "2026-08-15T14:18:01.785864+00:00"
+    "accrington stanley vs colchester": "2026-08-15T14:18:01.785864+00:00",
+    "bangor vs cliftonville": "2026-08-15T15:16:11.075443+00:00",
+    "dortmund vs roma": "2026-08-15T15:16:11.075443+00:00"
   },
   "Canada": {
     "milan vs man united": "2026-08-15T14:18:05.436351+00:00",
     "spurs vs hoffenheim": "2026-08-15T14:18:05.436351+00:00",
     "notts county vs leicester city": "2026-08-15T14:18:05.436351+00:00",
-    "newcastle vs leverkusen": "2026-08-15T14:18:05.436351+00:00"
+    "newcastle vs leverkusen": "2026-08-15T14:18:05.436351+00:00",
+    "middlesbrough vs lincoln city": "2026-08-15T15:16:14.614239+00:00",
+    "dortmund vs roma": "2026-08-15T15:16:14.614239+00:00"
   }
 }
