@@ -112,12 +112,11 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "chapecoense x bahia": "2026-08-16T12:31:14.211397+00:00",
-    "supercopa inglesa": "2026-08-16T12:31:14.211397+00:00",
-    "bundesliga 2": "2026-08-16T12:31:14.211397+00:00",
     "operário x avaí": "2026-08-16T13:27:25.878573+00:00",
     "premier league": "2026-08-16T13:27:25.878573+00:00",
-    "watford x southampton": "2026-08-16T13:27:25.878573+00:00"
+    "watford x southampton": "2026-08-16T13:27:25.878573+00:00",
+    "schalke x real madrid": "2026-08-16T14:18:05.152693+00:00",
+    "ajax x heerenveen": "2026-08-16T14:18:05.152693+00:00"
   },
   "USA": {
     "watford vs southampton": "2026-08-16T12:31:17.647658+00:00",
@@ -125,18 +124,16 @@
     "premier league": "2026-08-16T13:27:29.261002+00:00"
   },
   "Mexico": {
-    "premier league": "2026-08-16T13:27:32.750907+00:00"
+    "premier league": "2026-08-16T13:27:32.750907+00:00",
+    "real madrid vs schalke 04": "2026-08-16T14:18:11.607955+00:00"
   },
   "Nigeria": {
-    "feyenoord vs go ahead eagles": "2026-08-16T12:31:24.455032+00:00",
-    "watford vs southampton": "2026-08-16T12:31:24.455032+00:00",
-    "burnley vs west ham": "2026-08-16T12:31:24.455032+00:00",
-    "braga vs gil vicente barcelos": "2026-08-16T12:31:24.455032+00:00",
-    "braga vs gil vicente": "2026-08-16T12:31:24.455032+00:00",
-    "chelsea fc real sociedad": "2026-08-16T12:31:24.455032+00:00",
     "nottm forest vs brest": "2026-08-16T13:27:36.240418+00:00",
     "hannover 96 vs wolfsburg": "2026-08-16T13:27:36.240418+00:00",
-    "fantasy premier league": "2026-08-16T13:27:36.240418+00:00"
+    "fantasy premier league": "2026-08-16T13:27:36.240418+00:00",
+    "schalke vs real madrid": "2026-08-16T14:18:15.065464+00:00",
+    "ajax vs heerenveen": "2026-08-16T14:18:15.065464+00:00",
+    "premier league table": "2026-08-16T14:18:15.065464+00:00"
   },
   "Italy": {
     "india vs sri lanka": "2026-08-16T10:19:03.442128+00:00",
@@ -146,16 +143,17 @@
     "ufc 330 carte": "2026-08-16T05:23:51.125499+00:00"
   },
   "Spain": {
-    "spurs vs hoffenheim": "2026-08-16T12:31:34.723545+00:00"
+    "donde ver arsenal vs city": "2026-08-16T14:18:25.214810+00:00",
+    "nottm forest vs brest": "2026-08-16T14:18:25.214810+00:00"
   },
   "UK": {
-    "nottm forest vs brest": "2026-08-16T12:31:38.115270+00:00",
-    "hearts vs inverness ct": "2026-08-16T12:31:38.115270+00:00",
-    "watford vs southampton": "2026-08-16T12:31:38.115270+00:00",
-    "feyenoord vs go ahead eagles": "2026-08-16T13:27:49.873980+00:00"
+    "feyenoord vs go ahead eagles": "2026-08-16T13:27:49.873980+00:00",
+    "burnley vs west ham": "2026-08-16T14:18:28.590262+00:00",
+    "football fixtures": "2026-08-16T14:18:28.590262+00:00"
   },
   "Canada": {
     "watford vs southampton": "2026-08-16T13:27:53.336912+00:00",
-    "premier league": "2026-08-16T13:27:53.336912+00:00"
+    "premier league": "2026-08-16T13:27:53.336912+00:00",
+    "nottm forest vs brest": "2026-08-16T14:18:32.059561+00:00"
   }
 }
