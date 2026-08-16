@@ -114,15 +114,18 @@
   "Brazil": {
     "chapecoense x bahia": "2026-08-16T12:31:14.211397+00:00",
     "supercopa inglesa": "2026-08-16T12:31:14.211397+00:00",
-    "bundesliga 2": "2026-08-16T12:31:14.211397+00:00"
+    "bundesliga 2": "2026-08-16T12:31:14.211397+00:00",
+    "operário x avaí": "2026-08-16T13:27:25.878573+00:00",
+    "premier league": "2026-08-16T13:27:25.878573+00:00",
+    "watford x southampton": "2026-08-16T13:27:25.878573+00:00"
   },
   "USA": {
-    "watford vs southampton": "2026-08-16T12:31:17.647658+00:00"
+    "watford vs southampton": "2026-08-16T12:31:17.647658+00:00",
+    "nottm forest vs brest": "2026-08-16T13:27:29.261002+00:00",
+    "premier league": "2026-08-16T13:27:29.261002+00:00"
   },
   "Mexico": {
-    "ufc 333": "2026-08-16T03:45:42.492131+00:00",
-    "tigres vs juarez": "2026-08-16T03:45:42.492131+00:00",
-    "los angeles vs": "2026-08-16T04:31:38.821415+00:00"
+    "premier league": "2026-08-16T13:27:32.750907+00:00"
   },
   "Nigeria": {
     "feyenoord vs go ahead eagles": "2026-08-16T12:31:24.455032+00:00",
@@ -130,7 +133,10 @@
     "burnley vs west ham": "2026-08-16T12:31:24.455032+00:00",
     "braga vs gil vicente barcelos": "2026-08-16T12:31:24.455032+00:00",
     "braga vs gil vicente": "2026-08-16T12:31:24.455032+00:00",
-    "chelsea fc real sociedad": "2026-08-16T12:31:24.455032+00:00"
+    "chelsea fc real sociedad": "2026-08-16T12:31:24.455032+00:00",
+    "nottm forest vs brest": "2026-08-16T13:27:36.240418+00:00",
+    "hannover 96 vs wolfsburg": "2026-08-16T13:27:36.240418+00:00",
+    "fantasy premier league": "2026-08-16T13:27:36.240418+00:00"
   },
   "Italy": {
     "india vs sri lanka": "2026-08-16T10:19:03.442128+00:00",
@@ -145,9 +151,11 @@
   "UK": {
     "nottm forest vs brest": "2026-08-16T12:31:38.115270+00:00",
     "hearts vs inverness ct": "2026-08-16T12:31:38.115270+00:00",
-    "watford vs southampton": "2026-08-16T12:31:38.115270+00:00"
+    "watford vs southampton": "2026-08-16T12:31:38.115270+00:00",
+    "feyenoord vs go ahead eagles": "2026-08-16T13:27:49.873980+00:00"
   },
   "Canada": {
-    "spurs vs hoffenheim": "2026-08-16T11:17:02.851232+00:00"
+    "watford vs southampton": "2026-08-16T13:27:53.336912+00:00",
+    "premier league": "2026-08-16T13:27:53.336912+00:00"
   }
 }
