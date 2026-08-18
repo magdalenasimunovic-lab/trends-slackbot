@@ -113,11 +113,14 @@
   },
   "Brazil": {
     "fenerbahçe x lyon": "2026-08-18T18:32:01.517436+00:00",
-    "champions league": "2026-08-18T18:32:01.517436+00:00"
+    "champions league": "2026-08-18T18:32:01.517436+00:00",
+    "uefa champions league": "2026-08-18T19:24:09.945459+00:00",
+    "dínamo x viking": "2026-08-18T19:24:09.945459+00:00"
   },
   "USA": {
     "fenerbahçe vs ol": "2026-08-18T18:32:04.887550+00:00",
-    "diriyah vs al-nassr": "2026-08-18T18:32:04.887550+00:00"
+    "diriyah vs al-nassr": "2026-08-18T18:32:04.887550+00:00",
+    "levski sofia vs aek": "2026-08-18T19:24:13.391544+00:00"
   },
   "Mexico": {
     "al-najma sc - al ittihad": "2026-08-18T18:32:08.511303+00:00"
@@ -127,10 +130,10 @@
     "diriyah vs al-nassr": "2026-08-18T18:32:12.051453+00:00"
   },
   "Italy": {
-    "india vs sri lanka": "2026-08-18T05:24:29.009687+00:00"
+    "champions league": "2026-08-18T19:24:23.653789+00:00"
   },
   "Morocco": {
-    "cameroun vs malawi": "2026-08-16T22:16:22.005157+00:00"
+    "diriyah vs al-nassr": "2026-08-18T19:24:27.300938+00:00"
   },
   "Spain": {
     "al-najma sc - al ittihad": "2026-08-18T18:32:22.524455+00:00"
@@ -140,10 +143,12 @@
     "reading vs wycombe": "2026-08-18T18:32:25.844600+00:00",
     "stockport vs everton u-21": "2026-08-18T18:32:25.844600+00:00",
     "leyton orient vs afc wimbledon": "2026-08-18T18:32:25.844600+00:00",
-    "diriyah vs al-nassr": "2026-08-18T18:32:25.844600+00:00"
+    "diriyah vs al-nassr": "2026-08-18T18:32:25.844600+00:00",
+    "champions league": "2026-08-18T19:24:34.207668+00:00"
   },
   "Canada": {
     "fenerbahçe vs ol": "2026-08-18T18:32:29.255190+00:00",
-    "diriyah vs al-nassr": "2026-08-18T18:32:29.255190+00:00"
+    "diriyah vs al-nassr": "2026-08-18T18:32:29.255190+00:00",
+    "nassaji mazandaran vs esteghlal": "2026-08-18T19:24:37.732226+00:00"
   }
 }
