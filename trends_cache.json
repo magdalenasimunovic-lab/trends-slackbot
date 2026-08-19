@@ -113,18 +113,24 @@
   },
   "Brazil": {
     "atlético madrid x málaga": "2026-08-19T18:28:53.805936+00:00",
-    "barcelona x al ahly": "2026-08-19T18:28:53.805936+00:00"
+    "barcelona x al ahly": "2026-08-19T18:28:53.805936+00:00",
+    "la liga": "2026-08-19T19:21:07.758622+00:00",
+    "nec x bodø/glimt": "2026-08-19T19:21:07.758622+00:00",
+    "celtic x lask": "2026-08-19T19:21:07.758622+00:00"
   },
   "USA": {
     "atlético madrid vs málaga": "2026-08-19T18:28:57.059762+00:00"
   },
   "Mexico": {
     "celtic vs": "2026-08-19T18:29:00.484599+00:00",
-    "barcelona vs al ahly": "2026-08-19T18:29:00.484599+00:00"
+    "barcelona vs al ahly": "2026-08-19T18:29:00.484599+00:00",
+    "celtic vs lask": "2026-08-19T19:21:14.378099+00:00"
   },
   "Nigeria": {
     "atlético madrid vs málaga": "2026-08-19T18:29:03.925005+00:00",
-    "atletico madrid vs malaga": "2026-08-19T18:29:03.925005+00:00"
+    "atletico madrid vs malaga": "2026-08-19T18:29:03.925005+00:00",
+    "nec vs bodø/glimt": "2026-08-19T19:21:17.968315+00:00",
+    "celtic vs lask": "2026-08-19T19:21:17.968315+00:00"
   },
   "Italy": {
     "eng vs pak": "2026-08-19T09:29:11.495858+00:00"
@@ -137,10 +143,12 @@
   },
   "UK": {
     "atlético madrid vs málaga": "2026-08-19T18:29:21.304289+00:00",
-    "mansfield town vs man city u-21": "2026-08-19T18:29:21.304289+00:00"
+    "mansfield town vs man city u-21": "2026-08-19T18:29:21.304289+00:00",
+    "nec vs bodø/glimt": "2026-08-19T19:21:31.686534+00:00"
   },
   "Canada": {
     "atlético madrid vs málaga": "2026-08-19T18:29:24.883611+00:00",
-    "barcelona vs al ahly": "2026-08-19T18:29:24.883611+00:00"
+    "barcelona vs al ahly": "2026-08-19T18:29:24.883611+00:00",
+    "celtic vs lask": "2026-08-19T19:21:35.390047+00:00"
   }
 }
