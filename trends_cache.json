@@ -112,11 +112,9 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "atlético madrid x málaga": "2026-08-19T18:28:53.805936+00:00",
-    "barcelona x al ahly": "2026-08-19T18:28:53.805936+00:00",
-    "la liga": "2026-08-19T19:21:07.758622+00:00",
-    "nec x bodø/glimt": "2026-08-19T19:21:07.758622+00:00",
-    "celtic x lask": "2026-08-19T19:21:07.758622+00:00"
+    "atlético-mg x bragantino": "2026-08-19T21:20:58.132952+00:00",
+    "ccp vs palmeiras": "2026-08-19T21:20:58.132952+00:00",
+    "onde assistir flamengo x cruzeiro esporte clube": "2026-08-19T21:20:58.132952+00:00"
   },
   "USA": {
     "nec vs bodø/glimt": "2026-08-19T20:21:41.157495+00:00",
@@ -124,7 +122,9 @@
   },
   "Mexico": {
     "uefa champions league": "2026-08-19T20:21:44.450332+00:00",
-    "champions league": "2026-08-19T20:21:44.450332+00:00"
+    "champions league": "2026-08-19T20:21:44.450332+00:00",
+    "liga de campeones de la uefa": "2026-08-19T21:21:04.627863+00:00",
+    "atletico madrid vs": "2026-08-19T21:21:04.627863+00:00"
   },
   "Nigeria": {
     "slovan bratislava vs nk celje": "2026-08-19T20:21:48.010231+00:00",
@@ -144,8 +144,6 @@
     "celtic fc fixtures": "2026-08-19T20:22:01.270806+00:00"
   },
   "Canada": {
-    "atlético madrid vs málaga": "2026-08-19T18:29:24.883611+00:00",
-    "barcelona vs al ahly": "2026-08-19T18:29:24.883611+00:00",
-    "celtic vs lask": "2026-08-19T19:21:35.390047+00:00"
+    "little league world series 2026": "2026-08-19T21:21:24.646331+00:00"
   }
 }
