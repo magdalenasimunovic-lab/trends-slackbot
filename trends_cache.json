@@ -112,14 +112,7 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "união são joão x noroeste": "2026-08-19T22:19:56.760157+00:00",
-    "fortaleza x são bernardo": "2026-08-19T22:19:56.760157+00:00",
-    "avaí x sport recife": "2026-08-19T22:19:56.760157+00:00",
-    "libertadores 2026": "2026-08-19T23:19:12.336902+00:00",
-    "orlando city x chicago fire": "2026-08-19T23:19:12.336902+00:00",
-    "vila nova x ponte preta": "2026-08-19T23:19:12.336902+00:00",
-    "philadelphia union x inter miami": "2026-08-19T23:19:12.336902+00:00",
-    "cuiabá x operário": "2026-08-19T23:19:12.336902+00:00"
+    "classificação libertadores 2026": "2026-08-20T02:52:42.416368+00:00"
   },
   "USA": {
     "austin vs seattle sounders": "2026-08-20T01:00:49.909799+00:00",
@@ -131,25 +124,29 @@
     "orlando vs chicago": "2026-08-20T01:00:53.480963+00:00"
   },
   "Nigeria": {
-    "sporting kansas city vs saint louis city sc": "2026-08-20T01:00:57.037928+00:00",
-    "philadelphia vs inter miami": "2026-08-20T01:00:57.037928+00:00",
-    "ccp vs palmeiras": "2026-08-20T01:00:57.037928+00:00",
-    "atlético madrid vs málaga cf standings": "2026-08-20T01:00:57.037928+00:00",
-    "rangers vs st mirren fc": "2026-08-20T01:00:57.037928+00:00"
+    "orlando city sc vs chicago fire": "2026-08-20T02:52:52.094745+00:00",
+    "ny red bulls vs nashville": "2026-08-20T02:52:52.094745+00:00",
+    "sporting kansas city vs saint louis city sc": "2026-08-20T02:52:52.094745+00:00",
+    "inter miami vs philadelphia": "2026-08-20T02:52:52.094745+00:00"
   },
   "Italy": {
-    "eng vs pak": "2026-08-19T09:29:11.495858+00:00"
+    "mls": "2026-08-20T02:52:55.609249+00:00"
   },
   "Morocco": {
     "barca vs": "2026-08-19T18:29:14.373682+00:00"
   },
   "Spain": {
-    "copa libertadores": "2026-08-20T01:01:07.630679+00:00"
+    "mls": "2026-08-20T02:53:02.470445+00:00"
   },
   "UK": {
-    "philadelphia vs inter miami": "2026-08-20T01:01:11.094681+00:00"
+    "mls": "2026-08-20T02:53:05.773081+00:00",
+    "flamengo vs cruzeiro": "2026-08-20T02:53:05.773081+00:00",
+    "orlando city vs chicago": "2026-08-20T02:53:05.773081+00:00"
   },
   "Canada": {
-    "flamengo vs cruzeiro": "2026-08-20T01:01:14.594754+00:00"
+    "lynx vs valkyries": "2026-08-20T02:53:09.235126+00:00",
+    "houston dynamo vs vancouver": "2026-08-20T02:53:09.235126+00:00",
+    "lafc vs colorado": "2026-08-20T02:53:09.235126+00:00",
+    "mls scores": "2026-08-20T02:53:09.235126+00:00"
   }
 }
