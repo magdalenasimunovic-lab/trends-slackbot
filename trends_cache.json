@@ -116,21 +116,28 @@
     "ldu quito x mirassol": "2026-08-20T21:23:29.231325+00:00",
     "olimpia x vasco da gama": "2026-08-20T21:23:29.231325+00:00",
     "nba": "2026-08-20T21:23:29.231325+00:00",
-    "copacabana": "2026-08-20T21:23:29.231325+00:00"
+    "copacabana": "2026-08-20T21:23:29.231325+00:00",
+    "athletic x crb": "2026-08-20T22:22:18.727680+00:00"
   },
   "USA": {
-    "macará vs santos": "2026-08-20T21:23:32.587153+00:00"
+    "macará vs santos": "2026-08-20T21:23:32.587153+00:00",
+    "yankees vs orioles prediction": "2026-08-20T22:22:22.080868+00:00",
+    "olimpia vs vasco": "2026-08-20T22:22:22.080868+00:00",
+    "ldu quito vs mirassol": "2026-08-20T22:22:22.080868+00:00"
   },
   "Mexico": {
     "olimpia vs vasco da gama": "2026-08-20T21:23:35.897959+00:00",
     "botafogo vs cienciano": "2026-08-20T21:23:35.897959+00:00",
-    "getafe vs partizan": "2026-08-20T21:23:35.897959+00:00"
+    "getafe vs partizan": "2026-08-20T21:23:35.897959+00:00",
+    "corinthians vs rosario central": "2026-08-20T22:22:25.482905+00:00",
+    "america vs juarez": "2026-08-20T22:22:25.482905+00:00"
   },
   "Nigeria": {
     "rangers vs jablonec": "2026-08-20T21:23:39.406877+00:00",
     "braga vs austria wien": "2026-08-20T21:23:39.406877+00:00",
     "motherwell vs freiburg": "2026-08-20T21:23:39.406877+00:00",
-    "rayo vallecano vs alaves": "2026-08-20T21:23:39.406877+00:00"
+    "rayo vallecano vs alaves": "2026-08-20T21:23:39.406877+00:00",
+    "macará vs santos": "2026-08-20T22:22:29.129699+00:00"
   },
   "Italy": {
     "partite serie a": "2026-08-20T20:23:21.720343+00:00"
@@ -142,12 +149,11 @@
     "rangers vs jablonec": "2026-08-20T19:27:39.637496+00:00"
   },
   "UK": {
-    "benfica vs agf": "2026-08-20T18:33:27.786162+00:00",
-    "rangers vs jablonec": "2026-08-20T18:33:27.786162+00:00",
-    "lech poznań vs thun": "2026-08-20T18:33:27.786162+00:00"
+    "macará vs santos": "2026-08-20T22:22:42.811977+00:00"
   },
   "Canada": {
     "mlb wild card": "2026-08-20T21:23:56.756563+00:00",
-    "mlb standings wild card": "2026-08-20T21:23:56.756563+00:00"
+    "mlb standings wild card": "2026-08-20T21:23:56.756563+00:00",
+    "macará vs santos": "2026-08-20T22:22:46.190383+00:00"
   }
 }
