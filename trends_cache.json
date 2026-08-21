@@ -118,19 +118,21 @@
   },
   "USA": {
     "marseille vs strasbourg": "2026-08-21T18:30:43.501157+00:00",
-    "betis vs real sociedad": "2026-08-21T18:30:43.501157+00:00"
+    "betis vs real sociedad": "2026-08-21T18:30:43.501157+00:00",
+    "córdoba vs girona": "2026-08-21T19:22:31.122481+00:00"
   },
   "Mexico": {
-    "arsenal vs coventry": "2026-08-21T16:28:34.654054+00:00",
-    "serie a": "2026-08-21T17:24:18.111220+00:00",
-    "al riyadh vs. al-nassr": "2026-08-21T17:24:18.111220+00:00"
+    "chivas vs tijuana": "2026-08-21T19:22:34.619224+00:00",
+    "real betis vs. real sociedad": "2026-08-21T19:22:34.619224+00:00"
   },
   "Nigeria": {
     "betis vs real sociedad": "2026-08-21T18:30:50.143888+00:00",
     "erzurumspor vs galatasaray": "2026-08-21T18:30:50.143888+00:00",
     "real madrid squad vs espanyol": "2026-08-21T18:30:50.143888+00:00",
     "al qadsiah vs al-ittihad": "2026-08-21T18:30:50.143888+00:00",
-    "union berlin vs bayern": "2026-08-21T18:30:50.143888+00:00"
+    "union berlin vs bayern": "2026-08-21T18:30:50.143888+00:00",
+    "hansa vs vfb stuttgart": "2026-08-21T19:22:38.143739+00:00",
+    "al-faisaly fc vs neom sc": "2026-08-21T19:22:38.143739+00:00"
   },
   "Italy": {
     "al-riyadh vs al-nassr": "2026-08-21T16:28:42.079045+00:00"
@@ -144,11 +146,14 @@
     "arsenal vs coventry": "2026-08-21T18:31:00.935666+00:00"
   },
   "UK": {
-    "betis vs real sociedad": "2026-08-21T18:31:04.468196+00:00"
+    "betis vs real sociedad": "2026-08-21T18:31:04.468196+00:00",
+    "leopards vs bulls": "2026-08-21T19:22:52.299881+00:00",
+    "linfield vs cliftonville": "2026-08-21T19:22:52.299881+00:00",
+    "liverpool transfer": "2026-08-21T19:22:52.299881+00:00",
+    "córdoba vs girona": "2026-08-21T19:22:52.299881+00:00"
   },
   "Canada": {
-    "arsenal vs coventry": "2026-08-21T14:30:50.512858+00:00",
-    "us open": "2026-08-21T15:28:43.127134+00:00",
-    "f1 tv": "2026-08-21T15:28:43.127134+00:00"
+    "premier league standings": "2026-08-21T19:22:55.891677+00:00",
+    "betis vs real sociedad": "2026-08-21T19:22:55.891677+00:00"
   }
 }
