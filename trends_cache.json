@@ -112,7 +112,8 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "juárez x club américa": "2026-08-22T02:50:14.559950+00:00"
+    "juárez x club américa": "2026-08-22T02:50:14.559950+00:00",
+    "querétaro x toluca": "2026-08-22T03:38:10.459527+00:00"
   },
   "USA": {
     "twins vs padres": "2026-08-22T01:00:50.340902+00:00",
@@ -121,7 +122,8 @@
     "tigres uanl vs atlante": "2026-08-22T01:00:50.340902+00:00"
   },
   "Mexico": {
-    "ipswich vs sunderland": "2026-08-22T02:50:21.123981+00:00"
+    "ipswich vs sunderland": "2026-08-22T02:50:21.123981+00:00",
+    "tigres uanl vs atlante f.c. standings": "2026-08-22T03:38:17.122783+00:00"
   },
   "Nigeria": {
     "olympique de marseille vs rc strasbourg alsace standings": "2026-08-22T01:00:56.917098+00:00"
@@ -141,6 +143,7 @@
   "Canada": {
     "pirates vs dodgers": "2026-08-22T02:50:41.232074+00:00",
     "fire vs tempo": "2026-08-22T02:50:41.232074+00:00",
-    "cubs vs mariners": "2026-08-22T02:50:41.232074+00:00"
+    "cubs vs mariners": "2026-08-22T02:50:41.232074+00:00",
+    "minnesota twins": "2026-08-22T03:38:37.542144+00:00"
   }
 }
