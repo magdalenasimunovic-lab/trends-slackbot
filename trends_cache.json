@@ -116,45 +116,56 @@
     "rennes x psg": "2026-08-23T18:23:06.953338+00:00",
     "torino x milan": "2026-08-23T18:23:06.953338+00:00",
     "atalanta x sassuolo": "2026-08-23T18:23:06.953338+00:00",
-    "torque x montevideo wanderers": "2026-08-23T18:23:06.953338+00:00"
+    "torque x montevideo wanderers": "2026-08-23T18:23:06.953338+00:00",
+    "brusque x amazonas fc": "2026-08-23T19:19:15.750857+00:00",
+    "porto x arouca": "2026-08-23T19:19:15.750857+00:00",
+    "chapecoense x são paulo": "2026-08-23T19:19:15.750857+00:00"
   },
   "USA": {
     "rennes vs psg": "2026-08-23T18:23:10.354328+00:00",
-    "torino vs milan": "2026-08-23T18:23:10.354328+00:00"
+    "torino vs milan": "2026-08-23T18:23:10.354328+00:00",
+    "storm vs wings": "2026-08-23T19:19:19.051939+00:00"
   },
   "Mexico": {
-    "f1 standings": "2026-08-23T16:20:10.061146+00:00",
-    "rennes vs psg": "2026-08-23T17:17:03.395676+00:00",
-    "getafe vs": "2026-08-23T17:17:03.395676+00:00",
-    "frosinone vs juventus": "2026-08-23T17:17:03.395676+00:00",
-    "us open": "2026-08-23T17:17:03.395676+00:00"
+    "paris vs": "2026-08-23T19:19:22.480248+00:00",
+    "atalanta vs": "2026-08-23T19:19:22.480248+00:00"
   },
   "Nigeria": {
     "torino vs milan": "2026-08-23T18:23:17.187982+00:00",
-    "al ahly vs eastern enppi": "2026-08-23T18:23:17.187982+00:00"
+    "al ahly vs eastern enppi": "2026-08-23T18:23:17.187982+00:00",
+    "trabzonspor vs i̇stanbul başakşehir standings": "2026-08-23T19:19:25.965628+00:00",
+    "porto vs arouca": "2026-08-23T19:19:25.965628+00:00"
   },
   "Italy": {
     "rennes vs psg": "2026-08-23T18:23:20.775941+00:00",
-    "newcastle united f.c. vs liverpool f.c. standings": "2026-08-23T18:23:20.775941+00:00"
+    "newcastle united f.c. vs liverpool f.c. standings": "2026-08-23T18:23:20.775941+00:00",
+    "elche vs barcelona": "2026-08-23T19:19:29.251087+00:00"
   },
   "Morocco": {
     "rennes vs psg": "2026-08-23T18:23:24.349367+00:00",
-    "barca vs": "2026-08-23T18:23:24.349367+00:00"
+    "barca vs": "2026-08-23T18:23:24.349367+00:00",
+    "elche vs barcelona": "2026-08-23T19:19:32.704597+00:00"
   },
   "Spain": {
     "rennes vs psg": "2026-08-23T18:23:28.019269+00:00",
-    "newcastle united f.c. vs liverpool f.c. standings": "2026-08-23T18:23:28.019269+00:00"
+    "newcastle united f.c. vs liverpool f.c. standings": "2026-08-23T18:23:28.019269+00:00",
+    "alineaciones de getafe cf contra racing de santander": "2026-08-23T19:19:36.150871+00:00"
   },
   "UK": {
     "atalanta vs sassuolo": "2026-08-23T18:23:31.945124+00:00",
     "yankees vs blue jays": "2026-08-23T18:23:31.945124+00:00",
     "rennes vs psg": "2026-08-23T18:23:31.945124+00:00",
-    "torino vs milan": "2026-08-23T18:23:31.945124+00:00"
+    "torino vs milan": "2026-08-23T18:23:31.945124+00:00",
+    "porto vs arouca": "2026-08-23T19:19:39.397470+00:00",
+    "elche vs barcelona": "2026-08-23T19:19:39.397470+00:00"
   },
   "Canada": {
     "rennes vs psg": "2026-08-23T18:23:35.598128+00:00",
     "torino vs milan": "2026-08-23T18:23:35.598128+00:00",
     "tigers vs royals": "2026-08-23T18:23:35.598128+00:00",
-    "al ahly vs eastern enppi": "2026-08-23T18:23:35.598128+00:00"
+    "al ahly vs eastern enppi": "2026-08-23T18:23:35.598128+00:00",
+    "guardians vs rockies": "2026-08-23T19:19:42.737918+00:00",
+    "elche vs barcelona": "2026-08-23T19:19:42.737918+00:00",
+    "giants vs red sox": "2026-08-23T19:19:42.737918+00:00"
   }
 }
