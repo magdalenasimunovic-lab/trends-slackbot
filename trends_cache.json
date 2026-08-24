@@ -112,20 +112,21 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "copa da alemanha": "2026-08-24T16:32:01.605648+00:00",
-    "fulham x chelsea": "2026-08-24T16:32:01.605648+00:00",
-    "bologna x lazio": "2026-08-24T16:32:01.605648+00:00",
-    "osasuna x levante": "2026-08-24T17:26:38.243686+00:00"
+    "roma x fiorentina": "2026-08-24T18:34:15.036340+00:00"
   },
   "USA": {
-    "bologna vs lazio": "2026-08-24T16:32:04.990411+00:00",
-    "osasuna vs levante": "2026-08-24T17:26:41.931535+00:00"
+    "hallescher vs schalke": "2026-08-24T18:34:18.213579+00:00",
+    "roma vs fiorentina": "2026-08-24T18:34:18.213579+00:00",
+    "al-ittihad vs al-hazem": "2026-08-24T18:34:18.213579+00:00",
+    "fulham vs chelsea": "2026-08-24T18:34:18.213579+00:00"
   },
   "Mexico": {
     "roma vs": "2026-08-24T17:26:46.031200+00:00"
   },
   "Nigeria": {
-    "fc barcelona vs elche cf": "2026-08-24T15:35:17.791035+00:00"
+    "ac milan vs torino": "2026-08-24T18:34:24.834357+00:00",
+    "broendby if vs silkeborg if": "2026-08-24T18:34:24.834357+00:00",
+    "al-ittihad vs al-hazem": "2026-08-24T18:34:24.834357+00:00"
   },
   "Italy": {
     "bologna vs lazio": "2026-08-24T16:32:15.163085+00:00",
@@ -137,13 +138,14 @@
     "la liga": "2026-08-23T23:16:57.762071+00:00"
   },
   "Spain": {
-    "posiciones de elche c. f. contra fc barcelona": "2026-08-24T03:58:52.756933+00:00"
+    "fulham vs chelsea": "2026-08-24T18:34:34.743947+00:00"
   },
   "UK": {
     "bologna vs lazio": "2026-08-24T16:32:25.372918+00:00",
     "us open 2026": "2026-08-24T17:27:04.604547+00:00"
   },
   "Canada": {
-    "bologna vs lazio": "2026-08-24T17:27:08.362588+00:00"
+    "osasuna vs levante": "2026-08-24T18:34:41.575904+00:00",
+    "fulham vs chelsea": "2026-08-24T18:34:41.575904+00:00"
   }
 }
