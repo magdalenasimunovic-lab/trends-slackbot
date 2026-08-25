@@ -112,14 +112,13 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "juventude x crb": "2026-08-25T21:23:11.498891+00:00",
-    "campeonato mundial de voleibol masculino sub-17": "2026-08-25T21:23:11.498891+00:00",
-    "palmeiras x santos": "2026-08-25T21:23:11.498891+00:00",
-    "atlético-go x botafogo sp": "2026-08-25T22:21:59.238101+00:00"
+    "atlético-go x botafogo sp": "2026-08-25T22:21:59.238101+00:00",
+    "copa do mundo 2026": "2026-08-25T23:21:11.673916+00:00"
   },
   "USA": {
-    "stoke city vs hull": "2026-08-25T21:23:14.761788+00:00",
-    "sky vs sun": "2026-08-25T22:22:02.576438+00:00"
+    "sky vs sun": "2026-08-25T22:22:02.576438+00:00",
+    "orioles vs cardinals": "2026-08-25T23:21:15.024966+00:00",
+    "chivas vs america": "2026-08-25T23:21:15.024966+00:00"
   },
   "Mexico": {
     "champions league": "2026-08-25T19:27:49.678066+00:00",
@@ -127,9 +126,10 @@
     "sheffield wednesday vs wolves": "2026-08-25T20:23:32.820557+00:00"
   },
   "Nigeria": {
-    "blackburn rovers vs sheffield united": "2026-08-25T21:23:21.547879+00:00",
     "doncaster vs middlesbrough": "2026-08-25T22:22:09.203752+00:00",
-    "watford vs peterborough": "2026-08-25T22:22:09.203752+00:00"
+    "watford vs peterborough": "2026-08-25T22:22:09.203752+00:00",
+    "julian alvarez transfer news": "2026-08-25T23:21:21.659980+00:00",
+    "blackburn rovers vs sheffield united": "2026-08-25T23:21:21.659980+00:00"
   },
   "Italy": {
     "champions league": "2026-08-25T20:23:39.645932+00:00",
@@ -145,9 +145,11 @@
     "alvarez transfer news": "2026-08-25T22:22:27.725570+00:00"
   },
   "Canada": {
-    "stoke city vs hull": "2026-08-25T21:23:39.050159+00:00",
     "rockies vs nationals": "2026-08-25T22:22:31.112304+00:00",
     "red sox vs marlins": "2026-08-25T22:22:31.112304+00:00",
-    "little league world series 2026": "2026-08-25T22:22:31.112304+00:00"
+    "little league world series 2026": "2026-08-25T22:22:31.112304+00:00",
+    "brewers vs mets": "2026-08-25T23:21:38.666641+00:00",
+    "sky vs sun": "2026-08-25T23:21:38.666641+00:00",
+    "dodgers vs braves": "2026-08-25T23:21:38.666641+00:00"
   }
 }
