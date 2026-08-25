@@ -112,11 +112,11 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "lask x celtic": "2026-08-25T18:34:03.658639+00:00",
-    "valencia x betis": "2026-08-25T18:34:03.658639+00:00",
     "southampton x west ham": "2026-08-25T19:27:42.900952+00:00",
     "ipswich town x leicester city": "2026-08-25T19:27:42.900952+00:00",
-    "birmingham x brentford": "2026-08-25T19:27:42.900952+00:00"
+    "birmingham x brentford": "2026-08-25T19:27:42.900952+00:00",
+    "nottingham forest x leeds": "2026-08-25T20:23:26.310674+00:00",
+    "plymouth argyle x coventry city": "2026-08-25T20:23:26.310674+00:00"
   },
   "USA": {
     "lask vs celtic": "2026-08-25T18:34:07.130056+00:00",
@@ -126,30 +126,27 @@
     "sheffield wednesday vs wolves": "2026-08-25T19:27:46.198871+00:00"
   },
   "Mexico": {
-    "champions league": "2026-08-25T19:27:49.678066+00:00"
+    "champions league": "2026-08-25T19:27:49.678066+00:00",
+    "bodø/glimt vs. nec": "2026-08-25T20:23:32.820557+00:00",
+    "sheffield wednesday vs wolves": "2026-08-25T20:23:32.820557+00:00"
   },
   "Nigeria": {
-    "lask vs celtic": "2026-08-25T18:34:13.957377+00:00",
-    "al-shabab vs al-riyadh": "2026-08-25T18:34:13.957377+00:00",
-    "cardiff city vs norwich city": "2026-08-25T18:34:13.957377+00:00",
-    "southampton vs west ham": "2026-08-25T18:34:13.957377+00:00",
-    "al-ettifaq vs al-nassr": "2026-08-25T18:34:13.957377+00:00",
     "al nassr vs al ettifaq": "2026-08-25T19:27:53.141409+00:00",
     "ipswich town vs leicester city": "2026-08-25T19:27:53.141409+00:00",
     "birmingham vs brentford": "2026-08-25T19:27:53.141409+00:00",
     "sheffield wednesday vs wolves": "2026-08-25T19:27:53.141409+00:00",
     "plymouth vs coventry": "2026-08-25T19:27:53.141409+00:00",
-    "stoke city vs hull": "2026-08-25T19:27:53.141409+00:00"
+    "stoke city vs hull": "2026-08-25T19:27:53.141409+00:00",
+    "watford vs peterborough": "2026-08-25T20:23:36.240770+00:00"
   },
   "Italy": {
-    "re harald v di norvegia": "2026-08-25T13:45:25.945096+00:00",
-    "uefa europa league": "2026-08-25T14:40:22.659460+00:00"
+    "champions league": "2026-08-25T20:23:39.645932+00:00"
   },
   "Morocco": {
     "valencia vs betis": "2026-08-25T19:27:59.937798+00:00"
   },
   "Spain": {
-    "formula 1 madrid": "2026-08-25T18:34:24.018130+00:00"
+    "birmingham vs brentford": "2026-08-25T20:23:46.659740+00:00"
   },
   "UK": {
     "lask vs celtic": "2026-08-25T18:34:27.380244+00:00",
@@ -159,10 +156,12 @@
     "stevenage vs reading": "2026-08-25T19:28:06.466306+00:00"
   },
   "Canada": {
-    "valencia vs betis": "2026-08-25T18:34:30.616735+00:00",
     "nottm forest vs leeds": "2026-08-25T19:28:10.033884+00:00",
     "birmingham vs brentford": "2026-08-25T19:28:10.033884+00:00",
     "southampton vs west ham": "2026-08-25T19:28:10.033884+00:00",
-    "lask vs celtic": "2026-08-25T19:28:10.033884+00:00"
+    "lask vs celtic": "2026-08-25T19:28:10.033884+00:00",
+    "sheffield wednesday vs wolves": "2026-08-25T20:23:53.524306+00:00",
+    "ipswich town vs leicester city": "2026-08-25T20:23:53.524306+00:00",
+    "plymouth vs coventry": "2026-08-25T20:23:53.524306+00:00"
   }
 }
