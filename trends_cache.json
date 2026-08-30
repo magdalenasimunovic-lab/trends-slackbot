@@ -112,21 +112,24 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "campeonato equatoriano": "2026-08-29T22:17:06.562490+00:00"
+    "sunderland x fulham": "2026-08-30T12:34:15.797450+00:00",
+    "leeds x brentford": "2026-08-30T12:34:15.797450+00:00",
+    "feyenoord x den haag": "2026-08-30T12:34:15.797450+00:00"
   },
   "USA": {
-    "jameis winston": "2026-08-30T01:00:00.030966+00:00"
+    "nhl": "2026-08-30T12:34:19.091418+00:00",
+    "sunderland vs fulham": "2026-08-30T12:34:19.091418+00:00",
+    "leeds vs brentford": "2026-08-30T12:34:19.091418+00:00"
   },
   "Mexico": {
-    "leeds vs brentford": "2026-08-30T06:29:16.689290+00:00",
-    "real madrid vs malaga": "2026-08-30T06:29:16.689290+00:00",
-    "chelsea vs brighton": "2026-08-30T06:29:16.689290+00:00"
+    "psv vs": "2026-08-30T12:34:22.598004+00:00"
   },
   "Nigeria": {
-    "inter miami vs montréal": "2026-08-30T01:00:06.717816+00:00",
-    "fuerza regia vs abejas de leon": "2026-08-30T01:00:06.717816+00:00",
-    "olympique lyon vs le havre ac standings": "2026-08-30T01:00:06.717816+00:00",
-    "itauma vs hrgovic": "2026-08-30T01:00:06.717816+00:00"
+    "feyenoord vs den haag": "2026-08-30T12:34:25.983408+00:00",
+    "arsenal julian alvarez transfer news": "2026-08-30T12:34:25.983408+00:00",
+    "aberdeen vs rangers": "2026-08-30T12:34:25.983408+00:00",
+    "gent vs club brugge": "2026-08-30T12:34:25.983408+00:00",
+    "lazio vs genoa": "2026-08-30T12:34:25.983408+00:00"
   },
   "Italy": {
     "itauma vs hrgovic": "2026-08-29T22:17:20.116947+00:00"
@@ -138,10 +141,16 @@
     "celtic vs falkirk": "2026-08-29T15:27:13.104340+00:00"
   },
   "UK": {
-    "angels vs phillies": "2026-08-30T06:29:33.922916+00:00",
-    "draftkings fantasy": "2026-08-30T06:29:33.922916+00:00"
+    "us open tennis 2026": "2026-08-30T12:34:39.159315+00:00",
+    "sunderland vs fulham": "2026-08-30T12:34:39.159315+00:00",
+    "arsenal julian alvarez transfer news": "2026-08-30T12:34:39.159315+00:00",
+    "gent vs club brugge": "2026-08-30T12:34:39.159315+00:00",
+    "leeds vs brentford": "2026-08-30T12:34:39.159315+00:00"
   },
   "Canada": {
-    "nascar": "2026-08-30T06:29:37.383653+00:00"
+    "chelsea vs brighton": "2026-08-30T12:34:42.633803+00:00",
+    "philippines vs iran": "2026-08-30T12:34:42.633803+00:00",
+    "epl fixtures": "2026-08-30T12:34:42.633803+00:00",
+    "nfl schedule": "2026-08-30T12:34:42.633803+00:00"
   }
 }
