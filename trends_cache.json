@@ -112,19 +112,20 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "chaveamento copa do brasil": "2026-09-03T02:47:28.692337+00:00",
-    "tabela da copa do brasil": "2026-09-03T02:47:28.692337+00:00",
-    "vasco vs": "2026-09-03T02:47:28.692337+00:00"
+    "vasco x mirassol": "2026-09-03T19:36:48.080138+00:00"
   },
   "USA": {
     "nfl schedule this week": "2026-09-03T07:43:44.669763+00:00"
   },
   "Mexico": {
-    "palermo vs": "2026-09-03T16:53:46.693838+00:00",
-    "palermo vs mantova": "2026-09-03T16:53:46.693838+00:00"
+    "gent vs": "2026-09-03T19:36:54.967146+00:00",
+    "anderlecht vs": "2026-09-03T19:36:54.967146+00:00"
   },
   "Nigeria": {
-    "al-fayha vs al kholood": "2026-09-03T16:53:50.205982+00:00"
+    "gent vs oud-heverlee leuven": "2026-09-03T19:36:58.621516+00:00",
+    "copenhagen vs nordsjælland": "2026-09-03T19:36:58.621516+00:00",
+    "cagliari vs verona": "2026-09-03T19:36:58.621516+00:00",
+    "toulouse vs losc": "2026-09-03T19:36:58.621516+00:00"
   },
   "Italy": {
     "musetti us open": "2026-09-01T20:29:26.359770+00:00"
@@ -136,10 +137,11 @@
     "fc barcelona copa catalunya": "2026-09-03T12:33:25.931100+00:00"
   },
   "UK": {
-    "arsenal chelsea premier league match": "2026-09-03T16:54:04.022769+00:00"
+    "bulls vs tigers": "2026-09-03T19:37:12.890740+00:00"
   },
   "Canada": {
-    "nfl top 100": "2026-09-03T16:54:07.556704+00:00",
-    "nhl 27": "2026-09-03T16:54:07.556704+00:00"
+    "al ahly vs smouha": "2026-09-03T19:37:16.426332+00:00",
+    "real sociedad vs celta": "2026-09-03T19:37:16.426332+00:00",
+    "ireland vs england": "2026-09-03T19:37:16.426332+00:00"
   }
 }
