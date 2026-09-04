@@ -112,34 +112,39 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "betis x real madrid": "2026-09-04T18:02:44.098478+00:00",
-    "al-ahli saudi x al-riyadh": "2026-09-04T18:02:44.098478+00:00",
-    "psg x mônaco": "2026-09-04T18:02:44.098478+00:00"
+    "bandeirante de birigui x união são joão": "2026-09-04T23:40:31.745633+00:00",
+    "new york city fc x nashville sc": "2026-09-04T23:40:31.745633+00:00"
   },
   "USA": {
-    "ligue 1": "2026-09-04T21:12:12.067632+00:00"
+    "diamondbacks vs astros": "2026-09-04T23:40:34.960958+00:00",
+    "blue jays vs royals": "2026-09-04T23:40:34.960958+00:00",
+    "columbus vs st thomas aquinas": "2026-09-04T23:40:34.960958+00:00",
+    "liu vs kansas": "2026-09-04T23:40:34.960958+00:00"
   },
   "Mexico": {
-    "psg vs monaco": "2026-09-04T18:02:50.872599+00:00",
-    "lyon vs. auxerre": "2026-09-04T18:02:50.872599+00:00"
+    "nyc fc - nashville sc": "2026-09-04T23:40:38.508471+00:00"
   },
   "Nigeria": {
-    "vfb stuttgart vs 1. fc köln standings": "2026-09-04T21:12:18.921820+00:00"
+    "fenerbahce lyon champions league brawl": "2026-09-04T23:40:41.958580+00:00",
+    "newcastle vs bournemouth": "2026-09-04T23:40:41.958580+00:00",
+    "genoa cfc vs como 1907 standings": "2026-09-04T23:40:41.958580+00:00"
   },
   "Italy": {
-    "uefa champions league 2026 2027": "2026-09-04T21:12:22.183525+00:00"
+    "real betis vs real madrid standings": "2026-09-04T23:40:45.217825+00:00"
   },
   "Morocco": {
-    "real madrid vs real betis": "2026-09-04T21:12:25.789447+00:00"
+    "real betis vs real madrid standings": "2026-09-04T23:40:48.746427+00:00"
   },
   "Spain": {
     "fc barcelona copa catalunya": "2026-09-03T12:33:25.931100+00:00"
   },
   "UK": {
-    "ligue 1": "2026-09-04T21:12:32.155616+00:00"
+    "phillies vs braves": "2026-09-04T23:40:55.516095+00:00"
   },
   "Canada": {
-    "tigers vs guardians": "2026-09-04T18:03:11.317223+00:00",
-    "ol vs auxerre": "2026-09-04T18:03:11.317223+00:00"
+    "blue jays vs royals": "2026-09-04T23:40:58.871494+00:00",
+    "cubs vs marlins": "2026-09-04T23:40:58.871494+00:00",
+    "giants vs mets": "2026-09-04T23:40:58.871494+00:00",
+    "lions vs alouettes": "2026-09-04T23:40:58.871494+00:00"
   }
 }
