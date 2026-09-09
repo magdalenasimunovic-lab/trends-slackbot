@@ -112,19 +112,24 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "estudiantes x corinthians": "2026-09-09T17:00:19.140019+00:00"
+    "américa-mg x náutico": "2026-09-09T22:53:32.268228+00:00",
+    "independiente del valle x flamengo": "2026-09-09T22:53:32.268228+00:00"
   },
   "USA": {
-    "nationals vs padres": "2026-09-09T20:20:47.063007+00:00"
+    "orlando city vs atlanta united": "2026-09-09T22:53:35.752017+00:00",
+    "columbus vs d.c. united": "2026-09-09T22:53:35.752017+00:00",
+    "nashville vs toronto": "2026-09-09T22:53:35.752017+00:00",
+    "draftkings": "2026-09-09T22:53:35.752017+00:00"
   },
   "Mexico": {
-    "napoli vs": "2026-09-09T20:20:50.457474+00:00",
-    "psg vs": "2026-09-09T20:20:50.457474+00:00"
+    "palmeiras vs ldu quito": "2026-09-09T22:53:39.470332+00:00",
+    "santos vs atlético mineiro": "2026-09-09T22:53:39.470332+00:00"
   },
   "Nigeria": {
-    "moreirense fc vs benfica": "2026-09-09T20:20:54.030786+00:00",
-    "moreirense vs benfica": "2026-09-09T20:20:54.030786+00:00",
-    "carabao cup fixtures": "2026-09-09T20:20:54.030786+00:00"
+    "norwich city vs birmingham city f.c. standings": "2026-09-09T22:53:43.202468+00:00",
+    "santos vs atlético mineiro": "2026-09-09T22:53:43.202468+00:00",
+    "palmeiras vs ldu quito": "2026-09-09T22:53:43.202468+00:00",
+    "liverpool f.c. vs atlético madrid standings": "2026-09-09T22:53:43.202468+00:00"
   },
   "Italy": {
     "transfermarkt": "2026-09-07T23:57:00.701217+00:00"
@@ -136,10 +141,14 @@
     "classement fc porto – manchester city": "2026-09-08T23:09:36.690569+00:00"
   },
   "UK": {
-    "napoli vs arsenal": "2026-09-09T17:00:42.896246+00:00",
-    "liverpool fc anfield sign auction": "2026-09-09T17:00:42.896246+00:00"
+    "santos vs atlético mineiro": "2026-09-09T22:53:57.981970+00:00",
+    "palmeiras vs ldu quito": "2026-09-09T22:53:57.981970+00:00"
   },
   "Canada": {
-    "moreirense vs benfica": "2026-09-09T20:21:12.001117+00:00"
+    "nashville vs toronto": "2026-09-09T22:54:01.757017+00:00",
+    "angels vs red sox": "2026-09-09T22:54:01.757017+00:00",
+    "rockies vs yankees": "2026-09-09T22:54:01.757017+00:00",
+    "astros vs phillies": "2026-09-09T22:54:01.757017+00:00",
+    "santos vs atlético mineiro": "2026-09-09T22:54:01.757017+00:00"
   }
 }
