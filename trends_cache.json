@@ -112,35 +112,51 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "f1 horarios": "2026-09-12T10:00:41.658168+00:00",
-    "us open 2026": "2026-09-12T10:00:41.658168+00:00"
+    "osasuna x espanyol": "2026-09-12T13:50:19.534156+00:00",
+    "crystal palace x ipswich town": "2026-09-12T13:50:19.534156+00:00",
+    "freiburg x mönchengladbach": "2026-09-12T13:50:19.534156+00:00",
+    "chelsea x hull city": "2026-09-12T13:50:19.534156+00:00"
   },
   "USA": {
-    "rockies vs tigers": "2026-09-11T22:12:15.834847+00:00",
-    "angels vs nationals": "2026-09-11T22:12:15.834847+00:00"
+    "bundesliga": "2026-09-12T13:50:22.965730+00:00",
+    "osasuna vs espanyol": "2026-09-12T13:50:22.965730+00:00",
+    "super bowl halftime show": "2026-09-12T13:50:22.965730+00:00",
+    "swansea vs burnley": "2026-09-12T13:50:22.965730+00:00"
   },
   "Mexico": {
-    "toluca vs atlas": "2026-09-12T05:21:40.240324+00:00",
-    "olmecas vs toros": "2026-09-12T05:21:40.240324+00:00"
+    "racing vs alaves": "2026-09-12T13:50:26.540090+00:00",
+    "genoa vs": "2026-09-12T13:50:26.540090+00:00"
   },
   "Nigeria": {
-    "strasbourg vs monaco": "2026-09-12T10:00:52.426098+00:00",
-    "bournemouth vs brentford": "2026-09-12T10:00:52.426098+00:00"
+    "swansea vs burnley": "2026-09-12T13:50:30.104545+00:00",
+    "augsburg vs bayer leverkusen": "2026-09-12T13:50:30.104545+00:00",
+    "aston villa vs nottm forest": "2026-09-12T13:50:30.104545+00:00",
+    "palace vs ipswich town": "2026-09-12T13:50:30.104545+00:00",
+    "mainz vs eintracht frankfurt": "2026-09-12T13:50:30.104545+00:00",
+    "chelsea collapsed transfer lamine camara": "2026-09-12T13:50:30.104545+00:00",
+    "hoffenheim vs vfb stuttgart": "2026-09-12T13:50:30.104545+00:00",
+    "bolton vs cardiff city": "2026-09-12T13:50:30.104545+00:00"
   },
   "Italy": {
-    "qualifiche motogp": "2026-09-12T10:00:56.131567+00:00"
+    "pakistan vs england": "2026-09-12T13:50:33.685319+00:00"
   },
   "Morocco": {
     "us open": "2026-09-12T00:52:41.171697+00:00"
   },
   "Spain": {
-    "us open 2026": "2026-09-12T05:21:53.965515+00:00"
+    "pakistan vs england": "2026-09-12T13:50:40.709713+00:00"
   },
   "UK": {
-    "misfits boxing card": "2026-09-12T00:52:48.211691+00:00",
-    "mlb": "2026-09-12T00:52:48.211691+00:00"
+    "sutton united vs scunthorpe": "2026-09-12T13:50:44.369361+00:00",
+    "preston vs lincoln city": "2026-09-12T13:50:44.369361+00:00",
+    "mansfield town vs huddersfield": "2026-09-12T13:50:44.369361+00:00"
   },
   "Canada": {
-    "wwe smackdown": "2026-09-12T10:01:10.418137+00:00"
+    "palace vs ipswich town": "2026-09-12T13:50:48.018997+00:00",
+    "pakistan vs england": "2026-09-12T13:50:48.018997+00:00",
+    "aston villa vs nottm forest": "2026-09-12T13:50:48.018997+00:00",
+    "chelsea vs hull": "2026-09-12T13:50:48.018997+00:00",
+    "liverpool vs fulham": "2026-09-12T13:50:48.018997+00:00",
+    "dortmund vs paderborn": "2026-09-12T13:50:48.018997+00:00"
   }
 }
