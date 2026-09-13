@@ -112,8 +112,9 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "la galaxy x seattle sounders": "2026-09-13T02:57:59.183964+00:00",
-    "cruz azul x club américa": "2026-09-13T02:57:59.183964+00:00"
+    "bengals x buccaneers": "2026-09-13T17:12:50.113765+00:00",
+    "colts x ravens": "2026-09-13T17:12:50.113765+00:00",
+    "texans x bills": "2026-09-13T17:12:50.113765+00:00"
   },
   "USA": {
     "levante vs barcelona": "2026-09-13T13:37:21.618252+00:00",
@@ -122,34 +123,41 @@
     "nfl games today": "2026-09-13T13:37:21.618252+00:00"
   },
   "Mexico": {
-    "posiciones de la liga mx": "2026-09-13T08:07:51.702750+00:00",
-    "levante vs barcelona": "2026-09-13T08:07:51.702750+00:00",
-    "cruz azul vs club américa standings": "2026-09-13T08:07:51.702750+00:00"
+    "napoli vs": "2026-09-13T17:12:56.854072+00:00",
+    "steelers vs falcons": "2026-09-13T17:12:56.854072+00:00"
   },
   "Nigeria": {
-    "arsenal vs crystal palace": "2026-09-13T13:37:28.530802+00:00",
-    "rb leipzig vs hamburg": "2026-09-13T13:37:28.530802+00:00",
-    "liverpool vs tottenham": "2026-09-13T13:37:28.530802+00:00",
-    "nigeria u-20 vs new caledonia u-20": "2026-09-13T13:37:28.530802+00:00",
-    "losc vs troyes": "2026-09-13T13:37:28.530802+00:00",
-    "viking vs kristiansund": "2026-09-13T13:37:28.530802+00:00"
+    "manchester united f.c. standings": "2026-09-13T17:13:00.437633+00:00",
+    "benfica vs gil vicente": "2026-09-13T17:13:00.437633+00:00",
+    "galatasaray vs kocaelispor": "2026-09-13T17:13:00.437633+00:00",
+    "getafe vs deportivo": "2026-09-13T17:13:00.437633+00:00",
+    "sv 07 elversberg vs bayern munich": "2026-09-13T17:13:00.437633+00:00",
+    "bundesliga": "2026-09-13T17:13:00.437633+00:00",
+    "man u vs": "2026-09-13T17:13:00.437633+00:00"
   },
   "Italy": {
     "afg vs ind": "2026-09-13T13:37:32.336932+00:00"
   },
   "Morocco": {
-    "levante vs barcelona": "2026-09-13T13:37:36.028048+00:00"
+    "man city vs man united": "2026-09-13T17:13:07.785157+00:00",
+    "bundesliga": "2026-09-13T17:13:07.785157+00:00",
+    "man city vs": "2026-09-13T17:13:07.785157+00:00"
   },
   "Spain": {
-    "afg vs ind": "2026-09-13T13:37:39.541685+00:00",
-    "malaga vs": "2026-09-13T13:37:39.541685+00:00"
+    "manchester city vs": "2026-09-13T17:13:11.367145+00:00",
+    "levante ud vs fc barcelona standings": "2026-09-13T17:13:11.367145+00:00",
+    "city vs": "2026-09-13T17:13:11.367145+00:00"
   },
   "UK": {
-    "levante vs barcelona": "2026-09-13T13:37:43.094736+00:00",
-    "lecce vs monza": "2026-09-13T13:37:43.094736+00:00"
+    "bundesliga": "2026-09-13T17:13:14.994785+00:00",
+    "nfl games": "2026-09-13T17:13:14.994785+00:00",
+    "aston villa vs man city": "2026-09-13T17:13:14.994785+00:00"
   },
   "Canada": {
-    "afg vs ind": "2026-09-13T13:37:46.678218+00:00",
-    "f1 race today": "2026-09-13T13:37:46.678218+00:00"
+    "benfica vs gil vicente": "2026-09-13T17:13:18.333916+00:00",
+    "browns vs jaguars": "2026-09-13T17:13:18.333916+00:00",
+    "galatasaray vs kocaelispor": "2026-09-13T17:13:18.333916+00:00",
+    "jets vs titans": "2026-09-13T17:13:18.333916+00:00",
+    "nfl redzone": "2026-09-13T17:13:18.333916+00:00"
   }
 }
