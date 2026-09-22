@@ -115,15 +115,20 @@
     "nfl schedule this week": "2026-09-21T05:51:18.084137+00:00"
   },
   "USA": {
-    "eng vs sl": "2026-09-22T10:54:23.456580+00:00",
-    "wnba standings": "2026-09-22T10:54:23.456580+00:00",
-    "nfl power rankings": "2026-09-22T10:54:23.456580+00:00"
+    "real madrid vs psg": "2026-09-22T19:32:09.475176+00:00",
+    "arsenal vs hb køge": "2026-09-22T19:32:09.475176+00:00",
+    "leicester city vs fulham u-21": "2026-09-22T19:32:09.475176+00:00"
   },
   "Mexico": {
     "queretaro vs": "2026-09-21T05:51:24.849368+00:00"
   },
   "Nigeria": {
-    "dominica vs anguilla": "2026-09-21T17:48:48.885053+00:00"
+    "real madrid vs psg": "2026-09-22T19:32:15.903410+00:00",
+    "arsenal vs hb køge": "2026-09-22T19:32:15.903410+00:00",
+    "excelsior ´31 vs afc '34": "2026-09-22T19:32:15.903410+00:00",
+    "luton town vs ipswich town": "2026-09-22T19:32:15.903410+00:00",
+    "leicester city vs fulham u-21": "2026-09-22T19:32:15.903410+00:00",
+    "bayern vs man city": "2026-09-22T19:32:15.903410+00:00"
   },
   "Italy": {
     "england vs sri lanka": "2026-09-22T15:24:01.640094+00:00"
@@ -135,9 +140,11 @@
     "posiciones de la liga": "2026-09-20T17:16:36.709334+00:00"
   },
   "UK": {
-    "premier league manchester derby var error": "2026-09-22T10:54:44.434825+00:00"
+    "peterborough vs colchester": "2026-09-22T19:32:29.248594+00:00",
+    "bradford city vs newcastle united u-21": "2026-09-22T19:32:29.248594+00:00",
+    "york city vs rotherham": "2026-09-22T19:32:29.248594+00:00"
   },
   "Canada": {
-    "england vs sri lanka": "2026-09-22T15:24:15.879474+00:00"
+    "rays vs yankees": "2026-09-22T19:32:32.624365+00:00"
   }
 }
