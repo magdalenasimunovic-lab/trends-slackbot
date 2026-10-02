@@ -112,14 +112,14 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "japão x equador": "2026-10-01T10:47:05.012834+00:00"
+    "platense x estudiantes": "2026-10-02T01:57:38.285919+00:00",
+    "novorizontino x goiás": "2026-10-02T01:57:38.285919+00:00"
   },
   "USA": {
-    "azerbaijan vs liechtenstein": "2026-10-01T17:14:56.128057+00:00"
+    "phillies vs atlanta braves match player stats": "2026-10-02T01:57:41.511690+00:00"
   },
   "Mexico": {
-    "portugal vs dinamarca": "2026-10-01T22:18:01.379910+00:00",
-    "denmark vs portugal": "2026-10-01T22:18:01.379910+00:00"
+    "america vs cruz azul": "2026-10-02T01:57:44.905597+00:00"
   },
   "Nigeria": {
     "carter efe vs speed darlington": "2026-10-01T22:18:04.916072+00:00",
@@ -137,9 +137,15 @@
     "bangladesh vs pakistan": "2026-10-01T03:57:53.398436+00:00"
   },
   "UK": {
-    "japan vs ecuador": "2026-10-01T10:47:29.036357+00:00"
+    "wnba": "2026-10-02T01:58:01.601239+00:00",
+    "aces vs fever": "2026-10-02T01:58:01.601239+00:00",
+    "browns vs steelers": "2026-10-02T01:58:01.601239+00:00",
+    "ufc 332": "2026-10-02T01:58:01.601239+00:00"
   },
   "Canada": {
-    "japan vs ecuador": "2026-10-01T10:47:32.754130+00:00"
+    "oilers vs canucks": "2026-10-02T01:58:05.092531+00:00",
+    "fever vs aces": "2026-10-02T01:58:05.092531+00:00",
+    "kraken vs flames": "2026-10-02T01:58:05.092531+00:00",
+    "dominican republic vs haiti": "2026-10-02T01:58:05.092531+00:00"
   }
 }
