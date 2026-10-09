@@ -112,7 +112,7 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "atlético nacional x tolima": "2026-10-08T22:49:31.535918+00:00"
+    "tabela de classificação do campeonato brasileiro": "2026-10-09T02:43:52.350200+00:00"
   },
   "USA": {
     "atl. nacional vs tolima": "2026-10-08T22:49:34.780312+00:00",
@@ -123,13 +123,15 @@
     "stars vs sabres": "2026-10-08T22:49:34.780312+00:00"
   },
   "Mexico": {
-    "brasileirao": "2026-10-08T22:49:38.068704+00:00"
+    "tigres vs toluca": "2026-10-09T02:43:59.059763+00:00",
+    "oaxaca vs correcaminos": "2026-10-09T02:43:59.059763+00:00"
   },
   "Nigeria": {
-    "santos vs flamengo": "2026-10-08T22:49:41.621988+00:00"
+    "new york knicks vs washington wizards": "2026-10-09T02:44:02.478199+00:00",
+    "nba": "2026-10-09T02:44:02.478199+00:00"
   },
   "Italy": {
-    "euro digitale": "2026-10-08T09:55:01.711391+00:00"
+    "nba": "2026-10-09T02:44:06.031615+00:00"
   },
   "Morocco": {
     "classement mondial de la fifa": "2026-10-07T22:38:05.660198+00:00"
@@ -138,11 +140,11 @@
     "mlb": "2026-10-08T02:27:29.057200+00:00"
   },
   "UK": {
-    "santos vs flamengo": "2026-10-08T22:49:55.224482+00:00"
+    "nba": "2026-10-09T02:44:16.502695+00:00",
+    "cowboys vs buccaneers": "2026-10-09T02:44:16.502695+00:00"
   },
   "Canada": {
-    "predators vs canadiens": "2026-10-08T22:49:58.756940+00:00",
-    "canucks vs hurricanes": "2026-10-08T22:49:58.756940+00:00",
-    "flyers vs senators": "2026-10-08T22:49:58.756940+00:00"
+    "nba scores": "2026-10-09T02:44:19.939125+00:00",
+    "nba games": "2026-10-09T02:44:19.939125+00:00"
   }
 }
