@@ -112,41 +112,45 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "ferroviária x inter de limeira": "2026-10-10T19:42:04.469038+00:00",
-    "botafogo-pb x santa cruz": "2026-10-10T19:42:04.469038+00:00",
-    "brusque x paysandu": "2026-10-10T19:42:04.469038+00:00",
-    "fc barcelona vs getafe cf standings": "2026-10-10T19:42:04.469038+00:00"
+    "serie a": "2026-10-10T23:10:37.009914+00:00",
+    "serie a 2026": "2026-10-10T23:10:37.009914+00:00"
   },
   "USA": {
-    "oilers vs sharks": "2026-10-10T19:42:07.894194+00:00",
-    "mls standings": "2026-10-10T19:42:07.894194+00:00",
-    "maryland vs ohio state": "2026-10-10T19:42:07.894194+00:00"
+    "salt lake vs philadelphia": "2026-10-10T23:10:40.246080+00:00",
+    "junior vs internacional de bogotá": "2026-10-10T23:10:40.246080+00:00",
+    "syracuse vs virginia": "2026-10-10T23:10:40.246080+00:00",
+    "juarez vs club tijuana": "2026-10-10T23:10:40.246080+00:00",
+    "james madison vs ga southern": "2026-10-10T23:10:40.246080+00:00",
+    "cincinnati vs atlanta united": "2026-10-10T23:10:40.246080+00:00",
+    "predators vs senators": "2026-10-10T23:10:40.246080+00:00",
+    "nebraska vs wisconsin volleyball": "2026-10-10T23:10:40.246080+00:00",
+    "d.c. united vs inter miami": "2026-10-10T23:10:40.246080+00:00"
   },
   "Mexico": {
-    "valencia vs": "2026-10-10T19:42:11.676231+00:00",
-    "texas vs oklahoma": "2026-10-10T19:42:11.676231+00:00"
+    "tigre vs banfield": "2026-10-10T23:10:43.513391+00:00",
+    "vasco da gama vs": "2026-10-10T23:10:43.513391+00:00"
   },
   "Nigeria": {
-    "chicago vs new york city": "2026-10-10T19:42:15.132446+00:00",
-    "ajax vs nec": "2026-10-10T19:42:15.132446+00:00",
-    "psg vs": "2026-10-10T19:42:15.132446+00:00"
+    "inter miami vs d.c. united": "2026-10-10T23:10:46.745252+00:00",
+    "mls": "2026-10-10T23:10:46.745252+00:00",
+    "psg vs le mans fc standings": "2026-10-10T23:10:46.745252+00:00"
   },
   "Italy": {
-    "motogp sprint": "2026-10-10T08:03:37.924665+00:00"
+    "godzilla vs kong": "2026-10-10T23:10:50.081383+00:00"
   },
   "Morocco": {
-    "fc barcelona vs getafe cf standings": "2026-10-10T19:42:22.195011+00:00"
+    "psg vs le mans fc standings": "2026-10-10T23:10:53.639483+00:00"
   },
   "Spain": {
-    "classement fc barcelone – getafe": "2026-10-10T19:42:25.554053+00:00"
+    "real madrid vs villarreal cf standings": "2026-10-10T23:10:57.049726+00:00"
   },
   "UK": {
-    "ajax vs nec": "2026-10-10T19:42:29.054528+00:00"
+    "inter miami vs d.c. united": "2026-10-10T23:11:00.410957+00:00"
   },
   "Canada": {
-    "new york city vs chicago": "2026-10-10T19:42:32.513663+00:00",
-    "texas vs oklahoma": "2026-10-10T19:42:32.513663+00:00",
-    "stanford vs notre dame": "2026-10-10T19:42:32.513663+00:00",
-    "oilers vs sharks": "2026-10-10T19:42:32.513663+00:00"
+    "stars vs penguins": "2026-10-10T23:11:03.663308+00:00",
+    "d.c. united vs inter miami": "2026-10-10T23:11:03.663308+00:00",
+    "hurricanes vs blackhawks": "2026-10-10T23:11:03.663308+00:00",
+    "georgia vs alabama": "2026-10-10T23:11:03.663308+00:00"
   }
 }
