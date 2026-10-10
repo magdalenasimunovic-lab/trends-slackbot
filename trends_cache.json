@@ -112,35 +112,41 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "once caldas x llaneros fc": "2026-10-10T01:29:00.207452+00:00"
+    "ferroviária x inter de limeira": "2026-10-10T19:42:04.469038+00:00",
+    "botafogo-pb x santa cruz": "2026-10-10T19:42:04.469038+00:00",
+    "brusque x paysandu": "2026-10-10T19:42:04.469038+00:00",
+    "fc barcelona vs getafe cf standings": "2026-10-10T19:42:04.469038+00:00"
   },
   "USA": {
-    "arizona vs west virginia": "2026-10-10T15:00:32.744501+00:00"
+    "oilers vs sharks": "2026-10-10T19:42:07.894194+00:00",
+    "mls standings": "2026-10-10T19:42:07.894194+00:00",
+    "maryland vs ohio state": "2026-10-10T19:42:07.894194+00:00"
   },
   "Mexico": {
-    "fiorentina vs": "2026-10-10T15:00:36.033530+00:00",
-    "union berlin vs": "2026-10-10T15:00:36.033530+00:00"
+    "valencia vs": "2026-10-10T19:42:11.676231+00:00",
+    "texas vs oklahoma": "2026-10-10T19:42:11.676231+00:00"
   },
   "Nigeria": {
-    "rangers vs kilmarnock": "2026-10-10T15:00:39.700902+00:00",
-    "leicester city vs peterborough": "2026-10-10T15:00:39.700902+00:00",
-    "hoffenheim vs hamburger sv": "2026-10-10T15:00:39.700902+00:00",
-    "hoffenheim vs hamburg": "2026-10-10T15:00:39.700902+00:00",
-    "derby county vs wrexham": "2026-10-10T15:00:39.700902+00:00"
+    "chicago vs new york city": "2026-10-10T19:42:15.132446+00:00",
+    "ajax vs nec": "2026-10-10T19:42:15.132446+00:00",
+    "psg vs": "2026-10-10T19:42:15.132446+00:00"
   },
   "Italy": {
     "motogp sprint": "2026-10-10T08:03:37.924665+00:00"
   },
   "Morocco": {
-    "bundesliga": "2026-10-10T15:00:46.452974+00:00"
+    "fc barcelona vs getafe cf standings": "2026-10-10T19:42:22.195011+00:00"
   },
   "Spain": {
-    "la liga": "2026-10-09T16:54:31.927241+00:00"
+    "classement fc barcelone – getafe": "2026-10-10T19:42:25.554053+00:00"
   },
   "UK": {
-    "galway united vs derry city": "2026-10-10T15:00:53.408991+00:00"
+    "ajax vs nec": "2026-10-10T19:42:29.054528+00:00"
   },
   "Canada": {
-    "ipswich town vs fulham": "2026-10-10T15:00:56.611068+00:00"
+    "new york city vs chicago": "2026-10-10T19:42:32.513663+00:00",
+    "texas vs oklahoma": "2026-10-10T19:42:32.513663+00:00",
+    "stanford vs notre dame": "2026-10-10T19:42:32.513663+00:00",
+    "oilers vs sharks": "2026-10-10T19:42:32.513663+00:00"
   }
 }
