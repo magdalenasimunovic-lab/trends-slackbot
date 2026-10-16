@@ -112,11 +112,13 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "palmeiras x flamengo": "2026-10-15T03:02:08.741169+00:00",
-    "copa do brasil 2026": "2026-10-15T03:02:08.741169+00:00"
+    "broncos x seahawks": "2026-10-16T00:02:55.448727+00:00"
   },
   "USA": {
-    "europa league standings": "2026-10-15T21:13:49.269337+00:00"
+    "estudiantes vs flamengo": "2026-10-16T00:02:58.929163+00:00",
+    "estudiantes x flamengo": "2026-10-16T00:02:58.929163+00:00",
+    "raptors vs knicks": "2026-10-16T00:02:58.929163+00:00",
+    "nfl tonight game": "2026-10-16T00:02:58.929163+00:00"
   },
   "Mexico": {
     "estudiantes vs flamengo": "2026-10-15T21:13:52.697457+00:00",
@@ -124,7 +126,7 @@
     "twente vs": "2026-10-15T21:13:52.697457+00:00"
   },
   "Nigeria": {
-    "freiburg vs fk jablonec": "2026-10-15T21:13:56.116953+00:00"
+    "cr flamengo rj vs fluminense fc rj": "2026-10-16T00:03:05.697662+00:00"
   },
   "Italy": {
     "ea sports fc 27": "2026-10-15T21:13:59.535834+00:00"
@@ -137,12 +139,12 @@
     "west indies vs india": "2026-10-14T16:27:30.956724+00:00"
   },
   "UK": {
-    "chicago vs philadelphia": "2026-10-15T03:02:32.567885+00:00",
-    "fluminense vs palmeiras": "2026-10-15T03:02:32.567885+00:00",
-    "dodgers vs brewers": "2026-10-15T03:02:32.567885+00:00",
-    "mls": "2026-10-15T03:02:32.567885+00:00"
+    "broncos vs seahawks": "2026-10-16T00:03:19.364325+00:00"
   },
   "Canada": {
-    "hajduk split vs ajax": "2026-10-15T17:59:40.752937+00:00"
+    "sharks vs predators": "2026-10-16T00:03:22.713715+00:00",
+    "rangers vs devils": "2026-10-16T00:03:22.713715+00:00",
+    "seahawks vs broncos": "2026-10-16T00:03:22.713715+00:00",
+    "flyers vs red wings": "2026-10-16T00:03:22.713715+00:00"
   }
 }
