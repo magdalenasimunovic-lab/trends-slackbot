@@ -112,25 +112,33 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "celta de vigo x alavés": "2026-10-18T14:16:03.422922+00:00",
-    "jaguars x texans": "2026-10-18T14:16:03.422922+00:00"
+    "giants x saints": "2026-10-18T17:46:41.279604+00:00",
+    "racing x independiente": "2026-10-18T17:46:41.279604+00:00",
+    "real madrid x sevilla": "2026-10-18T17:46:41.279604+00:00",
+    "falcons x bears": "2026-10-18T17:46:41.279604+00:00",
+    "buccaneers x steelers": "2026-10-18T17:46:41.279604+00:00",
+    "eagles x panthers": "2026-10-18T17:46:41.279604+00:00"
   },
   "USA": {
     "san diego fc vs la galaxy standings": "2026-10-18T05:22:52.933860+00:00"
   },
   "Mexico": {
-    "como vs": "2026-10-18T14:16:09.961686+00:00",
-    "texans vs jaguars": "2026-10-18T14:16:09.961686+00:00"
+    "giants vs saints": "2026-10-18T17:46:48.182765+00:00",
+    "steelers vs buccaneers": "2026-10-18T17:46:48.182765+00:00",
+    "gremio vs cruzeiro": "2026-10-18T17:46:48.182765+00:00",
+    "eagles vs panthers": "2026-10-18T17:46:48.182765+00:00"
   },
   "Nigeria": {
-    "fiorentina vs como 1907": "2026-10-18T14:16:13.271201+00:00",
-    "celta vs alavés": "2026-10-18T14:16:13.271201+00:00"
+    "girona vs andorra": "2026-10-18T17:46:51.703477+00:00",
+    "monaco vs lorient": "2026-10-18T17:46:51.703477+00:00",
+    "celtic f.c. vs heart of midlothian f.c. standings": "2026-10-18T17:46:51.703477+00:00",
+    "mönchengladbach vs hoffenheim": "2026-10-18T17:46:51.703477+00:00"
   },
   "Italy": {
     "zimbabwe vs india": "2026-10-18T14:16:16.593438+00:00"
   },
   "Morocco": {
-    "mls": "2026-10-18T05:23:06.869064+00:00"
+    "paris fc – rennes": "2026-10-18T17:46:58.785614+00:00"
   },
   "Spain": {
     "mls": "2026-10-18T05:23:10.349620+00:00"
@@ -141,7 +149,8 @@
     "zimbabwe vs india": "2026-10-18T14:16:26.750252+00:00"
   },
   "Canada": {
-    "fiorentina vs como": "2026-10-18T14:16:30.084038+00:00",
-    "zimbabwe vs india": "2026-10-18T14:16:30.084038+00:00"
+    "arsenal vs nottingham forest": "2026-10-18T17:47:08.769344+00:00",
+    "málaga vs real sociedad": "2026-10-18T17:47:08.769344+00:00",
+    "paris fc – rennes": "2026-10-18T17:47:08.769344+00:00"
   }
 }
