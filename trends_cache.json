@@ -112,22 +112,19 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "getafe x rayo vallecano": "2026-10-19T18:57:48.904488+00:00"
+    "cruzeiro x bolívar": "2026-10-19T22:49:32.285666+00:00"
   },
   "USA": {
-    "parma vs torino": "2026-10-19T18:57:52.218934+00:00",
-    "spurs vs coventry": "2026-10-19T18:57:52.218934+00:00",
-    "getafe vs rayo": "2026-10-19T18:57:52.218934+00:00"
+    "corinthians vs vitória": "2026-10-19T22:49:35.701761+00:00",
+    "avalanche vs flyers": "2026-10-19T22:49:35.701761+00:00",
+    "ducks vs rangers": "2026-10-19T22:49:35.701761+00:00"
   },
   "Mexico": {
     "al hilal vs": "2026-10-19T18:57:55.794556+00:00"
   },
   "Nigeria": {
-    "getafe vs rayo": "2026-10-19T18:57:59.422176+00:00",
-    "spurs vs coventry": "2026-10-19T18:57:59.422176+00:00",
-    "parma vs torino": "2026-10-19T18:57:59.422176+00:00",
-    "al-hilal vs al-hazem": "2026-10-19T18:57:59.422176+00:00",
-    "viborg vs midtjylland": "2026-10-19T18:57:59.422176+00:00"
+    "al hilal sfc vs al-hazem f.c. standings": "2026-10-19T22:49:42.495589+00:00",
+    "trabzonspor vs beşiktaş standings": "2026-10-19T22:49:42.495589+00:00"
   },
   "Italy": {
     "parma vs torino": "2026-10-19T18:58:03.150626+00:00"
@@ -145,8 +142,6 @@
     "getafe vs rayo": "2026-10-19T18:58:13.299618+00:00"
   },
   "Canada": {
-    "getafe vs rayo": "2026-10-19T18:58:16.975542+00:00",
-    "spurs vs coventry": "2026-10-19T18:58:16.975542+00:00",
-    "al-hilal vs al-hazem": "2026-10-19T18:58:16.975542+00:00"
+    "sharks vs maple leafs": "2026-10-19T22:49:59.465388+00:00"
   }
 }
