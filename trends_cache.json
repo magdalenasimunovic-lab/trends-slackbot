@@ -112,20 +112,25 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "corinthians x caracas (w)": "2026-10-19T05:40:28.366046+00:00"
+    "getafe x rayo vallecano": "2026-10-19T18:57:48.904488+00:00"
   },
   "USA": {
-    "ufc 333": "2026-10-19T05:40:31.561419+00:00"
+    "parma vs torino": "2026-10-19T18:57:52.218934+00:00",
+    "spurs vs coventry": "2026-10-19T18:57:52.218934+00:00",
+    "getafe vs rayo": "2026-10-19T18:57:52.218934+00:00"
   },
   "Mexico": {
-    "monza vs cagliari": "2026-10-19T05:40:34.787351+00:00",
-    "getafe vs rayo vallecano": "2026-10-19T05:40:34.787351+00:00"
+    "al hilal vs": "2026-10-19T18:57:55.794556+00:00"
   },
   "Nigeria": {
-    "messi ronaldo goal scoring rivalry": "2026-10-19T12:00:51.306200+00:00"
+    "getafe vs rayo": "2026-10-19T18:57:59.422176+00:00",
+    "spurs vs coventry": "2026-10-19T18:57:59.422176+00:00",
+    "parma vs torino": "2026-10-19T18:57:59.422176+00:00",
+    "al-hilal vs al-hazem": "2026-10-19T18:57:59.422176+00:00",
+    "viborg vs midtjylland": "2026-10-19T18:57:59.422176+00:00"
   },
   "Italy": {
-    "afghanistan vs zimbabwe": "2026-10-19T12:00:54.714990+00:00"
+    "parma vs torino": "2026-10-19T18:58:03.150626+00:00"
   },
   "Morocco": {
     "wydad vs": "2026-10-19T00:45:52.433734+00:00",
@@ -136,10 +141,12 @@
     "classement real madrid – fc séville": "2026-10-18T22:44:04.302113+00:00"
   },
   "UK": {
-    "afg vs zim": "2026-10-19T12:01:04.946586+00:00"
+    "parma vs torino": "2026-10-19T18:58:13.299618+00:00",
+    "getafe vs rayo": "2026-10-19T18:58:13.299618+00:00"
   },
   "Canada": {
-    "blue jackets vs wild": "2026-10-18T22:44:11.084600+00:00",
-    "bahia vs flamengo": "2026-10-18T22:44:11.084600+00:00"
+    "getafe vs rayo": "2026-10-19T18:58:16.975542+00:00",
+    "spurs vs coventry": "2026-10-19T18:58:16.975542+00:00",
+    "al-hilal vs al-hazem": "2026-10-19T18:58:16.975542+00:00"
   }
 }
