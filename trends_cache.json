@@ -112,33 +112,49 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "cruzeiro x bolívar": "2026-10-19T22:49:32.285666+00:00"
+    "liverpool x villarreal": "2026-10-20T18:17:46.464495+00:00",
+    "vfb stuttgart x atlético madrid": "2026-10-20T18:17:46.464495+00:00",
+    "wolves x portsmouth": "2026-10-20T18:17:46.464495+00:00",
+    "champions league 2026": "2026-10-20T18:17:46.464495+00:00",
+    "al-nassr x neom": "2026-10-20T18:17:46.464495+00:00",
+    "al-ettifaq x al-ittihad": "2026-10-20T18:17:46.464495+00:00"
   },
   "USA": {
-    "amy acton vs vivek ramaswamy": "2026-10-20T01:31:46.586774+00:00"
+    "wolves vs portsmouth": "2026-10-20T18:17:49.857381+00:00",
+    "al-nassr vs neom": "2026-10-20T18:17:49.857381+00:00"
   },
   "Mexico": {
-    "stuttgart vs": "2026-10-20T07:06:05.444968+00:00",
-    "liverpool vs villarreal": "2026-10-20T07:06:05.444968+00:00"
+    "al-nassr vs neom": "2026-10-20T18:17:53.350925+00:00"
   },
   "Nigeria": {
-    "stuttgart vs atletico madrid prediction": "2026-10-20T13:17:04.044942+00:00"
+    "vfb stuttgart vs atlético": "2026-10-20T18:17:56.714394+00:00",
+    "napoli vs bodø/glimt": "2026-10-20T18:17:56.714394+00:00",
+    "roma vs slovan bratislava": "2026-10-20T18:17:56.714394+00:00",
+    "porto vs psv": "2026-10-20T18:17:56.714394+00:00",
+    "wolves vs portsmouth": "2026-10-20T18:17:56.714394+00:00",
+    "man city vs aek": "2026-10-20T18:17:56.714394+00:00",
+    "al-ettifaq vs al-ittihad": "2026-10-20T18:17:56.714394+00:00"
   },
   "Italy": {
-    "parma vs torino": "2026-10-19T18:58:03.150626+00:00"
+    "psg vs barcelona": "2026-10-20T18:18:00.204812+00:00"
   },
   "Morocco": {
-    "psg vs barcelona": "2026-10-20T13:17:10.904035+00:00"
+    "champions league": "2026-10-20T18:18:04.161164+00:00"
   },
   "Spain": {
-    "real madrid vs sevilla fc standings": "2026-10-18T22:44:04.302113+00:00",
-    "classement real madrid – fc séville": "2026-10-18T22:44:04.302113+00:00"
+    "liverpool vs villarreal": "2026-10-20T18:18:08.093065+00:00"
   },
   "UK": {
-    "india vs zimbabwe": "2026-10-20T13:17:17.516029+00:00"
+    "stevenage vs plymouth": "2026-10-20T18:18:11.549742+00:00",
+    "luton town vs barnsley": "2026-10-20T18:18:11.549742+00:00",
+    "vfb stuttgart vs atlético": "2026-10-20T18:18:11.549742+00:00",
+    "burton vs bradford city": "2026-10-20T18:18:11.549742+00:00",
+    "huddersfield vs peterborough": "2026-10-20T18:18:11.549742+00:00"
   },
   "Canada": {
-    "ufc 333": "2026-10-20T07:06:25.052017+00:00",
-    "stanley cup": "2026-10-20T07:06:25.052017+00:00"
+    "liverpool vs villarreal": "2026-10-20T18:18:15.083056+00:00",
+    "vfb stuttgart vs atlético": "2026-10-20T18:18:15.083056+00:00",
+    "celtics vs pistons": "2026-10-20T18:18:15.083056+00:00",
+    "man city vs aek": "2026-10-20T18:18:15.083056+00:00"
   }
 }
