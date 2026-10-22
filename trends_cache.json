@@ -112,18 +112,25 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "columbus crew x st. louis city sc": "2026-10-22T00:24:19.858392+00:00",
-    "rockets x mavericks": "2026-10-22T00:24:19.858392+00:00",
-    "palmeiras x fluminense": "2026-10-22T00:24:19.858392+00:00"
+    "sturm x olympique": "2026-10-22T16:33:56.765479+00:00",
+    "juventus x rennes": "2026-10-22T16:33:56.765479+00:00",
+    "jablonec x brighton": "2026-10-22T16:33:56.765479+00:00"
   },
   "USA": {
-    "wnba national anthem": "2026-10-22T11:05:46.924329+00:00"
+    "ofi vs leverkusen": "2026-10-22T16:34:00.049072+00:00",
+    "lech poznań vs sunderland": "2026-10-22T16:34:00.049072+00:00",
+    "trabzonspor vs hearts": "2026-10-22T16:34:00.049072+00:00"
   },
   "Mexico": {
     "madrid vs barca": "2026-10-21T21:12:14.044726+00:00"
   },
   "Nigeria": {
-    "como manchester united champions league result": "2026-10-22T11:05:53.777071+00:00"
+    "ofi vs leverkusen": "2026-10-22T16:34:06.613796+00:00",
+    "sturm graz vs marseille": "2026-10-22T16:34:06.613796+00:00",
+    "jablonec vs brighton": "2026-10-22T16:34:06.613796+00:00",
+    "lech poznań vs sunderland": "2026-10-22T16:34:06.613796+00:00",
+    "getafe vs lugano": "2026-10-22T16:34:06.613796+00:00",
+    "trabzonspor vs hearts": "2026-10-22T16:34:06.613796+00:00"
   },
   "Italy": {
     "ranking uefa": "2026-10-22T00:24:33.478487+00:00"
@@ -135,10 +142,14 @@
     "conmebol libertadores": "2026-10-22T05:43:51.446063+00:00"
   },
   "UK": {
-    "clippers vs kings": "2026-10-22T05:43:54.877923+00:00",
-    "nba scores": "2026-10-22T05:43:54.877923+00:00"
+    "ofi vs leverkusen": "2026-10-22T16:34:20.141596+00:00",
+    "sturm graz vs marseille": "2026-10-22T16:34:20.141596+00:00",
+    "getafe vs lugano": "2026-10-22T16:34:20.141596+00:00"
   },
   "Canada": {
-    "england vs sri lanka": "2026-10-22T11:06:10.822977+00:00"
+    "lech poznań vs sunderland": "2026-10-22T16:34:23.434941+00:00",
+    "trabzonspor vs hearts": "2026-10-22T16:34:23.434941+00:00",
+    "england cricket team vs sri lanka national cricket team match scorecard": "2026-10-22T16:34:23.434941+00:00",
+    "jablonec vs brighton": "2026-10-22T16:34:23.434941+00:00"
   }
 }
