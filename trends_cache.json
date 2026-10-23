@@ -112,22 +112,29 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "campeonato saudita": "2026-10-23T14:38:10.388046+00:00",
-    "inflação": "2026-10-23T14:38:10.388046+00:00",
-    "campeonato brasileiro de futebol de 2026 - série a": "2026-10-23T14:38:10.388046+00:00"
+    "ipswich town x nottingham forest": "2026-10-23T18:52:00.470625+00:00",
+    "stade brestois x nice": "2026-10-23T18:52:00.470625+00:00",
+    "bundesliga 2": "2026-10-23T18:52:00.470625+00:00",
+    "vfb stuttgart x mönchengladbach": "2026-10-23T18:52:00.470625+00:00"
   },
   "USA": {
-    "al-faisaly vs al-nassr": "2026-10-23T14:38:13.949508+00:00"
+    "alavés vs málaga": "2026-10-23T18:52:03.756399+00:00",
+    "ipswich town vs nottm forest": "2026-10-23T18:52:03.756399+00:00",
+    "torino vs monza": "2026-10-23T18:52:03.756399+00:00",
+    "vfb stuttgart vs mönchengladbach": "2026-10-23T18:52:03.756399+00:00"
   },
   "Mexico": {
-    "ufc 333": "2026-10-23T14:38:17.426990+00:00",
-    "al-faisaly vs al-nassr": "2026-10-23T14:38:17.426990+00:00"
+    "go ahead eagles - sc telstar": "2026-10-23T18:52:06.977831+00:00",
+    "brest vs": "2026-10-23T18:52:06.977831+00:00"
   },
   "Nigeria": {
-    "al-faisaly vs al-nassr": "2026-10-23T14:38:20.956546+00:00"
+    "alavés vs málaga": "2026-10-23T18:52:10.365395+00:00",
+    "ipswich town vs nottm forest": "2026-10-23T18:52:10.365395+00:00",
+    "vfb stuttgart vs mönchengladbach": "2026-10-23T18:52:10.365395+00:00",
+    "alanyaspor vs kocaelispor": "2026-10-23T18:52:10.365395+00:00"
   },
   "Italy": {
-    "ranking uefa": "2026-10-22T00:24:33.478487+00:00"
+    "torino vs monza": "2026-10-23T18:52:13.672481+00:00"
   },
   "Morocco": {
     "al-faisaly vs al-nassr": "2026-10-23T14:38:28.399578+00:00"
@@ -136,10 +143,13 @@
     "conmebol libertadores": "2026-10-23T03:14:29.460119+00:00"
   },
   "UK": {
-    "united states grand prix": "2026-10-23T09:04:13.637819+00:00"
+    "torino vs monza": "2026-10-23T18:52:23.324406+00:00",
+    "gateshead vs tamworth": "2026-10-23T18:52:23.324406+00:00",
+    "vfb stuttgart vs mönchengladbach": "2026-10-23T18:52:23.324406+00:00",
+    "edinburgh vs lions": "2026-10-23T18:52:23.324406+00:00"
   },
   "Canada": {
-    "nhl standings": "2026-10-23T03:14:36.345073+00:00",
-    "leafs standings": "2026-10-23T03:14:36.345073+00:00"
+    "ipswich town vs nottm forest": "2026-10-23T18:52:26.480165+00:00",
+    "al qadsiah vs al-hilal": "2026-10-23T18:52:26.480165+00:00"
   }
 }
