@@ -112,8 +112,10 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "bears x patriots": "2026-10-22T23:51:39.813700+00:00",
-    "brasília basquete x corinthians": "2026-10-22T23:51:39.813700+00:00"
+    "final copa do brasil": "2026-10-23T03:14:09.549087+00:00",
+    "copa do brasil": "2026-10-23T03:14:09.549087+00:00",
+    "copa do brasil 2026": "2026-10-23T03:14:09.549087+00:00",
+    "palmeiras tem quantas libertadores": "2026-10-23T03:14:09.549087+00:00"
   },
   "USA": {
     "nfl tonight game": "2026-10-22T23:51:43.021787+00:00"
@@ -123,8 +125,8 @@
     "bears vs patriots": "2026-10-22T23:51:46.486275+00:00"
   },
   "Nigeria": {
-    "76ers vs cavaliers": "2026-10-22T23:51:49.667482+00:00",
-    "fluminense fc rj vs cr flamengo rj": "2026-10-22T23:51:49.667482+00:00"
+    "nba": "2026-10-23T03:14:19.349535+00:00",
+    "76ers vs cavaliers": "2026-10-23T03:14:19.349535+00:00"
   },
   "Italy": {
     "ranking uefa": "2026-10-22T00:24:33.478487+00:00"
@@ -133,15 +135,16 @@
     "morocco vs angola futsal": "2026-10-21T21:12:23.783246+00:00"
   },
   "Spain": {
-    "posiciones de as mónaco contra sc freiburg": "2026-10-22T23:51:59.862291+00:00"
+    "conmebol libertadores": "2026-10-23T03:14:29.460119+00:00"
   },
   "UK": {
-    "76ers vs cavaliers": "2026-10-22T23:52:03.069776+00:00"
+    "thunder vs nuggets": "2026-10-23T03:14:32.772151+00:00",
+    "flamengo vs estudiantes": "2026-10-23T03:14:32.772151+00:00",
+    "maple leafs vs rangers": "2026-10-23T03:14:32.772151+00:00",
+    "bears vs patriots": "2026-10-23T03:14:32.772151+00:00"
   },
   "Canada": {
-    "patriots vs bears": "2026-10-22T23:52:06.371549+00:00",
-    "kings vs islanders": "2026-10-22T23:52:06.371549+00:00",
-    "jets vs stars": "2026-10-22T23:52:06.371549+00:00",
-    "golden knights vs blues": "2026-10-22T23:52:06.371549+00:00"
+    "nhl standings": "2026-10-23T03:14:36.345073+00:00",
+    "leafs standings": "2026-10-23T03:14:36.345073+00:00"
   }
 }
