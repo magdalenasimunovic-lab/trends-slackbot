@@ -112,37 +112,43 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "pumas x tigres": "2026-10-25T05:37:44.955041+00:00"
+    "celta de vigo x betis": "2026-10-25T14:45:35.847261+00:00",
+    "hoffenheim x leverkusen": "2026-10-25T14:45:35.847261+00:00"
   },
   "USA": {
-    "bay fc vs angel city fc": "2026-10-25T00:46:20.428816+00:00"
+    "real madrid vs barca": "2026-10-25T14:45:39.577170+00:00",
+    "hoffenheim vs leverkusen": "2026-10-25T14:45:39.577170+00:00",
+    "madrid vs barca": "2026-10-25T14:45:39.577170+00:00"
   },
   "Mexico": {
-    "liverpool vs brighton": "2026-10-25T05:37:53.886946+00:00"
+    "man utd vs bournemouth": "2026-10-25T14:45:42.931586+00:00"
   },
   "Nigeria": {
-    "inter vs fiorentina": "2026-10-25T10:38:26.018609+00:00",
-    "crystal palace vs newcastle": "2026-10-25T10:38:26.018609+00:00"
+    "midtjylland vs lyngby": "2026-10-25T14:45:46.474404+00:00",
+    "manchester united f.c. vs afc bournemouth lineups": "2026-10-25T14:45:46.474404+00:00",
+    "hoffenheim vs leverkusen": "2026-10-25T14:45:46.474404+00:00",
+    "inter milan vs acf fiorentina standings": "2026-10-25T14:45:46.474404+00:00",
+    "genoa vs venezia": "2026-10-25T14:45:46.474404+00:00",
+    "palace vs newcastle": "2026-10-25T14:45:46.474404+00:00"
   },
   "Italy": {
-    "motogp": "2026-10-25T05:38:03.645366+00:00"
+    "genoa vs venezia": "2026-10-25T14:45:49.957190+00:00"
   },
   "Morocco": {
-    "rbny vs inter miami": "2026-10-25T00:46:34.486646+00:00"
+    "premier league": "2026-10-25T14:45:53.443644+00:00"
   },
   "Spain": {
     "mlb": "2026-10-25T05:38:11.093336+00:00",
     "motogp": "2026-10-25T05:38:11.093336+00:00"
   },
   "UK": {
-    "brewers vs rays": "2026-10-25T05:38:15.942965+00:00",
-    "motogp": "2026-10-25T05:38:15.942965+00:00",
-    "nba scores": "2026-10-25T05:38:15.942965+00:00"
+    "premier league": "2026-10-25T14:45:59.907464+00:00",
+    "celta vs betis": "2026-10-25T14:45:59.907464+00:00",
+    "birmingham city vs charlton": "2026-10-25T14:45:59.907464+00:00"
   },
   "Canada": {
-    "india vs zimbabwe": "2026-10-25T10:38:42.264466+00:00",
-    "england vs pakistan": "2026-10-25T10:38:42.264466+00:00",
-    "eng vs pak": "2026-10-25T10:38:42.264466+00:00",
-    "pak vs eng": "2026-10-25T10:38:42.264466+00:00"
+    "inter milan vs acf fiorentina standings": "2026-10-25T14:46:03.232370+00:00",
+    "hull vs brentford": "2026-10-25T14:46:03.232370+00:00",
+    "palace vs newcastle": "2026-10-25T14:46:03.232370+00:00"
   }
 }
