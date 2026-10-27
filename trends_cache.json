@@ -112,18 +112,19 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "ligue 1": "2026-10-26T21:18:22.168023+00:00"
+    "classificação do campeonato brasileiro": "2026-10-27T01:04:28.567257+00:00",
+    "brasileirao tabela": "2026-10-27T01:04:28.567257+00:00"
   },
   "USA": {
     "nfc north standings": "2026-10-25T23:45:35.707994+00:00",
     "nba league pass": "2026-10-25T23:45:35.707994+00:00"
   },
   "Mexico": {
-    "santa clara vs benfica": "2026-10-26T09:38:13.891213+00:00"
+    "dallas vs": "2026-10-27T01:04:35.275762+00:00",
+    "instituto vs": "2026-10-27T01:04:35.275762+00:00"
   },
   "Nigeria": {
-    "rizespor vs trabzonspor": "2026-10-26T16:26:36.350655+00:00",
-    "beşiktaş vs başakşehir": "2026-10-26T16:26:36.350655+00:00"
+    "flamengo vs atlético mineiro": "2026-10-27T01:04:39.654416+00:00"
   },
   "Italy": {
     "real madrid vs barcelona": "2026-10-25T18:04:57.758591+00:00"
@@ -132,13 +133,18 @@
     "fc barcelona vs real madrid timeline": "2026-10-25T23:45:49.129349+00:00"
   },
   "Spain": {
-    "ligue 1": "2026-10-26T21:18:42.074200+00:00"
+    "bundesliga": "2026-10-27T01:04:50.232744+00:00"
   },
   "UK": {
-    "c.d. santa clara vs benfica standings": "2026-10-26T21:18:45.313921+00:00"
+    "rays vs brewers": "2026-10-27T01:04:53.504800+00:00",
+    "valkyries vs dream": "2026-10-27T01:04:53.504800+00:00",
+    "thunder vs suns": "2026-10-27T01:04:53.504800+00:00",
+    "heat vs mavericks": "2026-10-27T01:04:53.504800+00:00",
+    "hornets vs wizards": "2026-10-27T01:04:53.504800+00:00",
+    "bundesliga": "2026-10-27T01:04:53.504800+00:00",
+    "eagles vs cowboys": "2026-10-27T01:04:53.504800+00:00"
   },
   "Canada": {
-    "beşiktaş vs başakşehir": "2026-10-26T16:26:53.334862+00:00",
-    "rizespor vs trabzonspor": "2026-10-26T16:26:53.334862+00:00"
+    "red wings vs oilers": "2026-10-27T01:04:57.072252+00:00"
   }
 }
