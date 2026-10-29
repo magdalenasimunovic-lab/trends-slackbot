@@ -112,22 +112,22 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "freiburg x wolfsburg": "2026-10-28T16:57:10.124865+00:00",
-    "paderborn 07 x vfb stuttgart": "2026-10-28T16:57:10.124865+00:00"
+    "brasileirao 2026": "2026-10-29T01:29:43.440581+00:00",
+    "serie a": "2026-10-29T01:29:43.440581+00:00"
   },
   "USA": {
-    "milan vs bologna": "2026-10-28T16:57:13.452143+00:00",
-    "paderborn vs vfb stuttgart": "2026-10-28T16:57:13.452143+00:00",
-    "freiburg vs wolfsburg": "2026-10-28T16:57:13.452143+00:00"
+    "maple leafs vs kraken": "2026-10-29T01:29:46.696559+00:00"
   },
   "Mexico": {
-    "copa de la liga de portugal": "2026-10-28T21:31:05.346490+00:00"
+    "world series": "2026-10-29T01:29:49.946013+00:00",
+    "toronto vs": "2026-10-29T01:29:49.946013+00:00"
   },
   "Nigeria": {
-    "chelsea vs": "2026-10-28T21:31:08.810924+00:00",
-    "hearts vs rangers": "2026-10-28T21:31:08.810924+00:00",
-    "porto vs académico de viseu": "2026-10-28T21:31:08.810924+00:00",
-    "celtic vs dundee united": "2026-10-28T21:31:08.810924+00:00"
+    "timberwolves vs warriors": "2026-10-29T01:29:53.383854+00:00",
+    "new york city vs atlanta united": "2026-10-29T01:29:53.383854+00:00",
+    "inter miami vs cincinnati": "2026-10-29T01:29:53.383854+00:00",
+    "santos vs palmeiras": "2026-10-29T01:29:53.383854+00:00",
+    "holstein kiel vs hoffenheim": "2026-10-29T01:29:53.383854+00:00"
   },
   "Italy": {
     "milan vs bologna": "2026-10-28T16:57:23.794057+00:00"
@@ -136,14 +136,20 @@
     "fleetwood vs arsenal": "2026-10-27T23:27:04.719319+00:00"
   },
   "Spain": {
-    "mlb": "2026-10-28T03:50:30.043352+00:00"
+    "nba hoy": "2026-10-29T01:30:03.739005+00:00"
   },
   "UK": {
-    "milan vs bologna": "2026-10-28T16:57:34.282869+00:00",
-    "paderborn vs vfb stuttgart": "2026-10-28T16:57:34.282869+00:00",
-    "freiburg vs wolfsburg": "2026-10-28T16:57:34.282869+00:00"
+    "jazz vs spurs": "2026-10-29T01:30:06.982453+00:00",
+    "nba standings": "2026-10-29T01:30:06.982453+00:00",
+    "bucks vs rockets": "2026-10-29T01:30:06.982453+00:00",
+    "raptors vs magic": "2026-10-29T01:30:06.982453+00:00",
+    "bulls vs knicks": "2026-10-29T01:30:06.982453+00:00",
+    "timberwolves vs warriors": "2026-10-29T01:30:06.982453+00:00",
+    "pistons vs hornets": "2026-10-29T01:30:06.982453+00:00"
   },
   "Canada": {
-    "hearts vs rangers": "2026-10-28T21:31:25.723428+00:00"
+    "nba standings": "2026-10-29T01:30:10.527422+00:00",
+    "orlando city vs chicago": "2026-10-29T01:30:10.527422+00:00",
+    "maple leafs vs kraken": "2026-10-29T01:30:10.527422+00:00"
   }
 }
