@@ -112,8 +112,9 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "paulistano x bauru": "2026-10-30T22:49:54.572410+00:00",
-    "sportivo trinidense x rubio ñu": "2026-10-30T22:49:54.572410+00:00"
+    "suns x nuggets": "2026-10-31T01:58:02.584183+00:00",
+    "corinthians x são paulo": "2026-10-31T01:58:02.584183+00:00",
+    "gp mexico f1 horarios": "2026-10-31T01:58:02.584183+00:00"
   },
   "USA": {
     "pistons vs nets": "2026-10-30T22:49:57.939437+00:00",
@@ -123,11 +124,10 @@
     "arch manning texas transfer rumors": "2026-10-30T22:49:57.939437+00:00"
   },
   "Mexico": {
-    "elche vs valencia": "2026-10-30T22:50:02.016268+00:00"
+    "milan vs inter": "2026-10-31T01:58:08.891385+00:00"
   },
   "Nigeria": {
-    "al shabab fc vs al-ahli saudi fc standings": "2026-10-30T22:50:05.464529+00:00",
-    "le havre ac vs psg standings": "2026-10-30T22:50:05.464529+00:00"
+    "76ers vs knicks": "2026-10-31T01:58:12.305183+00:00"
   },
   "Italy": {
     "f1 messico": "2026-10-30T18:57:37.319095+00:00"
@@ -139,10 +139,16 @@
     "le havre vs psg": "2026-10-30T18:57:44.570346+00:00"
   },
   "UK": {
-    "al-shabab vs al-ahli": "2026-10-30T18:57:48.086174+00:00"
+    "uae vs ind": "2026-10-31T01:58:25.518480+00:00",
+    "warriors vs lakers": "2026-10-31T01:58:25.518480+00:00",
+    "heat vs pacers": "2026-10-31T01:58:25.518480+00:00",
+    "raptors vs magic": "2026-10-31T01:58:25.518480+00:00",
+    "mavericks vs rockets": "2026-10-31T01:58:25.518480+00:00",
+    "timberwolves vs clippers": "2026-10-31T01:58:25.518480+00:00",
+    "nets vs pistons": "2026-10-31T01:58:25.518480+00:00"
   },
   "Canada": {
-    "knicks vs 76ers": "2026-10-30T22:50:22.307891+00:00",
-    "hornets vs wizards": "2026-10-30T22:50:22.307891+00:00"
+    "knicks vs 76ers match player stats": "2026-10-31T01:58:28.672324+00:00",
+    "nuggets vs suns": "2026-10-31T01:58:28.672324+00:00"
   }
 }
