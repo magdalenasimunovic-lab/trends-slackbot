@@ -112,25 +112,21 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "pacers x nets": "2026-11-01T21:38:46.692194+00:00",
-    "nashville sc x ny red bulls": "2026-11-01T21:38:46.692194+00:00",
-    "nascar": "2026-11-01T21:38:46.692194+00:00"
+    "warriors x clippers": "2026-11-02T01:13:09.609847+00:00"
   },
   "USA": {
-    "nfl defense rankings": "2026-11-01T17:35:14.647883+00:00",
-    "jets vs hurricanes": "2026-11-01T17:35:14.647883+00:00",
-    "titans vs bengals": "2026-11-01T17:35:14.647883+00:00",
-    "rams vs chargers": "2026-11-01T17:35:14.647883+00:00"
+    "raptors vs lakers": "2026-11-02T01:13:12.784467+00:00",
+    "minnesota vs lafc": "2026-11-02T01:13:12.784467+00:00"
   },
   "Mexico": {
-    "nfl": "2026-11-01T21:38:53.115653+00:00",
-    "nfl hoy": "2026-11-01T21:38:53.115653+00:00",
-    "dolphins vs patriots": "2026-11-01T21:38:53.115653+00:00"
+    "nfl standings": "2026-11-02T01:13:16.029033+00:00",
+    "nfl games": "2026-11-02T01:13:16.029033+00:00"
   },
   "Nigeria": {
-    "atlanta united vs toronto": "2026-11-01T21:38:56.436379+00:00",
-    "magic vs celtics": "2026-11-01T21:38:56.436379+00:00",
-    "braga vs famalicão": "2026-11-01T21:38:56.436379+00:00"
+    "new mexico united vs phoenix rising fc": "2026-11-02T01:13:19.232127+00:00",
+    "new england vs inter miami": "2026-11-02T01:13:19.232127+00:00",
+    "athletic bilbao vs real sociedad standings": "2026-11-02T01:13:19.232127+00:00",
+    "braga vs fc famalicao": "2026-11-02T01:13:19.232127+00:00"
   },
   "Italy": {
     "como vs venezia": "2026-11-01T11:38:35.859238+00:00"
@@ -143,10 +139,13 @@
     "formula 1": "2026-11-01T21:39:06.722601+00:00"
   },
   "UK": {
-    "lions vs vikings": "2026-11-01T17:35:35.227757+00:00",
-    "bills vs ravens": "2026-11-01T17:35:35.227757+00:00"
+    "warriors vs clippers": "2026-11-02T01:13:32.372415+00:00",
+    "commanders vs eagles": "2026-11-02T01:13:32.372415+00:00",
+    "new england vs inter miami": "2026-11-02T01:13:32.372415+00:00"
   },
   "Canada": {
-    "nets vs pacers": "2026-11-01T21:39:13.636401+00:00"
+    "clippers vs warriors": "2026-11-02T01:13:35.547003+00:00",
+    "eagles vs commanders": "2026-11-02T01:13:35.547003+00:00",
+    "senators vs ducks": "2026-11-02T01:13:35.547003+00:00"
   }
 }
