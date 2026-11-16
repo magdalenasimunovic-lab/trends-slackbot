@@ -112,7 +112,11 @@
     "toronto blue jays": "2026-03-25T11:29:49.685022+00:00"
   },
   "Brazil": {
-    "brasil x singapura": "2026-11-16T07:36:15.987648+00:00"
+    "alemanha x holanda": "2026-11-16T17:52:42.034999+00:00",
+    "lituânia x liechtenstein": "2026-11-16T17:52:42.034999+00:00",
+    "estônia x bulgária": "2026-11-16T17:52:42.034999+00:00",
+    "euro hoje": "2026-11-16T17:52:42.034999+00:00",
+    "islândia x luxemburgo": "2026-11-16T17:52:42.034999+00:00"
   },
   "USA": {
     "flames vs ducks": "2026-11-16T00:41:49.618277+00:00",
@@ -121,14 +125,17 @@
     "panthers vs stars": "2026-11-16T00:41:49.618277+00:00"
   },
   "Mexico": {
-    "islandia vs luxemburgo": "2026-11-16T07:36:22.331833+00:00",
-    "eslovenia vs": "2026-11-16T07:36:22.331833+00:00",
-    "estonia vs": "2026-11-16T07:36:22.331833+00:00",
-    "grecia vs": "2026-11-16T07:36:22.331833+00:00"
+    "benin vs": "2026-11-16T17:52:48.640846+00:00",
+    "andorra vs": "2026-11-16T17:52:48.640846+00:00",
+    "andorra vs azerbaiyán": "2026-11-16T17:52:48.640846+00:00",
+    "países bajos vs. grecia": "2026-11-16T17:52:48.640846+00:00"
   },
   "Nigeria": {
-    "kings vs thunder": "2026-11-16T07:36:25.574364+00:00",
-    "wizards vs rockets": "2026-11-16T07:36:25.574364+00:00"
+    "lithuania vs liechtenstein": "2026-11-16T17:52:52.082536+00:00",
+    "eritrea vs guinea": "2026-11-16T17:52:52.082536+00:00",
+    "iceland vs luxembourg": "2026-11-16T17:52:52.082536+00:00",
+    "central african republic vs benin": "2026-11-16T17:52:52.082536+00:00",
+    "estonia vs bulgaria": "2026-11-16T17:52:52.082536+00:00"
   },
   "Italy": {
     "netherlands vs greece": "2026-11-13T20:17:14.021089+00:00",
@@ -141,10 +148,12 @@
     "england vs australia": "2026-11-15T07:30:19.930053+00:00"
   },
   "UK": {
-    "ebenezer audience vs critic scores": "2026-11-16T00:42:08.951973+00:00"
+    "estonia vs bulgaria": "2026-11-16T17:53:05.751450+00:00",
+    "switzerland vs scotland": "2026-11-16T17:53:05.751450+00:00",
+    "germany vs netherlands": "2026-11-16T17:53:05.751450+00:00",
+    "lithuania vs liechtenstein": "2026-11-16T17:53:05.751450+00:00"
   },
   "Canada": {
-    "steelers vs bengals": "2026-11-16T00:42:12.220700+00:00",
-    "flames vs ducks": "2026-11-16T00:42:12.220700+00:00"
+    "iceland vs luxembourg": "2026-11-16T17:53:09.198261+00:00"
   }
 }
